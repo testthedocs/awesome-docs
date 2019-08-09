@@ -56,3 +56,4 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [MkDocs](https://www.mkdocs.org/)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [VuePress](https://vuepress.vuejs.org/)
+- [Monobase](https://github.com/framer/monobase)
