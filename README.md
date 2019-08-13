@@ -16,6 +16,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Browser Extensions](#browser-extensions)
 - [Browser Testing](#browser-testing)
 - [Hosting](#hosting)
+- [Style Guides](#style-guides)
 - [Screencast](#screencast)
 - [Screenshot](#screenshot)
 - [Site Generators](#site-generators)
@@ -36,6 +37,15 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Grammarly](https://www.grammarly.com/)
 - [LanguageTool](https://languagetool.org/)
+
+## Style Guides
+
+- [Google](https://developers.google.com/style/)
+- [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/)
+- [Mailchimp](https://styleguide.mailchimp.com/)
+- [Sprout](https://sproutsocial.com/seeds/writing/)
+- [Linode](https://www.linode.com/docs/linode-writers-formatting-guide/)
+- [DigitalOcean](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
 
 ## Screencast
 
