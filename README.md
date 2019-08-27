@@ -65,6 +65,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Docusaurus](https://docusaurus.io/)
 - [Docsify](https://docsify.js.org/)
 - [MkDocs](https://www.mkdocs.org/)
+- [Portray](https://github.com/timothycrosley/portray)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [VuePress](https://vuepress.vuejs.org/)
 - [Monobase](https://github.com/framer/monobase)
