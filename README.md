@@ -64,6 +64,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Asciidoctor](https://asciidoctor.org/)
 - [Docusaurus](https://docusaurus.io/)
 - [Docsify](https://docsify.js.org/)
+- [Docz](https://www.docz.site/)
 - [MkDocs](https://www.mkdocs.org/)
 - [Portray](https://github.com/timothycrosley/portray)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
