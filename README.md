@@ -43,6 +43,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Google](https://developers.google.com/style/)
 - [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [Mailchimp](https://styleguide.mailchimp.com/)
+- [Michigan State University](https://msu.edu/course/be/485/bewritingguideV2.0.pdf)
 - [Sprout](https://sproutsocial.com/seeds/writing/)
 - [Linode](https://www.linode.com/docs/linode-writers-formatting-guide/)
 - [DigitalOcean](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
