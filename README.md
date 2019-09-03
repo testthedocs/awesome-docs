@@ -20,6 +20,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Screencast](#screencast)
 - [Screenshot](#screenshot)
 - [Site Generators](#site-generators)
+- [Reading](#reading)
+- [Watching](#watching)
 
 ## Browser Testing
 
@@ -71,3 +73,12 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [VuePress](https://vuepress.vuejs.org/)
 - [Monobase](https://github.com/framer/monobase)
+
+## Reading
+
+- [Document Like a Scientist](https://noti.st/karissapeth/g3vUiw/document-like-a-scientist)
+- [Technical Documentation in Software Development](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
+
+## Watching
+
+- [SmartBear](https://www.youtube.com/channel/UC3iDZqrLWQZ4dh8zn2rU9hA)
