@@ -15,6 +15,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Browser Extensions](#browser-extensions)
 - [Browser Testing](#browser-testing)
+- [GitHub Actions](#github-actions)
 - [Hosting](#hosting)
 - [Style Guides](#style-guides)
 - [Screencast](#screencast)
@@ -28,6 +29,12 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Nightwatch.js](https://nightwatchjs.org/)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Selenium](https://www.seleniumhq.org/)
+
+## GitHub Actions
+
+- [Spellcheck Action](https://github.com/marketplace/actions/spellcheck-action)
+- [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
+- [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
 
 ## Hosting
 
