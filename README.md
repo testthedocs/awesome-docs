@@ -21,6 +21,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Screencast](#screencast)
 - [Screenshot](#screenshot)
 - [Site Generators](#site-generators)
+- [Spelling](#spelling)
 - [Reading](#reading)
 - [Watching](#watching)
 
@@ -82,6 +83,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [VuePress](https://vuepress.vuejs.org/)
 - [Monobase](https://github.com/framer/monobase)
+
+## Spelling
+
+- [PySpelling](https://facelessuser.github.io/pyspelling/)
 
 ## Reading
 
