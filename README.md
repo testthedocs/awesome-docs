@@ -94,6 +94,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Document Like a Scientist](https://noti.st/karissapeth/g3vUiw/document-like-a-scientist)
 - [Technical Documentation in Software Development](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
+- [Free Resources to Learn Technical Writing](https://medium.com/@ann.green/free-resources-to-learn-technical-writing-7d642020cda9)
 
 ## Watching
 
