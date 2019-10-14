@@ -96,6 +96,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Technical Documentation in Software Development](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
 - [Free Resources to Learn Technical Writing](https://medium.com/@ann.green/free-resources-to-learn-technical-writing-7d642020cda9)
 - [Writing great documentation](https://medium.com/@episod/writing-great-documentation-44d90367115a)
+- [Scottydocs.com](https://scottydocs.com/)
 
 ## Watching
 
