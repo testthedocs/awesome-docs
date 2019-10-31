@@ -97,6 +97,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Free Resources to Learn Technical Writing](https://medium.com/@ann.green/free-resources-to-learn-technical-writing-7d642020cda9)
 - [Writing great documentation](https://medium.com/@episod/writing-great-documentation-44d90367115a)
 - [Scottydocs.com](https://scottydocs.com/)
+- [Great Developer Documentation Examples](https://everydeveloper.com/developer-documentation-examples/)
 
 ## Watching
 
