@@ -47,6 +47,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
 - [TOC Generator](https://github.com/technote-space/toc-generator)
+- [Alex Action](https://github.com/theashraf/alex-action)
 
 ## Hosting
 
