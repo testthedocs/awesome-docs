@@ -108,6 +108,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Writing great documentation](https://medium.com/@episod/writing-great-documentation-44d90367115a)
 - [Scottydocs.com](https://scottydocs.com/)
 - [Great Developer Documentation Examples](https://everydeveloper.com/developer-documentation-examples/)
+- [API Handyman](https://apihandyman.io/)
 
 ## Watching
 
