@@ -16,6 +16,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [API](#api)
 - [Browser Extensions](#browser-extensions)
 - [Browser Testing](#browser-testing)
+- [Editor](#editor)
 - [GitHub Actions](#github-actions)
 - [Hosting](#hosting)
 - [Style Guides](#style-guides)
@@ -39,6 +40,11 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Nightwatch.js](https://nightwatchjs.org/)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Selenium](https://www.seleniumhq.org/)
+
+## Editor
+
+- [Mark Text](https://marktext.app/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## GitHub Actions
 
