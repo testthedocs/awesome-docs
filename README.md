@@ -89,6 +89,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Docusaurus](https://docusaurus.io/)
 - [Docsify](https://docsify.js.org/)
 - [Docz](https://www.docz.site/)
+- [Docsite](https://github.com/sourcegraph/docsite)
 - [Gridsome](https://gridsome.org)
 - [MkDocs](https://www.mkdocs.org/)
 - [Portray](https://github.com/timothycrosley/portray)
