@@ -102,6 +102,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [VuePress](https://vuepress.vuejs.org/)
 - [Monobase](https://github.com/framer/monobase)
+- [Zola](https://www.getzola.org/)
 
 ## Spelling
 
