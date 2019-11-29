@@ -103,6 +103,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [VuePress](https://vuepress.vuejs.org/)
 - [Monobase](https://github.com/framer/monobase)
 - [Zola](https://www.getzola.org/)
+- [MDBook](https://github.com/rust-lang/mdBook)
 
 ## Spelling
 
