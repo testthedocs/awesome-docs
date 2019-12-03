@@ -126,6 +126,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [API Handyman](https://apihandyman.io/)
 - [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
 - [Grammarly Blog](https://www.grammarly.com/blog/)
+- [Setting up the alex.js language linter in your project](https://dev.to/unmock/setting-up-the-alex-js-language-linter-in-your-project-3bpl)
 
 ## Watching
 
