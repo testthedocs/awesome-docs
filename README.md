@@ -19,6 +19,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Editor](#editor)
 - [GitHub Actions](#github-actions)
 - [Hosting](#hosting)
+- [Quality Assurance](#quality-assurance)
 - [Style Guides](#style-guides)
 - [Screencast](#screencast)
 - [Screenshot](#screenshot)
@@ -34,6 +35,11 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Swagger](https://swagger.io/)
 - [Stoplight Studio](https://stoplight.io/studio/)
 - [ReDoc](https://redocly.github.io/redoc/)
+
+## Browser Extensions
+
+- [Grammarly](https://www.grammarly.com/)
+- [LanguageTool](https://languagetool.org/)
 
 ## Browser Testing
 
@@ -61,10 +67,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Netlify](https://www.netlify.com/)
 - [Read The Docs](https://readthedocs.org/)
 
-## Browser Extensions
+## Quality Assurance
 
-- [Grammarly](https://www.grammarly.com/)
-- [LanguageTool](https://languagetool.org/)
+- [HtmlTest](https://github.com/wjdp/htmltest)
 
 ## Style Guides
 
