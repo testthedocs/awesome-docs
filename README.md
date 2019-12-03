@@ -70,6 +70,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Quality Assurance
 
 - [HtmlTest](https://github.com/wjdp/htmltest)
+- [Alex](https://github.com/get-alex/alex)
 
 ## Style Guides
 
