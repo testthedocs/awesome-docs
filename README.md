@@ -110,6 +110,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Monobase](https://github.com/framer/monobase)
 - [Zola](https://www.getzola.org/)
 - [MDBook](https://github.com/rust-lang/mdBook)
+- [MDX-GO](https://github.com/jxnblk/mdx-go0)
 
 ## Spelling
 
