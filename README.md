@@ -83,6 +83,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [DigitalOcean](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
 - [United Nations](http://www.dgacm.org/editorialmanual/)
+- [Splunk](https://docs.splunk.com/Documentation/StyleGuide/latest/StyleGuide/Howtouse)
 
 ## Screencast
 
