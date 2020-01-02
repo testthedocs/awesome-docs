@@ -13,6 +13,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Contents
 
+- [Accessibility](#accessibility)
 - [API](#api)
 - [Browser Extensions](#browser-extensions)
 - [Browser Testing](#browser-testing)
@@ -27,6 +28,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Spelling](#spelling)
 - [Reading](#reading)
 - [Watching](#watching)
+
+## Accessibility
+
+- [Pa11y](https://pa11y.org/)
 
 ## API
 
