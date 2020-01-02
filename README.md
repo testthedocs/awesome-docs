@@ -60,6 +60,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
 - [TOC Generator](https://github.com/technote-space/toc-generator)
 - [Alex Action](https://github.com/theashraf/alex-action)
+- [Vale](https://github.com/errata-ai/vale-action)
 
 ## Hosting
 
