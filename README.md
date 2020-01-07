@@ -31,6 +31,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Accessibility
 
+- [AXE-CLI](https://github.com/dequelabs/axe-cli)
 - [Pa11y](https://pa11y.org/)
 
 ## API
@@ -135,6 +136,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
 - [Grammarly Blog](https://www.grammarly.com/blog/)
 - [Setting up the alex.js language linter in your project](https://dev.to/unmock/setting-up-the-alex-js-language-linter-in-your-project-3bpl)
+- [Automating Your Accessibility Tests](https://24ways.org/2017/automating-your-accessibility-tests)
 
 ## Watching
 
