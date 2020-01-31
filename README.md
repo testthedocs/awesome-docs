@@ -118,6 +118,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Antora](https://antora.org/)
 - [Asciidoctor](https://asciidoctor.org/)
 - [Docusaurus](https://docusaurus.io/)
+- [DocFX](https://dotnet.github.io/docfx/)
 - [Docsify](https://docsify.js.org/)
 - [Docz](https://www.docz.site/)
 - [Docsite](https://github.com/sourcegraph/docsite)
