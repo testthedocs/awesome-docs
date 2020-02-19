@@ -102,6 +102,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
 - [United Nations](http://www.dgacm.org/editorialmanual/)
 - [Splunk](https://docs.splunk.com/Documentation/StyleGuide/latest/StyleGuide/Howtouse)
+- [Monzo](https://monzo.com/tone-of-voice/)
 
 ## Screencast
 
