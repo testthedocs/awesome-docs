@@ -44,6 +44,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Swagger](https://swagger.io/)
 - [Stoplight Studio](https://stoplight.io/studio/)
 - [ReDoc](https://redocly.github.io/redoc/)
+- [Speccy](https://github.com/wework/speccy)
 
 ## Browser Extensions
 
