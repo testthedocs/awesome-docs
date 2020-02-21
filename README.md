@@ -27,6 +27,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Screencast](#screencast)
 - [Screenshot](#screenshot)
 - [Site Generators](#site-generators)
+- [Sphinx Extensions](#sphinx-extensions)
 - [Spelling](#spelling)
 - [Reading](#reading)
 - [Viewer](#viewer)
@@ -133,6 +134,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Zola](https://www.getzola.org/)
 - [MDBook](https://github.com/rust-lang/mdBook)
 - [MDX-GO](https://github.com/jxnblk/mdx-go)
+
+## Sphinx Extensions
+
+- [Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions)
 
 ## Spelling
 
