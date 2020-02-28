@@ -46,6 +46,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Swagger](https://swagger.io/)
 - [Stoplight Studio](https://stoplight.io/studio/)
 - [ReDoc](https://redocly.github.io/redoc/)
+- [Redoc-Editor](https://github.com/pointnet/redoc-editor)
+- [OpenAPI 3 CLI](https://github.com/Redocly/openapi-cli)
+- [Spectral](https://stoplight.io/open-source/spectral/)
 - [Speccy](https://github.com/wework/speccy)
 
 ## Browser Extensions
