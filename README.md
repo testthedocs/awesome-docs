@@ -27,6 +27,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Screencast](#screencast)
 - [Screenshot](#screenshot)
 - [Site Generators](#site-generators)
+- [MkDocs Extensions](#mkd-extensions)
 - [Sphinx Extensions](#sphinx-extensions)
 - [Spelling](#spelling)
 - [Reading](#reading)
@@ -134,6 +135,11 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Zola](https://www.getzola.org/)
 - [MDBook](https://github.com/rust-lang/mdBook)
 - [MDX-GO](https://github.com/jxnblk/mdx-go)
+
+## MkDocs Extensions
+
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
+- [Tooltipster Links Plugin](https://github.com/midnightprioriem/mkdocs-tooltipster-links-plugin)
 
 ## Sphinx Extensions
 
