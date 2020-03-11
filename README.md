@@ -109,6 +109,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [United Nations](http://www.dgacm.org/editorialmanual/)
 - [Splunk](https://docs.splunk.com/Documentation/StyleGuide/latest/StyleGuide/Howtouse)
 - [Monzo](https://monzo.com/tone-of-voice/)
+- [GitLab](https://design.gitlab.com/content/voice-tone/)
 
 ## Screencast
 
