@@ -115,6 +115,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Asciinema](https://asciinema.org/)
 - [Peek](https://github.com/phw/peek)
+- [Kap](https://github.com/wulkano/kap) (macOS)
 
 ## Screenshot
 
