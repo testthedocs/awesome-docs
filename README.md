@@ -91,6 +91,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Mockup
 
 - [Imagineui](https://imagineui.github.io/en/)
+- [Animockup](https://github.com/alyssaxuu/animockup)
 
 ## Quality Assurance
 
