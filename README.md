@@ -169,6 +169,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Grammarly Blog](https://www.grammarly.com/blog/)
 - [Setting up the alex.js language linter in your project](https://dev.to/unmock/setting-up-the-alex-js-language-linter-in-your-project-3bpl)
 - [Automating Your Accessibility Tests](https://24ways.org/2017/automating-your-accessibility-tests)
+- [How to Design Headings that Work in 10 Easy Steps](https://www.nanatoo.com/blog/how-to-design-headings-that-work-in-10-easy-steps)
 
 ## Viewer
 
