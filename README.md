@@ -112,6 +112,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Splunk](https://docs.splunk.com/Documentation/StyleGuide/latest/StyleGuide/Howtouse)
 - [Monzo](https://monzo.com/tone-of-voice/)
 - [GitLab](https://design.gitlab.com/content/voice-tone/)
+- [The Writer](http://www.thewriter.com/what-we-think/style-guide/)
 
 ## Screencast
 
