@@ -155,6 +155,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Sphinx Extensions
 
 - [Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions)
+- [MyST](https://myst-parser.readthedocs.io/en/latest/using/intro.html)
+- [The Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/en/latest/)
 
 ## Spelling
 
