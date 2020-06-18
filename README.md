@@ -18,6 +18,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Browser Extensions](#browser-extensions)
 - [Browser Testing](#browser-testing)
 - [Code Testing](#code-testing)
+- [Collaboration](#collaboration)
 - [Editor](#editor)
 - [GitHub Actions](#github-actions)
 - [Hosting](#hosting)
@@ -65,6 +66,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Code Testing
 
 - [Testing Markdown code examples](https://staticschool.com/blog/testing-markdown-code-examples/)
+
+## Collaboration
+
+- [Draft](https://draftin.com/)
 
 ## Editor
 
