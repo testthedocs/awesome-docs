@@ -120,6 +120,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Monzo](https://monzo.com/tone-of-voice/)
 - [GitLab](https://design.gitlab.com/content/voice-tone/)
 - [The Writer](http://www.thewriter.com/what-we-think/style-guide/)
+- [Federal (US) plain language guidelines](https://plainlanguage.gov/guidelines/)
 
 ## Screencast
 
