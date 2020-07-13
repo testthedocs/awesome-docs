@@ -121,6 +121,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [GitLab](https://design.gitlab.com/content/voice-tone/)
 - [The Writer](http://www.thewriter.com/what-we-think/style-guide/)
 - [Federal (US) plain language guidelines](https://plainlanguage.gov/guidelines/)
+- [SUSE](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
+- [18F](https://content-guide.18f.gov/)
 
 ## Screencast
 
