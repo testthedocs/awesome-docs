@@ -123,6 +123,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Federal (US) plain language guidelines](https://plainlanguage.gov/guidelines/)
 - [SUSE](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [18F](https://content-guide.18f.gov/)
+- [Rackspace](https://developer.rackspace.com/docs/style-guide/writing/)
 
 ## Screencast
 
