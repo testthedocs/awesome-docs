@@ -124,6 +124,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [SUSE](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [18F](https://content-guide.18f.gov/)
 - [Rackspace](https://developer.rackspace.com/docs/style-guide/writing/)
+- [Apple Style Guide](https://help.apple.com/applestyleguide/)
+- [Red Hat Style Guide](https://stylepedia.net/style/)
+
 
 ## Screencast
 
