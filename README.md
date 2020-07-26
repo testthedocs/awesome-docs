@@ -189,6 +189,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Automating Your Accessibility Tests](https://24ways.org/2017/automating-your-accessibility-tests)
 - [How to Design Headings that Work in 10 Easy Steps](https://www.nanatoo.com/blog/how-to-design-headings-that-work-in-10-easy-steps)
 - [Kayce](https://kayce.basqu.es/blog)
+- [How to write technical posts](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
 
 ## Viewer
 
