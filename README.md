@@ -191,6 +191,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [How to Design Headings that Work in 10 Easy Steps](https://www.nanatoo.com/blog/how-to-design-headings-that-work-in-10-easy-steps)
 - [Kayce](https://kayce.basqu.es/blog)
 - [How to write technical posts](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
+- [Become a technical writer](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 
 ## Viewer
 
