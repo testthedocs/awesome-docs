@@ -98,6 +98,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Imagineui](https://imagineui.github.io/en/)
 - [Animockup](https://github.com/alyssaxuu/animockup)
 - [Markmap](https://markmap.js.org/)
+- [Excalidraw](https://excalidraw.com/)
 
 ## Quality Assurance
 
