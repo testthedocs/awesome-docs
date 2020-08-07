@@ -127,6 +127,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Rackspace](https://developer.rackspace.com/docs/style-guide/writing/)
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
 - [Red Hat Style Guide](https://stylepedia.net/style/)
+- [The essential guide to conscious language](https://consciousstyleguide.com/)
+- [Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
 
 
 ## Screencast
