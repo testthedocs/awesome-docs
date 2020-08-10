@@ -31,6 +31,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [MkDocs Extensions](#mkd-extensions)
 - [Sphinx Extensions](#sphinx-extensions)
 - [Spelling](#spelling)
+- [Tool Collections](#tool-collections)
 - [Reading](#reading)
 - [Viewer](#viewer)
 - [Watching](#watching)
@@ -176,6 +177,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Spelling
 
 - [PySpelling](https://facelessuser.github.io/pyspelling/)
+
+## Tool Collections
+
+- [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools)
 
 ## Reading
 
