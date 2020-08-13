@@ -181,6 +181,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Tool Collections
 
 - [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools)
+- [Driver.js](https://github.com/kamranahmedse/driver.js)
+- [Shepherd](https://github.com/shipshapecode/shepherd)
 
 ## Reading
 
