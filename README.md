@@ -163,6 +163,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [MDBook](https://github.com/rust-lang/mdBook)
 - [MDX-GO](https://github.com/jxnblk/mdx-go)
 - [Gatsby Docs Kit](https://github.com/brainhubeu/gatsby-docs-kit)
+- [Document Node](https://documentnode.io/)
 
 ## MkDocs Extensions
 
