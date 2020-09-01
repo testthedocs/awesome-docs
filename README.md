@@ -106,6 +106,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [HtmlTest](https://github.com/wjdp/htmltest)
 - [Alex](https://github.com/get-alex/alex)
 - [brok](https://github.com/smallhadroncollider/brok)
+- [Readable](https://www.webfx.com/tools/read-able/)
 
 ## Style Guides
 
