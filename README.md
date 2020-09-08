@@ -139,6 +139,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Peek](https://github.com/phw/peek)
 - [Kap](https://github.com/wulkano/kap) (macOS)
 - [Editly](https://github.com/mifi/editly)
+- [Codio](https://present.readthedocs.io/en/latest/codio.html)
 
 ## Screenshot
 
