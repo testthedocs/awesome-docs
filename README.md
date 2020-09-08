@@ -205,6 +205,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [How to write technical posts](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
 - [Become a technical writer](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 - [API Knowledge](https://postman-toolboxes.github.io/api-knowledge/)
+- [Mastering cURL](https://dev.to/mkinoshita12/mastering-curl-going-from-junior-to-senior-level-debugging-skills-5d80)
 
 ## Viewer
 
