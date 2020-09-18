@@ -110,6 +110,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Style Guides
 
+- [Website Style Guide Resources](http://styleguides.io/)
 - [Google](https://developers.google.com/style/)
 - [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [Mailchimp](https://styleguide.mailchimp.com/)
