@@ -210,6 +210,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [API Knowledge](https://postman-toolboxes.github.io/api-knowledge/)
 - [Mastering cURL](https://dev.to/mkinoshita12/mastering-curl-going-from-junior-to-senior-level-debugging-skills-5d80)
 - [User Guide Template](https://clickhelp.com/clickhelp-technical-writing-blog/user-guide-template/)
+- [Google - Technical Writing Courses](https://developers.google.com/tech-writing)
 
 ## Viewer
 
