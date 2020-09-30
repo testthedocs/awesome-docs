@@ -211,6 +211,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Mastering cURL](https://dev.to/mkinoshita12/mastering-curl-going-from-junior-to-senior-level-debugging-skills-5d80)
 - [User Guide Template](https://clickhelp.com/clickhelp-technical-writing-blog/user-guide-template/)
 - [Google - Technical Writing Courses](https://developers.google.com/tech-writing)
+- [Let's Get Intentional About Documentation](https://counting.substack.com/p/lets-get-intentional-about-documentation)
 
 ## Viewer
 
