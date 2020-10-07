@@ -40,6 +40,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [AXE-CLI](https://github.com/dequelabs/axe-cli)
 - [Pa11y](https://pa11y.org/)
+- [Lumberjack](https://github.com/JakePartusch/lumberjack)
+- [Contrastchecker](https://webaim.org/resources/contrastchecker/)
 
 ## API
 
