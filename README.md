@@ -42,6 +42,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Pa11y](https://pa11y.org/)
 - [Lumberjack](https://github.com/JakePartusch/lumberjack)
 - [Contrastchecker](https://webaim.org/resources/contrastchecker/)
+- [Image Alt text best practices](https://support.siteimprove.com/hc/en-gb/articles/115000013031-Accessibility-Image-Alt-text-best-practices)
+
 
 ## API
 
