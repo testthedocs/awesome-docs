@@ -28,8 +28,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Screencast](#screencast)
 - [Screenshot](#screenshot)
 - [Site Generators](#site-generators)
-- [MkDocs Extensions](#mkd-extensions)
-- [Sphinx Extensions](#sphinx-extensions)
+  - [MkDocs Extensions](#mkd-extensions)
+  - [Sphinx Extensions](#sphinx-extensions)
+  - [Sphinx Themes](#sphinx-themes)
 - [Spelling](#spelling)
 - [Tool Collections](#tool-collections)
 - [Reading](#reading)
@@ -172,16 +173,21 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [MDX-GO](https://github.com/jxnblk/mdx-go)
 - [Gatsby Docs Kit](https://github.com/brainhubeu/gatsby-docs-kit)
 - [Document Node](https://documentnode.io/)
+- [RcPress](https://github.com/YvesCoding/rcpress)
 
-## MkDocs Extensions
+### MkDocs Extensions
 
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 - [Tooltipster Links Plugin](https://github.com/midnightprioriem/mkdocs-tooltipster-links-plugin)
 
-## Sphinx Extensions
+### Sphinx Extensions
 
 - [Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions)
 - [MyST](https://myst-parser.readthedocs.io/en/latest/using/intro.html)
+
+### Sphinx Themes
+
+- [Sphinx Themes](https://sphinx-themes.github.io/sphinx-themes.org/)
 - [The Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/en/latest/)
 
 ## Spelling
