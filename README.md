@@ -222,6 +222,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [User Guide Template](https://clickhelp.com/clickhelp-technical-writing-blog/user-guide-template/)
 - [Google - Technical Writing Courses](https://developers.google.com/tech-writing)
 - [Let's Get Intentional About Documentation](https://counting.substack.com/p/lets-get-intentional-about-documentation)
+- [Awesome Documentation](https://github.com/vipulgupta2048/awesome-documentation)
 
 ## Viewer
 
