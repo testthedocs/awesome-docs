@@ -223,6 +223,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Google - Technical Writing Courses](https://developers.google.com/tech-writing)
 - [Let's Get Intentional About Documentation](https://counting.substack.com/p/lets-get-intentional-about-documentation)
 - [Awesome Documentation](https://github.com/vipulgupta2048/awesome-documentation)
+- [Writing Technical Stuff for Non-Technical Readers](https://quickfix.es/2020/10/the-baseline/)
 
 ## Viewer
 
