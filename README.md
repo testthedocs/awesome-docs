@@ -148,6 +148,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Editly](https://github.com/mifi/editly)
 - [Codio](https://present.readthedocs.io/en/latest/codio.html)
 - [Terminalizer](https://github.com/faressoft/terminalizer)
+- [Screenity](https://github.com/alyssaxuu/screenity)
 
 ## Screenshot
 
