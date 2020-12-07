@@ -139,6 +139,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
 - [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
 - [Accessibility | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [CLI Guidelines](https://clig.dev/)
 
 ## Screencast
 
