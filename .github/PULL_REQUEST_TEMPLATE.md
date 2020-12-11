@@ -10,9 +10,6 @@ Please check if what you want to add to `awesome-docs` list meets [quality stand
 - [ ] I have added my package in alphabetical order.
 - [ ] I have an appropriate description with correct grammar.
 - [ ] I know that this package was not listed before.
-- [ ] I have added godoc link to the repo and to my pull request.
-- [ ] I have added coverage service link to the repo and to my pull request.
-- [ ] I have added goreportcard link to the repo and to my pull request.
 - [ ] I have read [Contribution guidelines](https://github.com/testthedocs/awesome-docs/blob/master/CONTRIBUTING.md#contribution-guidelines), [maintainers note](https://github.com/testthedocs/awesome-docs/blob/master/CONTRIBUTING.md#maintainers) and [Quality standard](https://github.com/testthedocs/awesome-docs/blob/master/CONTRIBUTING.md#quality-standard).
 
 Thanks for your PR, you're awesome! :+1:
