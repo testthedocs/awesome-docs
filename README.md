@@ -166,6 +166,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Docz](https://www.docz.site/)
 - [Docsite](https://github.com/sourcegraph/docsite)
 - [Gridsome](https://gridsome.org)
+- [Log4brains](https://github.com/thomvaill/log4brains)
 - [MkDocs](https://www.mkdocs.org/)
 - [Portray](https://github.com/timothycrosley/portray)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
