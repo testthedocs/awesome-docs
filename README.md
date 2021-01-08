@@ -193,6 +193,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Sphinx Themes](https://sphinx-themes.github.io/sphinx-themes.org/)
 - [The Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/en/latest/)
+- [Furo](https://github.com/pradyunsg/furo)
 
 ## Spelling
 
