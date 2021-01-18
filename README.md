@@ -57,6 +57,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [OpenAPI 3 CLI](https://github.com/Redocly/openapi-cli)
 - [Spectral](https://stoplight.io/open-source/spectral/)
 - [Speccy](https://github.com/wework/speccy)
+- [swaggerui](https://github.com/flowchartsman/swaggerui)
 
 ## Browser Extensions
 
