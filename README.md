@@ -58,6 +58,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Spectral](https://stoplight.io/open-source/spectral/)
 - [Speccy](https://github.com/wework/speccy)
 - [swaggerui](https://github.com/flowchartsman/swaggerui)
+- [widdershins](https://github.com/Mermade/widdershins)
+- [RapiDoc](https://mrin9.github.io/RapiDoc/index.html)
 
 ## Browser Extensions
 
