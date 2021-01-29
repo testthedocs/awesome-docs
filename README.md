@@ -143,6 +143,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
 - [Accessibility | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [CLI Guidelines](https://clig.dev/)
+- [Human words for technical docs](https://coda.io/@dave-connis/human-words-for-technical-docs)
 
 ## Screencast
 
