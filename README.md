@@ -140,6 +140,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Red Hat Style Guide](https://stylepedia.net/style/)
 - [The essential guide to conscious language](https://consciousstyleguide.com/)
 - [Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
+- [GitHub](https://github.com/github/docs/blob/main/contributing/content-style-guide.md#content-style-guide-for-github-docs-)
 - [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
 - [Accessibility | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [CLI Guidelines](https://clig.dev/)
