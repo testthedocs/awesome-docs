@@ -34,6 +34,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Spelling](#spelling)
 - [Tool Collections](#tool-collections)
 - [Reading](#reading)
+- [User Behavior Analytics](#user-behavior-analytics)
 - [Viewer](#viewer)
 - [Watching](#watching)
 
@@ -235,6 +236,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Awesome Documentation](https://github.com/vipulgupta2048/awesome-documentation)
 - [Writing Technical Stuff for Non-Technical Readers](https://quickfix.es/2020/10/the-baseline/)
 - [A Guide to Creating Personas](https://marvelapp.com/blog/creating-personas/)
+
+## User Behavior Analytics
+
+- [Clarity](https://clarity.microsoft.com/)
 
 ## Viewer
 
