@@ -214,6 +214,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Shepherd](https://github.com/shipshapecode/shepherd)
 - [Squoosh](https://squoosh.app/)
 - [Table Tag Generator](https://tabletag.net/)
+- [Irregardless](https://irregardless.ly/)
 
 ## Reading
 
