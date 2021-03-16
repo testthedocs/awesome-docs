@@ -215,6 +215,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Squoosh](https://squoosh.app/)
 - [Table Tag Generator](https://tabletag.net/)
 - [Irregardless](https://irregardless.ly/)
+- [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 
 ## Reading
 
