@@ -20,6 +20,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Code Testing](#code-testing)
 - [Collaboration](#collaboration)
 - [Editor](#editor)
+- [Feedback](#feedback)
 - [GitHub Actions](#github-actions)
 - [Hosting](#hosting)
 - [Mockup](#mockup)
@@ -86,6 +87,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Mark Text](https://marktext.app/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [HackMD](https://hackmd.io/) (Markdown Collaboration)
+
+## Feedback
+
+- [Papercups](https://github.com/papercups-io/papercups)
 
 ## GitHub Actions
 
