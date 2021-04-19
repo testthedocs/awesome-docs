@@ -201,6 +201,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions)
 - [MyST](https://myst-parser.readthedocs.io/en/latest/using/intro.html)
+- [consoletest](https://github.com/intel/dffml/blob/master/dffml/util/testing/consoletest/README.md)
 
 ### Sphinx Themes
 
