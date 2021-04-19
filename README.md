@@ -223,6 +223,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Irregardless](https://irregardless.ly/)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 - [rundoc](https://gitlab.com/nul.one/rundoc)
+- [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
 
 ## Reading
 
