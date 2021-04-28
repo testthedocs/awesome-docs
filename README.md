@@ -154,6 +154,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [CLI Guidelines](https://clig.dev/)
 - [Human words for technical docs](https://coda.io/@dave-connis/human-words-for-technical-docs)
 - [Write The Docs](https://www.writethedocs.org/guide/writing/style-guides/)
+
 ## Screencast
 
 - [Asciinema](https://asciinema.org/)
@@ -206,7 +207,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ### Sphinx Themes
 
-- [Sphinx Themes](https://sphinx-themes.github.io/sphinx-themes.org/)
+- [Sphinx Themes](https://sphinx-themes.org/)
 - [The Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/en/latest/)
 - [Furo](https://github.com/pradyunsg/furo)
 
