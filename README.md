@@ -229,6 +229,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [rstcheck](https://github.com/myint/rstcheck)
 - [readme.so](https://readme.so/)
 - [Draft](https://draftin.com/)
+- [Pocket Marketing List](https://github.com/rubymorillo/pocket-marketing-tech-list)
 
 ## Reading
 
