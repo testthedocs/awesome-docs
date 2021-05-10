@@ -256,6 +256,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Awesome Documentation](https://github.com/vipulgupta2048/awesome-documentation)
 - [Writing Technical Stuff for Non-Technical Readers](https://quickfix.es/2020/10/the-baseline/)
 - [A Guide to Creating Personas](https://marvelapp.com/blog/creating-personas/)
+- [Why does inclusive language matter](https://writer.com/inclusion-glossary/)
 
 ## User Behavior Analytics
 
