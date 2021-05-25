@@ -63,6 +63,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [widdershins](https://github.com/Mermade/widdershins)
 - [RapiDoc](https://mrin9.github.io/RapiDoc/index.html)
 - [json-schema-sensitivity-checker](https://github.com/cbetta/json-schema-sensitivity-checker)
+- [API Guidelines](https://dret.github.io/guidelines/)
 
 ## Browser Extensions
 
