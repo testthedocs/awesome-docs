@@ -196,6 +196,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [RcPress](https://github.com/YvesCoding/rcpress)
 - [11ty](https://www.11ty.dev/)
 
+### Hugo Extensions
+
+- [Hugo modules](https://discourse.gohugo.io/t/hugo-modules-for-dummies/20758/8)
+
 ### MkDocs Extensions
 
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
