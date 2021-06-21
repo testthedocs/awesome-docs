@@ -38,6 +38,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [User Behavior Analytics](#user-behavior-analytics)
 - [Viewer](#viewer)
 - [Watching](#watching)
+- [Writing](#writing)
 
 ## Accessibility
 
@@ -277,3 +278,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Watching
 
 - [SmartBear](https://www.youtube.com/channel/UC3iDZqrLWQZ4dh8zn2rU9hA)
+
+## Writing
+
+- [How to write a README](https://www.redhat.com/sysadmin/how-write-readme)
+- [How to write a basic how-to](https://www.redhat.com/sysadmin/howto-write-howto)
