@@ -149,6 +149,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Rackspace](https://developer.rackspace.com/docs/style-guide/writing/)
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
 - [Red Hat Style Guide](https://stylepedia.net/style/)
+- [Red Hat Guidelines](https://redhat-documentation.github.io/)
 - [The essential guide to conscious language](https://consciousstyleguide.com/)
 - [Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
 - [GitHub](https://github.com/github/docs/blob/main/contributing/content-style-guide.md#content-style-guide-for-github-docs-)
