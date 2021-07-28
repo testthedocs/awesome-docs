@@ -105,6 +105,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [TOC Generator](https://github.com/technote-space/toc-generator)
 - [Alex Action](https://github.com/theashraf/alex-action)
 - [Vale](https://github.com/errata-ai/vale-action)
+- [TODO to Issue Action](https://github.com/alstr/todo-to-issue-action)
 
 ## Hosting
 
