@@ -270,6 +270,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [A Guide to Creating Personas](https://marvelapp.com/blog/creating-personas/)
 - [Why does inclusive language matter](https://writer.com/inclusion-glossary/)
 - [Maybe it’s time we re-think docs](https://kathkorevec.medium.com/building-a-better-place-for-docs-197f92765409)
+- [Write good examples by starting with real code](https://jvns.ca/blog/2021/07/08/writing-great-examples/)
 
 ## User Behavior Analytics
 
