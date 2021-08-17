@@ -66,6 +66,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [json-schema-sensitivity-checker](https://github.com/cbetta/json-schema-sensitivity-checker)
 - [API Guidelines](https://dret.github.io/guidelines/)
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
+- [oas](https://openap.is/)
 
 ## Browser Extensions
 
