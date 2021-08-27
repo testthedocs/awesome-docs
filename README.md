@@ -200,6 +200,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [RcPress](https://github.com/YvesCoding/rcpress)
 - [11ty](https://www.11ty.dev/)
 - [Dokz](https://dokz.vercel.app/)
+- [mdBook](https://github.com/rust-lang/mdBook)
 
 ### Hugo Extensions
 
