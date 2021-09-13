@@ -277,6 +277,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Maybe it’s time we re-think docs](https://kathkorevec.medium.com/building-a-better-place-for-docs-197f92765409)
 - [Write good examples by starting with real code](https://jvns.ca/blog/2021/07/08/writing-great-examples/)
 - [Become a better writer as a developer](https://dev.to/dhaiwat10/become-a-better-writer-as-a-developer-46oc)
+- [How Google, Twitter, and Spotify built a culture of documentation](https://dev.to/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-3e0m)
 
 ## User Behavior Analytics
 
