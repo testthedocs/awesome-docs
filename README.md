@@ -247,6 +247,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Docs Audit](https://docs-audit.ritza.co/dashboard)
 - [vendir](https://carvel.dev/vendir/)
 - [Loom](https://www.loom.com/)
+- [fixred](https://github.com/rhysd/fixred)
 
 ## Reading
 
