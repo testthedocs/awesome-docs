@@ -248,6 +248,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [vendir](https://carvel.dev/vendir/)
 - [Loom](https://www.loom.com/)
 - [fixred](https://github.com/rhysd/fixred)
+- [Playwright](https://github.com/microsoft/playwright)
 
 ## Reading
 
