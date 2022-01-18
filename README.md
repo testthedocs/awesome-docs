@@ -175,6 +175,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Carbon](https://carbon.now.sh)
 - [Flameshot](https://github.com/lupoDharkael/flameshot)
+- [Shottr](https://shottr.cc/)
 
 ## Site Generators
 
