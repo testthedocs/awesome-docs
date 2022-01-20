@@ -33,7 +33,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
   - [Sphinx Extensions](#sphinx-extensions)
   - [Sphinx Themes](#sphinx-themes)
 - [Spelling](#spelling)
-- [Tool Collections](#tool-collections)
+- [Tool Collection](#tool-collection)
 - [Reading](#reading)
 - [User Behavior Analytics](#user-behavior-analytics)
 - [Viewer](#viewer)
@@ -230,7 +230,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [PySpelling](https://facelessuser.github.io/pyspelling/)
 
-## Tool Collections
+## Tool Collection
 
 - [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools)
 - [Driver.js](https://github.com/kamranahmedse/driver.js)
@@ -250,6 +250,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Loom](https://www.loom.com/)
 - [fixred](https://github.com/rhysd/fixred)
 - [Playwright](https://github.com/microsoft/playwright)
+- [Penpot](https://penpot.app/)
 
 ## Reading
 
