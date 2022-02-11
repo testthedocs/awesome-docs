@@ -99,7 +99,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## GitHub Actions
 
-- [Spellcheck Action](https://github.com/marketplace/actions/spellcheck-action)
+- [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
 - [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
