@@ -23,6 +23,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Feedback](#feedback)
 - [GitHub Actions](#github-actions)
 - [Hosting](#hosting)
+- [Knowledge Base](#knowledge-base)
 - [Mockup](#mockup)
 - [Quality Assurance](#quality-assurance)
 - [Style Guides](#style-guides)
@@ -93,6 +94,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Mark Text](https://marktext.app/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [HackMD](https://hackmd.io/) (Markdown Collaboration)
+- [Zettlr](https://www.zettlr.com/)
 
 ## Feedback
 
@@ -114,6 +116,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [GitBook](https://www.gitbook.com/)
 - [Netlify](https://www.netlify.com/)
 - [Read The Docs](https://readthedocs.org/)
+
+## Knowledge Base
+
+- [Logseq](https://logseq.com/)
 
 ## Mockup
 
