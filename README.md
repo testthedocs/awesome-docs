@@ -135,6 +135,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [brok](https://github.com/smallhadroncollider/brok)
 - [Readable](https://www.webfx.com/tools/read-able/)
 - [Capitalize My Title](https://capitalizemytitle.com/)
+- [case-police](https://github.com/antfu/case-police)
+
 
 ## Style Guides
 
