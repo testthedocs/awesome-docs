@@ -212,6 +212,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [11ty](https://www.11ty.dev/)
 - [Dokz](https://dokz.vercel.app/)
 - [mdBook](https://github.com/rust-lang/mdBook)
+- [Astro](https://astro.build/)
 
 ### Hugo Extensions
 
