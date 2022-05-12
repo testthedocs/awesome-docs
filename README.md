@@ -262,6 +262,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [fixred](https://github.com/rhysd/fixred)
 - [Playwright](https://github.com/microsoft/playwright)
 - [Penpot](https://penpot.app/)
+- [Markdoc](https://markdoc.io/)
 
 ## Reading
 
