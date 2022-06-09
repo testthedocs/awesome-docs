@@ -135,6 +135,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [brok](https://github.com/smallhadroncollider/brok)
 - [Readable](https://www.webfx.com/tools/read-able/)
 - [Capitalize My Title](https://capitalizemytitle.com/)
+- [Woke](https://getwoke.tech/) - [Rules example](https://github.com/cisco-open/inclusive-language/blob/main/cisco-rules.yaml)
+- [lychee](https://github.com/lycheeverse/lychee)
 - [case-police](https://github.com/antfu/case-police)
 
 
