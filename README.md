@@ -69,6 +69,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
 - [oas](https://openap.is/)
 - [Bump](https://bump.sh/)
+- [Optic](https://www.useoptic.com/)
 
 ## Browser Extensions
 
