@@ -271,6 +271,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Playwright](https://github.com/microsoft/playwright)
 - [Penpot](https://penpot.app/)
 - [Markdoc](https://markdoc.io/)
+- [adr-tools](https://github.com/npryce/adr-tools)
+- [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
 
 ## Reading
 
