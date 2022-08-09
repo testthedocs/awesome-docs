@@ -216,6 +216,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Dokz](https://dokz.vercel.app/)
 - [mdBook](https://github.com/rust-lang/mdBook)
 - [Astro](https://astro.build/)
+- [Nextra](https://github.com/shuding/nextra)
 
 ### Hugo Extensions
 
