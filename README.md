@@ -173,6 +173,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Human words for technical docs](https://coda.io/@dave-connis/human-words-for-technical-docs)
 - [Write The Docs](https://www.writethedocs.org/guide/writing/style-guides/)
 - [Atlassian](https://atlassian.design/content/)
+- [MongoDB](https://www.mongodb.com/docs/meta/style-guide/)
 
 ## Screencast
 
