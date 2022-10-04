@@ -174,6 +174,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Write The Docs](https://www.writethedocs.org/guide/writing/style-guides/)
 - [Atlassian](https://atlassian.design/content/)
 - [MongoDB](https://www.mongodb.com/docs/meta/style-guide/)
+- [Aiven](https://github.com/aiven/devportal/blob/main/CONTRIBUTING.rst#style-guide)
 
 ## Screencast
 
