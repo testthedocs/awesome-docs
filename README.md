@@ -262,7 +262,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [readme.so](https://readme.so/)
 - [Draft](https://draftin.com/)
 - [Pocket Marketing List](https://github.com/rubymorillo/pocket-marketing-tech-list)
-- [Docs Audit](https://docs-audit.ritza.co/dashboard)
 - [vendir](https://carvel.dev/vendir/)
 - [Loom](https://www.loom.com/)
 - [fixred](https://github.com/rhysd/fixred)
