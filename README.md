@@ -49,7 +49,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Contrastchecker](https://webaim.org/resources/contrastchecker/)
 - [Image Alt text best practices](https://support.siteimprove.com/hc/en-gb/articles/115000013031-Accessibility-Image-Alt-text-best-practices)
 
-
 ## API
 
 - [Postwoman](https://github.com/liyasthomas/postwoman)
@@ -82,17 +81,13 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Selenium](https://www.seleniumhq.org/)
 
-## Code Testing
-
-- [Testing Markdown code examples](https://staticschool.com/blog/testing-markdown-code-examples/)
-
 ## Collaboration
 
 - [Draft](https://draftin.com/)
 
 ## Editor
 
-- [Mark Text](https://marktext.app/)
+- [Mark Text](https://github.com/marktext/marktext)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [HackMD](https://hackmd.io/) (Markdown Collaboration)
 - [Zettlr](https://www.zettlr.com/)
@@ -140,7 +135,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [lychee](https://github.com/lycheeverse/lychee)
 - [case-police](https://github.com/antfu/case-police)
 
-
 ## Style Guides
 
 - [Website Style Guide Resources](http://styleguides.io/)
@@ -152,10 +146,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Linode](https://www.linode.com/docs/linode-writers-formatting-guide/)
 - [DigitalOcean](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
 - [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm)
-- [United Nations](http://www.dgacm.org/editorialmanual/)
+- [United Nations](https://www.un.org/dgacm/content/editorial-manual)
 - [Splunk](https://docs.splunk.com/Documentation/StyleGuide/latest/StyleGuide/Howtouse)
 - [Monzo](https://monzo.com/tone-of-voice/)
-- [GitLab](https://design.gitlab.com/content/voice-tone/)
+- [GitLab](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 - [The Writer](http://www.thewriter.com/what-we-think/style-guide/)
 - [Federal (US) plain language guidelines](https://plainlanguage.gov/guidelines/)
 - [SUSE](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
@@ -244,7 +238,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [The Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/en/latest/)
 - [Furo](https://github.com/pradyunsg/furo)
 
-
 ### Search
 
 - [pagefind](https://pagefind.app/)
@@ -259,7 +252,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Driver.js](https://github.com/kamranahmedse/driver.js)
 - [Shepherd](https://github.com/shipshapecode/shepherd)
 - [Squoosh](https://squoosh.app/)
-- [Table Tag Generator](https://tabletag.net/)
+- [Tables Generator](https://www.tablesgenerator.com/html_tables)
+- [DIV Table Generator](https://divtable.com/generator/)
 - [Irregardless](https://irregardless.ly/)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 - [rundoc](https://gitlab.com/nul.one/rundoc)
@@ -284,15 +278,13 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Technical Documentation in Software Development](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
 - [Free Resources to Learn Technical Writing](https://medium.com/@ann.green/free-resources-to-learn-technical-writing-7d642020cda9)
 - [Writing great documentation](https://medium.com/@episod/writing-great-documentation-44d90367115a)
-- [Scottydocs.com](https://scottydocs.com/)
+- [Scottydocs.com](https://github.com/scottydocs)
 - [Great Developer Documentation Examples](https://everydeveloper.com/developer-documentation-examples/)
 - [API Handyman](https://apihandyman.io/)
 - [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
 - [Grammarly Blog](https://www.grammarly.com/blog/)
 - [Setting up the alex.js language linter in your project](https://dev.to/unmock/setting-up-the-alex-js-language-linter-in-your-project-3bpl)
 - [Automating Your Accessibility Tests](https://24ways.org/2017/automating-your-accessibility-tests)
-- [How to Design Headings that Work in 10 Easy Steps](https://www.nanatoo.com/blog/how-to-design-headings-that-work-in-10-easy-steps)
-- [Kayce](https://kayce.basqu.es/blog)
 - [How to write technical posts](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
 - [Become a technical writer](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 - [API Knowledge](https://postman-toolboxes.github.io/api-knowledge/)
