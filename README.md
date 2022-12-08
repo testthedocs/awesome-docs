@@ -1,6 +1,6 @@
 # Awesome Docs [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-A curated list of awesome documentation tools.
+A [curated list](https://github.com/testthedocs/awesome-docs) of awesome documentation tools, guides and good practice.
 
 *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
 Thank you!*
@@ -89,7 +89,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Mark Text](https://github.com/marktext/marktext)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [HackMD](https://hackmd.io/) (Markdown Collaboration)
+- [HackMD](https://hackmd.io/)
 - [Zettlr](https://www.zettlr.com/)
 
 ## Feedback
@@ -162,7 +162,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Guidelines for Inclusive Language](https://www.linguisticsociety.org/resource/guidelines-inclusive-language)
 - [GitHub](https://github.com/github/docs/blob/main/contributing/content-style-guide.md#content-style-guide-for-github-docs-)
 - [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/)
-- [Accessibility | MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [Accessibility - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [CLI Guidelines](https://clig.dev/)
 - [Human words for technical docs](https://coda.io/@dave-connis/human-words-for-technical-docs)
 - [Write The Docs](https://www.writethedocs.org/guide/writing/style-guides/)
