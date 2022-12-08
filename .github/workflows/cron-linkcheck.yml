@@ -1,0 +1,27 @@
+name: Cron Link Check
+
+on:
+  schedule:
+    - cron: "0 0 * * 0" # Once a week on Sunday
+
+jobs:
+  linkChecker:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Link Checker
+        id: lychee
+        uses: lycheeverse/lychee-action@v1.5.4
+        with:
+          args: --verbose --no-progress README.md
+          fail: true
+
+      - name: Create Issue From File
+        if: steps.lychee.outputs.exit_code != 0
+        uses: peter-evans/create-issue-from-file@v3
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
+          assignees: svx
