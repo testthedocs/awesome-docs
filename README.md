@@ -215,6 +215,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Astro](https://astro.build/)
 - [Nextra](https://github.com/shuding/nextra)
 
+### Docsify  Extensions
+
+- [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/)
+
 ### Hugo Extensions
 
 - [Hugo modules](https://discourse.gohugo.io/t/hugo-modules-for-dummies/20758/8)
