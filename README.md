@@ -30,6 +30,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Screencast](#screencast)
 - [Screenshot](#screenshot)
 - [Site Generators](#site-generators)
+  - [Docsify  Extensions](#docsify-extensions)
   - [MkDocs Extensions](#mkd-extensions)
   - [Sphinx Extensions](#sphinx-extensions)
   - [Sphinx Themes](#sphinx-themes)
