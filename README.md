@@ -171,6 +171,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [MongoDB](https://www.mongodb.com/docs/meta/style-guide/)
 - [Aiven](https://github.com/aiven/devportal/blob/main/CONTRIBUTING.rst#style-guide)
 - [NC State University - IT Accessibility Handbook](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/)
+- [Container terminology](https://jacobtomlinson.dev/posts/2023/being-intentional-with-container-terminology/)
 
 ## Screencast
 
