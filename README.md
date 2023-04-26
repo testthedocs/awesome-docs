@@ -70,6 +70,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [oas](https://openap.is/)
 - [Bump](https://bump.sh/)
 - [Optic](https://www.useoptic.com/)
+- [What we can learn from UX professionals when designing APIs](https://www.linkedin.com/pulse/what-we-can-learn-from-ux-professionals-when-designing-joyce-stack-/)
 
 ## Browser Extensions
 
