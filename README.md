@@ -138,6 +138,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Woke](https://getwoke.tech/) - [Rules example](https://github.com/cisco-open/inclusive-language/blob/main/cisco-rules.yaml)
 - [lychee](https://github.com/lycheeverse/lychee)
 - [case-police](https://github.com/antfu/case-police)
+- [Your automated tester](https://squidler.io/)
 
 ## Style Guides
 
@@ -175,6 +176,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Aiven](https://github.com/aiven/devportal/blob/main/CONTRIBUTING.rst#style-guide)
 - [NC State University - IT Accessibility Handbook](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/)
 - [Container terminology](https://jacobtomlinson.dev/posts/2023/being-intentional-with-container-terminology/)
+- [Accessible social media content](https://www.accessible-social.com/quick-guide)
 
 ## Screencast
 
