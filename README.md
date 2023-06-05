@@ -283,6 +283,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Markdoc](https://markdoc.io/)
 - [adr-tools](https://github.com/npryce/adr-tools)
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
+- [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
+
+
 
 ## Reading
 
@@ -312,6 +315,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Write good examples by starting with real code](https://jvns.ca/blog/2021/07/08/writing-great-examples/)
 - [Become a better writer as a developer](https://dev.to/dhaiwat10/become-a-better-writer-as-a-developer-46oc)
 - [How Google, Twitter, and Spotify built a culture of documentation](https://dev.to/doctave/how-google-twitter-and-spotify-built-a-culture-of-documentation-3e0m)
+- [Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm)
 
 ## User Behavior Analytics
 
