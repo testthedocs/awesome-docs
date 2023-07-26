@@ -285,8 +285,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [adr-tools](https://github.com/npryce/adr-tools)
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
-
-
+- [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
 
 ## Reading
 
