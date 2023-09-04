@@ -123,7 +123,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Mockup
 
-- [Imagineui](https://imagineui.github.io/en/)
 - [Animockup](https://github.com/alyssaxuu/animockup)
 - [Markmap](https://markmap.js.org/)
 - [Excalidraw](https://excalidraw.com/)
@@ -160,7 +159,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Federal (US) plain language guidelines](https://plainlanguage.gov/guidelines/)
 - [SUSE](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [18F](https://content-guide.18f.gov/)
-- [Rackspace](https://developer.rackspace.com/docs/style-guide/writing/)
+- [Rackspace](https://github.com/rackerlabs/docs-style-guide/tree/master/style-guide)
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
 - [Red Hat Style Guide](https://stylepedia.net/style/)
 - [Red Hat Guidelines](https://redhat-documentation.github.io/)
@@ -274,7 +273,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
 - [rstcheck](https://github.com/myint/rstcheck)
 - [readme.so](https://readme.so/)
-- [Draft](https://draftin.com/)
 - [Pocket Marketing List](https://github.com/rubymorillo/pocket-marketing-tech-list)
 - [vendir](https://carvel.dev/vendir/)
 - [Loom](https://www.loom.com/)
