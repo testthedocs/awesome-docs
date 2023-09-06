@@ -71,7 +71,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Bump](https://bump.sh/)
 - [Optic](https://www.useoptic.com/)
 - [What we can learn from UX professionals when designing APIs](https://www.linkedin.com/pulse/what-we-can-learn-from-ux-professionals-when-designing-joyce-stack-/)
-- []Tips for better documentation with OpenAPI](https://lornajane.net/posts/2023/tips-for-better-documentation-with-openapi)
+- [Tips for better documentation with OpenAPI](https://lornajane.net/posts/2023/tips-for-better-documentation-with-openapi)
 
 ## Browser Extensions
 
@@ -221,6 +221,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Dokz](https://dokz.vercel.app/)
 - [mdBook](https://github.com/rust-lang/mdBook)
 - [Astro](https://astro.build/)
+  - [Starlight](https://starlight.astro.build/)
 - [Nextra](https://github.com/shuding/nextra)
 - [Docus](https://docus.dev/)
 
