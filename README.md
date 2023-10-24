@@ -52,7 +52,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## API
 
-- [Postwoman](https://github.com/liyasthomas/postwoman)
+- [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [Postman](https://www.getpostman.com/)
 - [Swagger](https://swagger.io/)
 - [Stoplight Studio](https://stoplight.io/studio/)
@@ -72,6 +72,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Optic](https://www.useoptic.com/)
 - [What we can learn from UX professionals when designing APIs](https://www.linkedin.com/pulse/what-we-can-learn-from-ux-professionals-when-designing-joyce-stack-/)
 - [Tips for better documentation with OpenAPI](https://lornajane.net/posts/2023/tips-for-better-documentation-with-openapi)
+-[Restish](https://rest.sh/#/)
 
 ## Browser Extensions
 
