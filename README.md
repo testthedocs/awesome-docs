@@ -18,7 +18,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Browser Extensions](#browser-extensions)
 - [Browser Testing](#browser-testing)
 - [Code Testing](#code-testing)
-- [Collaboration](#collaboration)
 - [Editor](#editor)
 - [Feedback](#feedback)
 - [GitHub Actions](#github-actions)
@@ -73,7 +72,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [What we can learn from UX professionals when designing APIs](https://www.linkedin.com/pulse/what-we-can-learn-from-ux-professionals-when-designing-joyce-stack-/)
 - [Tips for better documentation with OpenAPI](https://lornajane.net/posts/2023/tips-for-better-documentation-with-openapi)
 -[Restish](https://rest.sh/#/)
-
 
 ## Browser Extensions
 
