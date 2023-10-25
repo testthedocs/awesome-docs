@@ -287,6 +287,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
 - [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
 - [Writerside](https://www.jetbrains.com/writerside/)
+- [Code Hike](https://codehike.org/)
 
 ## Reading
 
