@@ -85,10 +85,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Selenium](https://www.seleniumhq.org/)
 
-## Collaboration
-
-- [Draft](https://draftin.com/)
-
 ## Editor
 
 - [HackMD](https://hackmd.io/)
@@ -269,7 +265,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Squoosh](https://squoosh.app/)
 - [Tables Generator](https://www.tablesgenerator.com/html_tables)
 - [DIV Table Generator](https://divtable.com/generator/)
-- [Irregardless](https://irregardless.ly/)
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 - [rundoc](https://gitlab.com/nul.one/rundoc)
 - [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
