@@ -52,7 +52,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## API
 
-- [Postwoman](https://github.com/liyasthomas/postwoman)
+- [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [Postman](https://www.getpostman.com/)
 - [Swagger](https://swagger.io/)
 - [Stoplight Studio](https://stoplight.io/studio/)
@@ -72,6 +72,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Optic](https://www.useoptic.com/)
 - [What we can learn from UX professionals when designing APIs](https://www.linkedin.com/pulse/what-we-can-learn-from-ux-professionals-when-designing-joyce-stack-/)
 - [Tips for better documentation with OpenAPI](https://lornajane.net/posts/2023/tips-for-better-documentation-with-openapi)
+-[Restish](https://rest.sh/#/)
+
 
 ## Browser Extensions
 
@@ -123,7 +125,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Mockup
 
-- [Imagineui](https://imagineui.github.io/en/)
 - [Animockup](https://github.com/alyssaxuu/animockup)
 - [Markmap](https://markmap.js.org/)
 - [Excalidraw](https://excalidraw.com/)
@@ -160,7 +161,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Federal (US) plain language guidelines](https://plainlanguage.gov/guidelines/)
 - [SUSE](https://documentation.suse.com/style/current/single-html/docu_styleguide/)
 - [18F](https://content-guide.18f.gov/)
-- [Rackspace](https://developer.rackspace.com/docs/style-guide/writing/)
+- [Rackspace](https://github.com/rackerlabs/docs-style-guide/tree/master/style-guide)
 - [Apple Style Guide](https://help.apple.com/applestyleguide/)
 - [Red Hat Style Guide](https://stylepedia.net/style/)
 - [Red Hat Guidelines](https://redhat-documentation.github.io/)
@@ -222,6 +223,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Dokz](https://dokz.vercel.app/)
 - [mdBook](https://github.com/rust-lang/mdBook)
 - [Astro](https://astro.build/)
+  - [Starlight](https://starlight.astro.build/)
 - [Nextra](https://github.com/shuding/nextra)
 - [Docus](https://docus.dev/)
 
@@ -274,7 +276,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
 - [rstcheck](https://github.com/myint/rstcheck)
 - [readme.so](https://readme.so/)
-- [Draft](https://draftin.com/)
 - [Pocket Marketing List](https://github.com/rubymorillo/pocket-marketing-tech-list)
 - [vendir](https://carvel.dev/vendir/)
 - [Loom](https://www.loom.com/)
@@ -285,8 +286,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [adr-tools](https://github.com/npryce/adr-tools)
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
-
-
+- [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
+- [Writerside](https://www.jetbrains.com/writerside/)
+- [Code Hike](https://codehike.org/)
 
 ## Reading
 
