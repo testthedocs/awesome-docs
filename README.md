@@ -173,6 +173,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [NC State University - IT Accessibility Handbook](https://accessibility.oit.ncsu.edu/it-accessibility-at-nc-state/developers/accessibility-handbook/)
 - [Container terminology](https://jacobtomlinson.dev/posts/2023/being-intentional-with-container-terminology/)
 - [Accessible social media content](https://www.accessible-social.com/quick-guide)
+- [Shopify](https://polaris.shopify.com/content/product-content)
+- [Buffer](https://buffer.com/resources/style-guide/)
+- [BBC](https://www.bbc.co.uk/editorialguidelines/guidelines)
 
 ## Screencast
 
