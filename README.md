@@ -176,6 +176,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Shopify](https://polaris.shopify.com/content/product-content)
 - [Buffer](https://buffer.com/resources/style-guide/)
 - [BBC](https://www.bbc.co.uk/editorialguidelines/guidelines)
+- [Developer Style Guide](https://github.com/lornajane/developer-style-guide)
 
 ## Screencast
 
