@@ -216,6 +216,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Zola](https://www.getzola.org/)
 - [MDBook](https://github.com/rust-lang/mdBook)
 - [MDX-GO](https://github.com/jxnblk/mdx-go)
+- [Nextra](https://nextra.site/)
 - [Gatsby Docs Kit](https://github.com/brainhubeu/gatsby-docs-kit)
 - [Document Node](https://documentnode.io/)
 - [RcPress](https://github.com/YvesCoding/rcpress)
