@@ -118,6 +118,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Knowledge Base
 
 - [Logseq](https://logseq.com/)
+- [Obsidian](https://obsidian.md)
 
 ## Mockup
 
