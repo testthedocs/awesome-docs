@@ -227,6 +227,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
   - [Starlight](https://starlight.astro.build/)
 - [Nextra](https://github.com/shuding/nextra)
 - [Docus](https://docus.dev/)
+- [Quartz](https://github.com/jackyzha0/quartz)
 
 ### Docsify  Extensions
 
