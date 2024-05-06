@@ -311,6 +311,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Maybe it’s time we re-think docs](https://kathkorevec.medium.com/building-a-better-place-for-docs-197f92765409)
 - [Scottydocs.com](https://github.com/scottydocs)
 - [Setting up the alex.js language linter in your project](https://dev.to/unmock/setting-up-the-alex-js-language-linter-in-your-project-3bpl)
+- [Systematic approach to technical documentation authoring](https://diataxis.fr/)
 - [Technical Documentation in Software Development](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
 - [Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm)
 - [User Guide Template](https://clickhelp.com/clickhelp-technical-writing-blog/user-guide-template/)
