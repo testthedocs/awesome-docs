@@ -129,15 +129,18 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Quality Assurance
 
+
 - [Alex](https://github.com/get-alex/alex)
 - [brok](https://github.com/smallhadroncollider/brok)
 - [Capitalize My Title](https://capitalizemytitle.com/)
 - [case-police](https://github.com/antfu/case-police)
 - [HtmlTest](https://github.com/wjdp/htmltest)
+- [Linkspector](https://github.com/UmbrellaDocs/linkspector)
 - [lychee](https://github.com/lycheeverse/lychee)
 - [Readable](https://www.webfx.com/tools/read-able/)
+- [Rules example](https://github.com/cisco-open/inclusive-language/blob/main/cisco-rules.yaml)
 - [Swimm](https://swimm.io/)
-- [Woke](https://getwoke.tech/) - [Rules example](https://github.com/cisco-open/inclusive-language/blob/main/cisco-rules.yaml)
+- [Woke](https://getwoke.tech/)
 - [Your automated tester](https://squidler.io/)
 
 ## Style Guides
@@ -285,7 +288,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [rundoc](https://gitlab.com/nul.one/rundoc)
 - [Shepherd](https://github.com/shipshapecode/shepherd)
 - [Squoosh](https://squoosh.app/)
-- [Tables Generator](https://www.tablesgenerator.com/html_tables)
+- [Tables Generator](https://www.tablesgenerator.com/)
 - [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools)
 - [vendir](https://carvel.dev/vendir/)
 - [Writerside](https://www.jetbrains.com/writerside/)
