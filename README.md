@@ -155,6 +155,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Buffer](https://buffer.com/resources/style-guide/)
 - [CLI Guidelines](https://clig.dev/)
 - [Container terminology](https://jacobtomlinson.dev/posts/2023/being-intentional-with-container-terminology/)
+- [Datagrok](https://datagrok.ai/help/develop/help-pages/writing-style)
 - [Developer Style Guide](https://github.com/lornajane/developer-style-guide)
 - [DigitalOcean](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines)
 - [Federal (US) plain language guidelines](https://plainlanguage.gov/guidelines/)
