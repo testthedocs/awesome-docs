@@ -129,11 +129,11 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Quality Assurance
 
-
 - [Alex](https://github.com/get-alex/alex)
 - [brok](https://github.com/smallhadroncollider/brok)
 - [Capitalize My Title](https://capitalizemytitle.com/)
 - [case-police](https://github.com/antfu/case-police)
+- [Doc Detective](https://github.com/doc-detective/doc-detective)
 - [HtmlTest](https://github.com/wjdp/htmltest)
 - [Linkspector](https://github.com/UmbrellaDocs/linkspector)
 - [lychee](https://github.com/lycheeverse/lychee)
