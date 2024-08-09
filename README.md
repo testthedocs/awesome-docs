@@ -17,7 +17,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [API](#api)
 - [Browser Extensions](#browser-extensions)
 - [Browser Testing](#browser-testing)
-- [Code Testing](#code-testing)
 - [Editor](#editor)
 - [Feedback](#feedback)
 - [GitHub Actions](#github-actions)
@@ -29,8 +28,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Screencast](#screencast)
 - [Screenshot](#screenshot)
 - [Site Generators](#site-generators)
-  - [Docsify  Extensions](#docsify-extensions)
-  - [MkDocs Extensions](#mkd-extensions)
+  - [Docsify Extensions](#docsify-extensions)
+  - [Hugo Extensions](#hugo-extensions)
+  - [MkDocs Extensions](#mkdocs-extensions)
+  - [Search](#search)
   - [Sphinx Extensions](#sphinx-extensions)
   - [Sphinx Themes](#sphinx-themes)
 - [Spelling](#spelling)
@@ -234,7 +235,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [VuePress](https://vuepress.vuejs.org/)
 - [Zola](https://www.getzola.org/)
 
-### Docsify  Extensions
+### Docsify Extensions
 
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/)
 
@@ -246,6 +247,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
 - [Tooltipster Links Plugin](https://github.com/midnightprioriem/mkdocs-tooltipster-links-plugin)
+
+### Search
+
+- [pagefind](https://pagefind.app/)
 
 ### Sphinx Extensions
 
@@ -260,10 +265,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Furo](https://github.com/pradyunsg/furo)
 - [Sphinx Themes](https://sphinx-themes.org/)
 - [The Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/en/latest/)
-
-### Search
-
-- [pagefind](https://pagefind.app/)
 
 ## Spelling
 
