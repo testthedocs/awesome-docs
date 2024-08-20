@@ -110,7 +110,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Hosting
 
-- [Alphadoc](https://www.alphadoc.io/)
 - [Doctave](https://www.doctave.com/)
 - [GitBook](https://www.gitbook.com/)
 - [Netlify](https://www.netlify.com/)
