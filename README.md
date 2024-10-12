@@ -318,6 +318,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Loom](https://www.loom.com/)
 - [Markdoc](https://markdoc.io/)
 - [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
+- [Merge Docs Pro](https://www.mergedocs.pro)
 - [Penpot](https://penpot.app/)
 - [Playwright](https://github.com/microsoft/playwright)
 - [Pocket Marketing List](https://github.com/rubymorillo/pocket-marketing-tech-list)
