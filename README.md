@@ -135,6 +135,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Capitalize My Title](https://capitalizemytitle.com/)
 - [case-police](https://github.com/antfu/case-police)
 - [Doc Detective](https://github.com/doc-detective/doc-detective)
+- [Harper](https://writewithharper.com/)
 - [HtmlTest](https://github.com/wjdp/htmltest)
 - [InnovationEngine](https://github.com/Azure/InnovationEngine)
 - [Linkspector](https://github.com/UmbrellaDocs/linkspector)
@@ -142,6 +143,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Readable](https://www.webfx.com/tools/read-able/)
 - [Rules example](https://github.com/cisco-open/inclusive-language/blob/main/cisco-rules.yaml)
 - [Swimm](https://swimm.io/)
+- [Vale](https://vale.sh/)
 - [Woke](https://getwoke.tech/)
 - [Your automated tester](https://squidler.io/)
 
