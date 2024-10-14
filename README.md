@@ -112,6 +112,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Hosting
 
 - [Doctave](https://www.doctave.com/)
+- [Docs by Hashnode](https://hashnode.com/products/docs)
 - [GitBook](https://www.gitbook.com/)
 - [Mintlify](https://www.mintlify.com/)
 - [Netlify](https://www.netlify.com/)
