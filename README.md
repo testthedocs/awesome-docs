@@ -88,6 +88,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Editor
 
 - [HackMD](https://hackmd.io/)
+- [Lapce](https://github.com/lapce/lapce)
 - [Mark Text](https://github.com/marktext/marktext)
 - [Swimm](https://swimm.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
