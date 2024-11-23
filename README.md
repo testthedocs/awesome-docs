@@ -90,6 +90,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Browser Testing
 
 - [Nightwatch.js](https://nightwatchjs.org/)
+- [Playwright](https://playwright.dev/)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
 - [Selenium](https://www.seleniumhq.org/)
 
