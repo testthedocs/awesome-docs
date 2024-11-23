@@ -319,6 +319,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
 - [Code Hike](https://codehike.org/)
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
+- [docToolchain](https://github.com/doctoolchain/doctoolchain)
 - [D2 Declarative Diagramming](https://d2lang.com/)
 - [DIV Table Generator](https://divtable.com/generator/)
 - [Driver.js](https://github.com/kamranahmedse/driver.js)
