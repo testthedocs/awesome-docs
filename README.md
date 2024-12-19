@@ -221,6 +221,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Docsite](https://github.com/sourcegraph/docsite)
 - [Docz](https://www.docz.site/)
 - [Dokz](https://dokz.vercel.app/)
+- [Fumadocs](https://fumadocs.vercel.app/)
 - [Gatsby Docs Kit](https://github.com/brainhubeu/gatsby-docs-kit)
 - [Gridsome](https://gridsome.org)
 - [Log4brains](https://github.com/thomvaill/log4brains)
@@ -232,7 +233,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Quartz](https://github.com/jackyzha0/quartz)
 - [RcPress](https://github.com/YvesCoding/rcpress)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
-- [VuePress](https://vuepress.vuejs.org/)
+- [Vocs](https://vocs.dev/)
+- [VuePress](https://github.com/wevm/vocs/)
 - [Zola](https://www.getzola.org/)
 
 ### Docsify Extensions
