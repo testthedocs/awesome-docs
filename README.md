@@ -365,3 +365,4 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [How to write a basic how-to](https://www.redhat.com/sysadmin/howto-write-howto)
 - [How to write a README](https://www.redhat.com/sysadmin/how-write-readme)
 - [Words matter](https://www.acm.org/diversity-inclusion/words-matter)
+- [Diátaxis - A systematic approach to technical documentation](https://diataxis.fr/)
