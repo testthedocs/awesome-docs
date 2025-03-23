@@ -161,6 +161,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Reading
 
 - [A Guide to Creating Personas](https://marvelapp.com/blog/creating-personas/)
+- [A simple technique for evaluating content](https://userresearch.blog.gov.uk/2014/09/02/a-simple-technique-for-evaluating-content/)
+- [An examination of translating text to make it as accessible as possible](https://pudding.cool/2022/02/plain/)
 - [API Handyman](https://apihandyman.io/)
 - [API Knowledge](https://postman-toolboxes.github.io/api-knowledge/)
 - [Automating Your Accessibility Tests](https://24ways.org/2017/automating-your-accessibility-tests)
@@ -185,6 +187,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm)
 - [User Guide Template](https://clickhelp.com/clickhelp-technical-writing-blog/user-guide-template/)
 - [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
+- [Where to start with analytics for documentation](https://thisisimportant.net/posts/documentation-site-analytics-start/)
 - [Why does inclusive language matter](https://writer.com/inclusion-glossary/)
 - [Write good examples by starting with real code](https://jvns.ca/blog/2021/07/08/writing-great-examples/)
 - [Writing great documentation](https://medium.com/@episod/writing-great-documentation-44d90367115a)
@@ -252,7 +255,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ### Search
 
+- [Meilisearch](https://www.meilisearch.com/)
 - [pagefind](https://pagefind.app/)
+- [Typesense](https://typesense.org/)
 
 ### Sphinx Extensions
 
