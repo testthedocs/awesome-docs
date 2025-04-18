@@ -1,0 +1,19 @@
+# https://taskfile.dev
+
+version: '3'
+
+vars:
+  GREETING: Hello, World!
+
+tasks:
+  default:
+    cmds:
+      - echo "Documentation Tool Kit"
+      - task -l
+    silent: true
+
+  nix:update:
+    desc: "Updating flake and its packages"
+    cmds:
+      - echo "Updating flake"
+      - nix flake update
