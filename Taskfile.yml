@@ -17,3 +17,8 @@ tasks:
     cmds:
       - echo "Updating flake"
       - nix flake update
+
+  vale:sync:
+    desc: Sync vale
+    cmds:
+      - vale sync
