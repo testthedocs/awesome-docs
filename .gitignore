@@ -137,3 +137,6 @@ dist
 
 # Setup and configuration
 .direnv
+
+# Antora
+build/site/

@@ -1,0 +1,5 @@
+name: my-component
+title: My Docs
+version: latest
+nav:
+  - modules/ROOT/nav.adoc

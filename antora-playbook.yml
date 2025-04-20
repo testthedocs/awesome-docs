@@ -1,0 +1,17 @@
+site:
+  title: My Project Docs
+  start_page: my-component::index.adoc
+
+content:
+  sources:
+    - url: .
+      branches: HEAD
+      start_path: docs
+
+ui:
+  bundle:
+    dir: ./ui
+    snapshot: true
+
+output:
+  dir: ./build/site
