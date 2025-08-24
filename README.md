@@ -240,6 +240,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [Vocs](https://vocs.dev/)
 - [VuePress](https://github.com/wevm/vocs/)
+- [xyd](https://xyd.dev)
 - [Zola](https://www.getzola.org/)
 
 ### Docsify Extensions
