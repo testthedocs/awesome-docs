@@ -170,6 +170,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Become a better writer as a developer](https://dev.to/dhaiwat10/become-a-better-writer-as-a-developer-46oc)
 - [Become a technical writer](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
 - [Document Like a Scientist](https://noti.st/karissapeth/g3vUiw/document-like-a-scientist)
+- [Documentation That Developers Actually Read: The Netflix Approach](https://dev.to/teamcamp/documentation-that-developers-actually-read-the-netflix-approach-1h9i)
 - [Free Resources to Learn Technical Writing](https://medium.com/@ann.green/free-resources-to-learn-technical-writing-7d642020cda9)
 - [Google - Technical Writing Courses](https://developers.google.com/tech-writing)
 - [Grammarly Blog](https://www.grammarly.com/blog/)
