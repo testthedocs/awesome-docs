@@ -224,7 +224,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [DocFX](https://dotnet.github.io/docfx/)
 - [Docsify](https://docsify.js.org/)
 - [Docsite](https://github.com/sourcegraph/docsite)
-- [Docz](https://www.docz.site/)
 - [Dokz](https://dokz.vercel.app/)
 - [Fumadocs](https://fumadocs.vercel.app/)
 - [Gatsby Docs Kit](https://github.com/brainhubeu/gatsby-docs-kit)
