@@ -32,14 +32,38 @@ Static site generators specifically designed for documentation, offering feature
 - **Best for**: Performance-focused sites, multi-framework support
 
 ### Next.js
-- **Website**: [nextra.site](https://nextra.site/)
+- **Tool**: [Nextra](https://github.com/shuding/nextra)
 - **Description**: Simple, powerful and flexible site generation framework
 - **Best for**: React/Next.js projects
 
 ### Nuxt.js
-- **Website**: [docus.dev](https://docus.dev/)
+- **Tool**: [Docus](https://docus.dev/)
 - **Description**: Write docs with MDX and deploy with Nuxt
 - **Best for**: Vue/Nuxt projects
+
+### Vue.js
+- **Tool**: [VuePress](https://vuepress.vuejs.org/)
+- **Description**: Vue-powered static site generator
+- **Best for**: Vue projects, component documentation
+
+### Gatsby
+- **Tool**: [Gatsby Docs Kit](https://github.com/brainhubeu/gatsby-docs-kit)
+- **Description**: Gatsby-based documentation starter kit
+- **Best for**: React projects, GraphQL integration
+
+### MDX-Based
+- **Tool**: [MDX-GO](https://github.com/jxnblk/mdx-go)
+- **Description**: Fast MDX-based documentation
+- **Best for**: Component documentation, interactive content
+
+### Modern Alternatives
+- **Tool**: [Fumadocs](https://fumadocs.vercel.app/)
+- **Description**: Modern documentation framework
+- **Best for**: Modern web projects, TypeScript support
+
+- **Tool**: [Vocs](https://vocs.dev/)
+- **Description**: Minimal documentation framework
+- **Best for**: Simple, fast documentation sites
 
 ## Language-Specific Generators
 
@@ -58,22 +82,66 @@ Static site generators specifically designed for documentation, offering feature
 - **Description**: Documentation generator with powerful extensions
 - **Best for**: Python projects, complex documentation
 
-## Lightweight & Simple
+## Lightweight & Minimal
 
 ### Docsify
 - **Website**: [docsify.js.org](https://docsify.js.org/)
 - **Description**: Magical documentation site generator without build process
-- **Best for**: Simple sites, no build step required
+- **Best for**: Quick setup, no build step required
 
 ### 11ty
 - **Website**: [11ty.dev](https://www.11ty.dev/)
-- **Description**: Simple static site generator with multiple template languages
+- **Description**: Static site generator with multiple template languages
 - **Best for**: Flexibility, custom designs
 
 ### Zola
 - **Website**: [getzola.org](https://www.getzola.org/)
 - **Description**: Fast static site generator written in Rust
 - **Best for**: Performance, simplicity
+
+### Hugo
+- **Website**: [gohugo.io](https://gohugo.io/)
+- **Description**: Fast and flexible static site generator written in Go
+- **Best for**: Performance, large sites, extensive theming
+
+## Enterprise & Advanced
+
+### Document Node
+- **Website**: [documentnode.io](https://documentnode.io/)
+- **Description**: Enterprise documentation platform
+- **Best for**: Large organizations, advanced features
+
+### Docsite
+- **Website**: [github.com/sourcegraph/docsite](https://github.com/sourcegraph/docsite)
+- **Description**: Documentation site generator by Sourcegraph
+- **Best for**: Developer documentation, code integration
+
+### Portray
+- **Website**: [github.com/timothycrosley/portray](https://github.com/timothycrosley/portray)
+- **Description**: Python documentation generator with live reloading
+- **Best for**: Python projects, automatic API docs
+
+### RcPress
+- **Website**: [github.com/YvesCoding/rcpress](https://github.com/YvesCoding/rcpress)
+- **Description**: React-based documentation framework
+- **Best for**: React component libraries
+
+### xyd
+- **Website**: [xyd.dev](https://xyd.dev)
+- **Description**: Modern documentation framework
+- **Best for**: TypeScript projects, modern tooling
+
+## Experimental & Niche
+
+### Dokz
+- **Website**: [dokz.vercel.app](https://dokz.vercel.app/)
+- **Description**: Effortless documentation with Next.js and MDX
+- **Best for**: Next.js projects, MDX content
+
+### Gridsome
+- **Website**: [gridsome.org](https://gridsome.org)
+- **Description**: Vue.js-powered static site generator
+- **Best for**: Vue projects, GraphQL data layer
 
 ## Specialized Solutions
 
@@ -97,14 +165,22 @@ Static site generators specifically designed for documentation, offering feature
 ### Docsify Extensions
 - [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable/#/) - Themeable extension
 
+### Hugo Extensions
+- [Hugo modules](https://discourse.gohugo.io/t/hugo-modules-for-dummies/20758/8) - Modular Hugo development
+
 ### MkDocs Extensions
 - [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) - Material Design theme
 - [Tooltipster Links Plugin](https://github.com/midnightprioriem/mkdocs-tooltipster-links-plugin) - Enhanced tooltips
 
 ### Sphinx Extensions
+- [consoletest](https://github.com/intel/dffml/blob/master/dffml/util/testing/consoletest/README.md) - Console testing for documentation
+- [Contentui](https://github.com/ulrobix/sphinxcontrib-contentui) - UI content extensions
 - [MyST](https://myst-parser.readthedocs.io/en/latest/using/intro.html) - Markdown parser
+- [Sphinx Substitution Extensions](https://github.com/adamtheturtle/sphinx-substitution-extensions) - Variable substitution
 - [sphinx-design](https://sphinx-design.readthedocs.io/en/latest/) - UI components
 - [Furo](https://github.com/pradyunsg/furo) - Clean theme
+- [Sphinx Themes](https://sphinx-themes.org/) - Theme collection
+- [The Sphinx Book Theme](https://sphinx-book-theme.readthedocs.io/en/latest/) - Book-style theme
 
 ## Search Solutions
 - [Meilisearch](https://www.meilisearch.com/) - Fast, typo-tolerant search
