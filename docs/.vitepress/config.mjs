@@ -35,7 +35,8 @@ export default defineConfig({
           { text: 'Site Generators', link: '/generators' },
           { text: 'API Documentation', link: '/api' },
           { text: 'Quality Assurance', link: '/quality' },
-          { text: 'Writing Tools', link: '/writing' }
+          { text: 'Writing Tools', link: '/writing' },
+          { text: 'Additional Tools', link: '/tools' }
         ]
       },
       { text: 'Resources',
@@ -74,7 +75,8 @@ export default defineConfig({
         items: [
           { text: 'Style Guides', link: '/style-guides' },
           { text: 'Reading List', link: '/reading' },
-          { text: 'GitHub Actions', link: '/github-actions' }
+          { text: 'GitHub Actions', link: '/github-actions' },
+          { text: 'Additional Tools', link: '/tools' }
         ]
       },
       {
