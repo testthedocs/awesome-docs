@@ -1,81 +1,50 @@
-# API Reference
+# API Documentation
 
-This page contains the API reference for our documentation system.
+Tools and resources for creating, testing, and maintaining API documentation.
 
-## Configuration
+## Documentation Generators
 
-### Basic Configuration
+### Interactive Documentation
+- [Swagger](https://swagger.io/) - Industry standard for API documentation
+- [ReDoc](https://redocly.github.io/redoc/) - Beautiful API documentation from OpenAPI
+- [RapiDoc](https://mrin9.github.io/RapiDoc/index.html) - Custom element for OpenAPI docs
+- [Bump.sh](https://bump.sh/) - API documentation platform with automated updates
 
-The basic configuration includes:
+### API Design Tools
+- [Stoplight Studio](https://stoplight.io/studio/) - Visual API design editor
+- [Postman](https://www.getpostman.com/) - API development environment
+- [Hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development
 
-- **Title**: Set the main title of your documentation
-- **Description**: Provide a brief description
-- **Theme**: Configure the appearance and behavior
+## Testing & Validation
 
-### Advanced Configuration
+### Linting & Quality
+- [Spectral](https://stoplight.io/open-source/spectral/) - JSON/YAML linter with OpenAPI rules
+- [OpenAPI 3 CLI](https://github.com/Redocly/openapi-cli) - Command line tools for OpenAPI
+- [Speccy](https://github.com/wework/speccy) - OpenAPI specification linter
 
-For advanced users, you can customize:
+### API Testing
+- [Optic](https://www.useoptic.com/) - API change detection and testing
+- [Restish](https://rest.sh/#/) - CLI for interacting with REST APIs
 
-- **Navigation**: Custom navigation menus
-- **Sidebar**: Dynamic sidebar generation
-- **Search**: Local search configuration
-- **Plugins**: Additional functionality
+## Best Practices
 
-## Methods
+### Structure Your API Docs
+1. **Overview** - What does your API do?
+2. **Authentication** - How to authenticate requests
+3. **Endpoints** - Available endpoints with examples
+4. **Data Models** - Request/response schemas
+5. **Error Handling** - Error codes and messages
 
-### `configure(options)`
+### Tips for Better Documentation
+- Use real examples in your API documentation
+- Include interactive testing capabilities
+- Document error scenarios thoroughly
+- Provide code samples in multiple languages
+- Keep documentation in sync with API changes
 
-Configure the documentation system with the provided options.
+## Guidelines & Resources
 
-**Parameters:**
-- `options` (Object): Configuration options
-  - `title` (String): Documentation title
-  - `description` (String): Site description
-  - `theme` (Object): Theme configuration
-
-**Example:**
-```javascript
-configure({
-  title: 'My Docs',
-  description: 'Comprehensive documentation',
-  theme: {
-    nav: [...],
-    sidebar: [...]
-  }
-})
-```
-
-### `search(query)`
-
-Perform a search across all documentation content.
-
-**Parameters:**
-- `query` (String): Search query string
-
-**Returns:**
-- Array of search results with matches
-
-## Examples
-
-Here are some common usage examples:
-
-### Setting up Navigation
-
-```javascript
-nav: [
-  { text: 'Home', link: '/' },
-  { text: 'Guide', link: '/guide' },
-  { text: 'API', link: '/api' }
-]
-```
-
-### Configuring Search
-
-```javascript
-search: {
-  provider: 'local',
-  options: {
-    // Search configuration
-  }
-}
-```
+- [API Guidelines](https://dret.github.io/guidelines/) - Collection of API design guidelines
+- [Zalando RESTful API Guidelines](https://opensource.zalando.com/restful-api-guidelines/#) - Comprehensive REST API guidelines
+- [API Handyman](https://apihandyman.io/) - API design and documentation blog
+- [Tips for better documentation with OpenAPI](https://lornajane.net/posts/2023/tips-for-better-documentation-with-openapi)

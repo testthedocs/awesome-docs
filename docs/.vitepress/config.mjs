@@ -30,8 +30,22 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Guide', link: '/guide' },
-      { text: 'API', link: '/api' }
+      { text: 'Tools', 
+        items: [
+          { text: 'Site Generators', link: '/generators' },
+          { text: 'API Documentation', link: '/api' },
+          { text: 'Quality Assurance', link: '/quality' },
+          { text: 'Writing Tools', link: '/writing' }
+        ]
+      },
+      { text: 'Resources',
+        items: [
+          { text: 'Style Guides', link: '/style-guides' },
+          { text: 'Reading List', link: '/reading' },
+          { text: 'GitHub Actions', link: '/github-actions' }
+        ]
+      },
+      { text: 'Guide', link: '/guide' }
     ],
     sidebar: [
       {
@@ -42,9 +56,25 @@ export default defineConfig({
         ]
       },
       {
-        text: 'Reference',
+        text: 'Core Tools',
         items: [
-          { text: 'API Reference', link: '/api' }
+          { text: 'Site Generators', link: '/generators' },
+          { text: 'API Documentation', link: '/api' }
+        ]
+      },
+      {
+        text: 'Content & Quality',
+        items: [
+          { text: 'Writing Tools', link: '/writing' },
+          { text: 'Quality Assurance', link: '/quality' }
+        ]
+      },
+      {
+        text: 'Resources',
+        items: [
+          { text: 'Style Guides', link: '/style-guides' },
+          { text: 'Reading List', link: '/reading' },
+          { text: 'GitHub Actions', link: '/github-actions' }
         ]
       }
     ],

@@ -1,28 +1,45 @@
 # Awesome Docs
 
-Welcome to Awesome Docs! This is your home page.
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-## What is this?
+A **curated list** of awesome documentation tools, guides and best practices for creating, maintaining, and improving documentation.
 
-This is a documentation site built with VitePress, a fast static site generator powered by Vite and Vue.
+*If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
 
-## Quick Start
+## 🚀 Quick Start
 
-To get started with this documentation:
+- **Browse by Category**: Use the navigation menu to explore specific tool categories
+- **Search**: Use the search function to find specific tools or topics
+- **Contributing**: Check our [contribution guidelines](https://github.com/testthedocs/awesome-docs/blob/master/CONTRIBUTING.md)
 
-1. [Read the Guide](/guide)
-2. [Learn about Installation](/guide/installation)
+## 📋 Categories Overview
 
-## Features
+### 🛠️ Core Tools
+- [Site Generators](./generators/) - Static site generators for documentation
+- [API Documentation](./api/) - Tools for API documentation and testing
+- [Editors](./editors/) - Markdown and documentation editors
 
-::: info
-VitePress provides many great features out of the box including:
-- ⚡️ Fast hot reload
-- 📝 Markdown-based content
-- 🎨 Vue-powered theming
-- 🔍 Built-in search
-:::
+### 🎨 Content Creation
+- [Writing Tools](./writing/) - Grammar, style, and writing assistance
+- [Visual Tools](./visual/) - Screenshots, screencasts, and mockups
+- [Quality Assurance](./quality/) - Linting, testing, and validation
 
-## Getting Help
+### 🌐 Publishing & Hosting
+- [Hosting Platforms](./hosting/) - Places to host your documentation
+- [GitHub Actions](./github-actions/) - Automation for documentation workflows
+- [Analytics](./analytics/) - Understanding your documentation usage
 
-If you need help, please check out our [GitHub repository](https://github.com/testthedocs/awesome-docs).
+### � Learning Resources
+- [Style Guides](./style-guides/) - Documentation and writing style guides
+- [Reading List](./reading/) - Articles and resources about documentation
+- [Best Practices](./best-practices/) - Proven strategies and approaches
+
+## 🤝 Contributing
+
+We welcome contributions! Please see our [contribution guidelines](https://github.com/testthedocs/awesome-docs/blob/master/CONTRIBUTING.md) for details.
+
+Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/contributors) - you rock! 🎉
+
+## 📄 License
+
+This project is licensed under [CC0 1.0 Universal](https://github.com/testthedocs/awesome-docs/blob/master/LICENSE).
