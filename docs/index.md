@@ -10,7 +10,7 @@ A **curated list** of awesome documentation tools, guides and best practices for
 
 - **Browse by Category**: Use the navigation menu to explore specific tool categories
 - **Search**: Use the search function to find specific tools or topics
-- **Contributing**: Check our [contribution guidelines](https://github.com/testthedocs/awesome-docs/blob/master/CONTRIBUTING.md)
+- **Get Started**: Check our [Getting Started Guide](./guide) to learn how to use this resource
 
 ## 📋 Categories Overview
 
@@ -29,17 +29,28 @@ A **curated list** of awesome documentation tools, guides and best practices for
 - [GitHub Actions](./github-actions/) - Automation for documentation workflows
 - [Analytics](./analytics/) - Understanding your documentation usage
 
-### � Learning Resources
+### 📚 Learning Resources
 - [Style Guides](./style-guides/) - Documentation and writing style guides
 - [Reading List](./reading/) - Articles and resources about documentation
 - [Best Practices](./best-practices/) - Proven strategies and approaches
 
-## 🤝 Contributing
+## 🎯 Popular Tools
 
-We welcome contributions! Please see our [contribution guidelines](https://github.com/testthedocs/awesome-docs/blob/master/CONTRIBUTING.md) for details.
+### For Beginners
+- **[Docusaurus](https://docusaurus.io/)** - React-based documentation platform
+- **[VitePress](https://vitepress.dev/)** - Vue-powered static site generator  
+- **[MkDocs](https://www.mkdocs.org/)** - Python-based documentation generator
 
-Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/contributors) - you rock! 🎉
+### For API Documentation
+- **[Swagger/OpenAPI](https://swagger.io/)** - Industry standard for API docs
+- **[ReDoc](https://redocly.github.io/redoc/)** - Beautiful API documentation
+- **[Postman](https://www.postman.com/)** - API development and documentation
 
-## 📄 License
+### For Quality Assurance
+- **[Vale](https://vale.sh/)** - Syntax-aware linter for prose
+- **[Alex](https://github.com/get-alex/alex)** - Catch insensitive writing
+- **[lychee](https://github.com/lycheeverse/lychee)** - Fast link checker
 
-This project is licensed under [CC0 1.0 Universal](https://github.com/testthedocs/awesome-docs/blob/master/LICENSE).
+---
+
+*Found a tool that should be included? [Contribute to this project](./contributing/) and help make documentation better for everyone!*

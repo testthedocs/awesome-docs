@@ -172,4 +172,33 @@ Always test your changes before submitting:
 - Ensure the site builds without errors
 - Test the search functionality with your new content
 
+## Community & Recognition
+
+### Contributors
+
+Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/contributors) who have helped make this resource better - you rock! 🎉
+
+Your contributions help the entire documentation community by:
+- Making tools more discoverable
+- Sharing knowledge and best practices
+- Keeping information current and accurate
+- Building a comprehensive resource for everyone
+
+### Recognition
+
+If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!
+
+## License & Legal
+
+This project is licensed under [CC0 1.0 Universal](https://github.com/testthedocs/awesome-docs/blob/main/LICENSE).
+
+### What This Means
+- **Public Domain**: This work is in the public domain
+- **No Rights Reserved**: You can copy, modify, distribute and perform the work
+- **Commercial Use**: You can use this work for commercial purposes
+- **No Attribution Required**: Though attribution is appreciated, it's not required
+
+### Contributing Agreement
+By contributing to this project, you agree that your contributions will be licensed under the same CC0 1.0 Universal license.
+
 Thank you for contributing to Awesome Docs! 🎉
