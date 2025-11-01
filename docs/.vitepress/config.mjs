@@ -45,14 +45,14 @@ export default defineConfig({
           { text: 'GitHub Actions', link: '/github-actions' }
         ]
       },
+      { text: 'Contributing', link: '/contributing/' },
       { text: 'Guide', link: '/guide' }
     ],
     sidebar: [
       {
         text: 'Getting Started',
         items: [
-          { text: 'Introduction', link: '/guide' },
-          { text: 'Installation', link: '/guide/installation' }
+          { text: 'Introduction', link: '/guide' }
         ]
       },
       {
@@ -75,6 +75,12 @@ export default defineConfig({
           { text: 'Style Guides', link: '/style-guides' },
           { text: 'Reading List', link: '/reading' },
           { text: 'GitHub Actions', link: '/github-actions' }
+        ]
+      },
+      {
+        text: 'Contributing',
+        items: [
+          { text: 'Getting Started', link: '/contributing/' }
         ]
       }
     ],

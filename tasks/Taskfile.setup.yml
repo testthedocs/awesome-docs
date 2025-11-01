@@ -10,32 +10,31 @@ tasks:
     silent: true
     internal: true
     preconditions:
-      - sh: "command -v brew >> /dev/null"
-        msg: "Please install Homebrew"
+    - sh: "command -v brew >> /dev/null"
+      msg: "Please install Homebrew"
 
   pnpm:
     desc: "Check if pnpm is installed and install it if missing"
     deps:
-      - homebrew
+    - homebrew
     cmds:
-      - brew install pnpm
+    - brew install pnpm
     status:
-      - command -v pnpm >> /dev/null
+    - command -v pnpm >> /dev/null
 
   node:
     desc: "Check if Node.js® is installed and install it if missing"
     deps:
-      - homebrew
+    - homebrew
     cmds:
-      - brew install node
+    - brew install node
     status:
-      - command -v node >> /dev/null
+    - command -v node >> /dev/null
 
   deps:
     desc: "Install VitePress dependencies using pnpm"
     deps:
-      - node
-      - pnpm
+    - node
+    - pnpm
     cmds:
-      - pnpm install
-
+    - pnpm install

@@ -9,16 +9,16 @@ tasks:
     desc: "Run local dev server to preview the docs"
     silent: true
     cmds:
-      - pnpm docs:dev
+    - pnpm docs:dev
 
   build:
     desc: "Build the docs website"
     silent: true
     cmds:
-      - pnpm docs:build
+    - pnpm docs:build
 
   preview:
     desc: "Preview the built docs website"
     silent: true
     cmds:
-      - pnpm docs:preview
+    - pnpm docs:preview
