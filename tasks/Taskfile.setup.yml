@@ -1,0 +1,41 @@
+# https://taskfile.dev
+
+version: '3'
+
+silent: true
+
+tasks:
+  homebrew:
+    desc: "Check if Homebrew is installed"
+    silent: true
+    internal: true
+    preconditions:
+      - sh: "command -v brew >> /dev/null"
+        msg: "Please install Homebrew"
+
+  pnpm:
+    desc: "Check if pnpm is installed and install it if missing"
+    deps:
+      - homebrew
+    cmds:
+      - brew install pnpm
+    status:
+      - command -v pnpm >> /dev/null
+
+  node:
+    desc: "Check if Node.js® is installed and install it if missing"
+    deps:
+      - homebrew
+    cmds:
+      - brew install node
+    status:
+      - command -v node >> /dev/null
+
+  deps:
+    desc: "Install VitePress dependencies using pnpm"
+    deps:
+      - node
+      - pnpm
+    cmds:
+      - pnpm install
+

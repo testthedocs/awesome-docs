@@ -5,12 +5,6 @@ version: '3'
 silent: true
 
 tasks:
-  install:
-    desc: "Install VitePress dependencies using pnpm"
-    silent: true
-    cmds:
-      - pnpm install
-
   dev:
     desc: "Run local dev server to preview the docs"
     silent: true
