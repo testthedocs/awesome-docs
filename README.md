@@ -237,6 +237,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Quartz](https://github.com/jackyzha0/quartz)
 - [RcPress](https://github.com/YvesCoding/rcpress)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
+- [VitePress](https://vitepress.dev/)
 - [Vocs](https://vocs.dev/)
 - [VuePress](https://github.com/wevm/vocs/)
 - [xyd](https://xyd.dev)
