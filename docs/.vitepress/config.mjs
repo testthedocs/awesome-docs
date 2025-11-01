@@ -30,7 +30,7 @@ export default defineConfig({
     },
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Tools', 
+      { text: 'Tools',
         items: [
           { text: 'Site Generators', link: '/generators' },
           { text: 'API Documentation', link: '/api' },
@@ -46,8 +46,8 @@ export default defineConfig({
           { text: 'GitHub Actions', link: '/github-actions' }
         ]
       },
-      { text: 'Contributing', link: '/contributing/' },
-      { text: 'Guide', link: '/guide' }
+      { text: 'Guide', link: '/guide' },
+      { text: 'Contributing', link: '/contributing/' }
     ],
     sidebar: [
       {
