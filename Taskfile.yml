@@ -1,0 +1,13 @@
+# https://taskfile.dev
+version: "3"
+
+includes:
+  code: ./tasks/Taskfile.go.yml
+  setup: ./tasks/Taskfile.setup.yml
+
+tasks:
+  default:
+    silent: true
+    cmds:
+      - echo "Welcome"
+      - task -l
