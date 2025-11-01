@@ -1,0 +1,29 @@
+/**
+ * Customize default theme styling by overriding CSS variables
+ * https://vitepress.dev/guide/extending-default-theme#customizing-css
+ */
+
+:root {
+  /* Override the brand color which is used for links */
+  --vp-c-brand-1: #5469d4;
+  --vp-c-brand-2: #5469d4;
+  --vp-c-brand-3: #5469d4;
+  --vp-c-brand-soft: rgba(84, 105, 212, 0.14);
+}
+
+/* Dark theme */
+.dark {
+  --vp-c-brand-1: #5469d4;
+  --vp-c-brand-2: #5469d4;
+  --vp-c-brand-3: #5469d4;
+  --vp-c-brand-soft: rgba(84, 105, 212, 0.16);
+}
+
+/* Additional link styling to ensure consistency */
+.vp-doc a {
+  color: #5469d4;
+}
+
+.vp-doc a:hover {
+  color: #4c63d2;
+}
