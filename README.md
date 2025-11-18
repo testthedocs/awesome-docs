@@ -356,7 +356,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools)
 - [vendir](https://carvel.dev/vendir/)
 - [Writerside](https://www.jetbrains.com/writerside/)
-
+- [NPM Scan](https://npmscan.com/)
+  
 ## User Behavior Analytics
 
 - [Clarity](https://clarity.microsoft.com/)
