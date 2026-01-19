@@ -211,6 +211,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Carbon](https://carbon.now.sh)
 - [Flameshot](https://github.com/lupoDharkael/flameshot)
+- [Heroshot](https://github.com/omachala/heroshot)
 - [shot-scraper](https://github.com/simonw/shot-scraper)
 - [Shottr](https://shottr.cc/)
 
