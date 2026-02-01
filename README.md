@@ -114,6 +114,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Alex Action](https://github.com/theashraf/alex-action)
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
+- [EkLine](https://ekline.io)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
 - [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
 - [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
@@ -149,6 +150,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Capitalize My Title](https://capitalizemytitle.com/)
 - [case-police](https://github.com/antfu/case-police)
 - [Doc Detective](https://github.com/doc-detective/doc-detective)
+- [EkLine](https://ekline.io)
 - [Harper](https://writewithharper.com/)
 - [HtmlTest](https://github.com/wjdp/htmltest)
 - [InnovationEngine](https://github.com/Azure/InnovationEngine)
