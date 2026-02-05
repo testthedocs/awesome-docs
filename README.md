@@ -82,6 +82,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [What we can learn from UX professionals when designing APIs](https://www.linkedin.com/pulse/what-we-can-learn-from-ux-professionals-when-designing-joyce-stack-/)
 - [widdershins](https://github.com/Mermade/widdershins)
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
+- [DevDocsAI](https://devdocsai-sigma.vercel.app/) - AI-powered API documentation generator. Paste code, get docs in 30 seconds.
 
 ## Browser Extensions
 
