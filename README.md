@@ -172,6 +172,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [API Handyman](https://apihandyman.io/)
 - [API Knowledge](https://postman-toolboxes.github.io/api-knowledge/)
 - [Automating Your Accessibility Tests](https://24ways.org/2017/automating-your-accessibility-tests)
+- [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs)
 - [Awesome Documentation](https://github.com/vipulgupta2048/awesome-documentation)
 - [Become a better writer as a developer](https://dev.to/dhaiwat10/become-a-better-writer-as-a-developer-46oc)
 - [Become a technical writer](https://www.instructionalsolutions.com/blog/become-a-technical-writer)
