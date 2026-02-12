@@ -137,6 +137,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Document360](https://document360.com/)
 - [Logseq](https://logseq.com/)
 - [Obsidian](https://obsidian.md)
+- [Taskade](https://taskade.com) - AI-powered docs, wiki, and knowledge base with real-time collaboration, custom AI agents, and workflow automation.
 
 ## Mockup
 
