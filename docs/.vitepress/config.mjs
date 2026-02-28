@@ -1,6 +1,10 @@
 import { defineConfig } from 'vitepress'
+import { linkMetadataPlugin } from './plugins/linkMetadataPlugin'
 
 export default defineConfig({
+  vite: {
+    plugins: [linkMetadataPlugin()]
+  },
   title: 'Awesome Docs',
   description: 'A VitePress Site',
   head: [
@@ -82,7 +86,8 @@ export default defineConfig({
       {
         text: 'Contributing',
         items: [
-          { text: 'Getting Started', link: '/contributing/' }
+          { text: 'Getting Started', link: '/contributing/' },
+          { text: 'Enhanced Links', link: '/contributing/enhanced-links' }
         ]
       }
     ],

@@ -13,6 +13,9 @@
   "license": "ISC",
   "packageManager": "pnpm@10.20.0",
   "devDependencies": {
+    "@fission-ai/openspec": "^1.2.0",
+    "@types/node": "^25.3.2",
+    "cheerio": "^1.2.0",
     "vitepress": "^1.6.4"
   }
 }

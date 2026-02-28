@@ -5,6 +5,20 @@ A [curated list](https://github.com/testthedocs/awesome-docs) of awesome documen
 *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
 Thank you!*
 
+## Enhanced Link Cards
+
+The documentation site features **enhanced link cards** that display rich metadata (title, description, logo) for external links. Cards are rendered using a custom `EnhancedLink` Vue component backed by a build-time metadata fetching system.
+
+Key features:
+- **Build-time fetching** — metadata is fetched once and cached; no runtime HTTP requests
+- **Redirect-aware** — follows HTTP redirects and caches both original and final URLs
+- **Rate-limited** — max 5 concurrent requests, 500 ms delay between same-domain requests
+- **7-day TTL cache** — stored in `.vitepress/cache/link-metadata.json`
+- **Graceful fallbacks** — placeholder icons when logos are unavailable; plain link on error
+- **Accessible** — WCAG 2.1 AA compliant with ARIA labels and keyboard navigation
+
+See [Contributing: Enhanced Links](docs/contributing/enhanced-links.md) for usage instructions.
+
 ## Contributing
 
 Please take a quick gander at the [contribution guidelines](https://github.com/testthedocs/awesome-docs/blob/master/CONTRIBUTING.md) first.

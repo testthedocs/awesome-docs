@@ -13,10 +13,12 @@ Specialized tools and resources that support documentation workflows across vari
 
 ### Browser Testing Tools
 
-- [Nightwatch.js](https://nightwatchjs.org/) - End-to-end testing framework
-- [Playwright](https://playwright.dev/) - Cross-browser automation library
-- [Puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome automation
-- [Selenium](https://www.seleniumhq.org/) - Web browser automation
+<ResourceGrid>
+<EnhancedLink url="https://nightwatchjs.org/" />
+<EnhancedLink url="https://playwright.dev/" />
+<EnhancedLink url="https://github.com/GoogleChrome/puppeteer" />
+<EnhancedLink url="https://www.selenium.dev/" />
+</ResourceGrid>
 
 ### Spelling & Language Tools
 
@@ -24,20 +26,24 @@ Specialized tools and resources that support documentation workflows across vari
 
 ## Accessibility Tools
 
-- [AXE-CLI](https://github.com/dequelabs/axe-cli) - Command-line accessibility testing
-- [Contrastchecker](https://webaim.org/resources/contrastchecker/) - Color contrast validation
-- [Image Alt text best practices](https://support.siteimprove.com/hc/en-gb/articles/115000013031-Accessibility-Image-Alt-text-best-practices) - Alt text guidelines
-- [Lumberjack](https://github.com/JakePartusch/lumberjack) - Accessibility testing tool
-- [Pa11y](https://pa11y.org/) - Automated accessibility testing
+<ResourceGrid>
+<EnhancedLink url="https://github.com/dequelabs/axe-cli" />
+<EnhancedLink url="https://webaim.org/resources/contrastchecker/" />
+<EnhancedLink url="https://support.siteimprove.com/hc/en-gb/articles/115000013031-Accessibility-Image-Alt-text-best-practices" />
+<EnhancedLink url="https://github.com/JakePartusch/lumberjack" />
+<EnhancedLink url="https://pa11y.org/" />
+</ResourceGrid>
 
 ## Hosting & Deployment
 
-- [Doctave](https://www.doctave.com/) - Documentation hosting platform
-- [Docs by Hashnode](https://hashnode.com/products/docs) - Documentation hosting
-- [GitBook](https://www.gitbook.com/) - Knowledge management platform
-- [Mintlify](https://www.mintlify.com/) - Documentation platform
-- [Netlify](https://www.netlify.com/) - Static site hosting
-- [Read The Docs](https://readthedocs.org/) - Documentation hosting for open source
+<ResourceGrid>
+<EnhancedLink url="https://www.doctave.com/" />
+<EnhancedLink url="https://hashnode.com/" title="Docs by Hashnode" description="Documentation hosting platform by Hashnode" />
+<EnhancedLink url="https://www.gitbook.com/" />
+<EnhancedLink url="https://www.mintlify.com/" />
+<EnhancedLink url="https://www.netlify.com/" />
+<EnhancedLink url="https://readthedocs.org/" />
+</ResourceGrid>
 
 ## Utility Tools
 

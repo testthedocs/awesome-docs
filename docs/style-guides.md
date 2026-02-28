@@ -12,27 +12,33 @@ Comprehensive collection of documentation style guides and writing standards fro
 
 ### Web Standards & Accessibility
 
-- [Accessibility - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/Accessibility) - Web accessibility guidelines
-- [Web Content Accessibility Guidelines](https://www.w3.org/TR/WCAG21/) - W3C accessibility standards
-- [Accessible social media content](https://www.accessible-social.com/quick-guide) - Social media accessibility
+<ResourceGrid>
+<EnhancedLink url="https://developer.mozilla.org/en-US/docs/Web/Accessibility" />
+<EnhancedLink url="https://www.w3.org/TR/WCAG21/" />
+<EnhancedLink url="https://www.accessible-social.com/quick-guide" />
+</ResourceGrid>
 
 ## Technology Companies
 
 ### Developer-Focused
 
-- [GitHub](https://github.com/github/docs/blob/main/contributing/content-style-guide.md#content-style-guide-for-github-docs-) - GitHub documentation style
-- [GitLab](https://docs.gitlab.com/ee/development/documentation/styleguide/) - GitLab documentation standards
-- [Google](https://developers.google.com/style/) - Google developer documentation
-- [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/) - Microsoft writing style guide
-- [Red Hat Guidelines](https://redhat-documentation.github.io/) - Red Hat documentation standards
-- [Red Hat Style Guide](https://stylepedia.net/) - Comprehensive Red Hat style guide
+<ResourceGrid>
+<EnhancedLink url="https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide" title="GitHub Docs Style Guide" />
+<EnhancedLink url="https://docs.gitlab.com/ee/development/documentation/styleguide/" title="GitLab Style Guide" />
+<EnhancedLink url="https://developers.google.com/style/" />
+<EnhancedLink url="https://docs.microsoft.com/en-us/style-guide/welcome/" />
+<EnhancedLink url="https://redhat-documentation.github.io/" />
+<EnhancedLink url="https://stylepedia.net/" />
+</ResourceGrid>
 
 ### Cloud & Infrastructure
 
-- [DigitalOcean](https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines) - Technical writing guidelines
-- [Linode](https://www.linode.com/docs/linode-writers-formatting-guide/) - Linode writing and formatting guide
-- [Rackspace](https://github.com/rackerlabs/docs-style-guide/tree/master/style-guide) - Rackspace documentation style
-- [Salesforce](https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm) - Salesforce publishing style
+<ResourceGrid>
+<EnhancedLink url="https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines" />
+<EnhancedLink url="https://www.linode.com/docs/linode-writers-formatting-guide/" />
+<EnhancedLink url="https://github.com/rackerlabs/docs-style-guide/tree/master/style-guide" />
+<EnhancedLink url="https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm" />
+</ResourceGrid>
 
 ### Database & Analytics
 
@@ -48,9 +54,11 @@ Comprehensive collection of documentation style guides and writing standards fro
 
 ### Technical Writing
 
-- [CLI Guidelines](https://clig.dev/) - Command-line interface design principles
-- [Developer Style Guide](https://github.com/lornajane/developer-style-guide) - Developer-focused writing guide
-- [Markdown Guide](https://www.markdownguide.org/) - Comprehensive Markdown reference
+<ResourceGrid>
+<EnhancedLink url="https://clig.dev/" />
+<EnhancedLink url="https://github.com/lornajane/developer-style-guide" />
+<EnhancedLink url="https://www.markdownguide.org/" />
+</ResourceGrid>
 
 ### Content & Marketing
 

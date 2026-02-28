@@ -25,6 +25,9 @@ pnpm-lock.yaml
 docs/.vitepress/dist
 docs/.vitepress/cache
 
+# Generated public cache (copied from .vitepress/cache at build time)
+docs/public/cache/
+
 # Environment variables
 .env
 .env.local
