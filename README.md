@@ -340,6 +340,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
 - [docToolchain](https://github.com/doctoolchain/doctoolchain)
 - [D2 Declarative Diagramming](https://d2lang.com/)
+- [DRF - Decision Reasoning Format](https://github.com/reasoning-formats/reasoning-formats) - A vendor-neutral, machine-readable YAML/JSON format for structured decision documentation with explicit reasoning, assumptions, and trade-offs.
 - [DIV Table Generator](https://divtable.com/generator/)
 - [Driver.js](https://github.com/kamranahmedse/driver.js)
 - [fixred](https://github.com/rhysd/fixred)
