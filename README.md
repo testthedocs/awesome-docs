@@ -185,7 +185,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [How to write technical posts](https://reasonablypolymorphic.com/blog/writing-technical-posts/)
 - [Let's Get Intentional About Documentation](https://counting.substack.com/p/lets-get-intentional-about-documentation)
 - [Mastering cURL](https://dev.to/mkinoshita12/mastering-curl-going-from-junior-to-senior-level-debugging-skills-5d80)
-- [Maybe it’s time we re-think docs](https://kathkorevec.medium.com/building-a-better-place-for-docs-197f92765409)
+- [Maybe it's time we re-think docs](https://kathkorevec.medium.com/building-a-better-place-for-docs-197f92765409)
 - [Scottydocs.com](https://github.com/scottydocs)
 - [Semantic Line Breaks](https://sembr.org/)
 - [Setting up the alex.js language linter in your project](https://dev.to/unmock/setting-up-the-alex-js-language-linter-in-your-project-3bpl)
@@ -349,6 +349,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
 - [Merge Docs Pro](https://www.mergedocs.pro)
 - [Penpot](https://penpot.app/)
+- [PitchDocs](https://github.com/littlebearapps/pitchdocs) - AI-powered documentation generator that scans codebases and produces marketing-ready READMEs, changelogs, and AI context files with quality scoring.
 - [Playwright](https://github.com/microsoft/playwright)
 - [Pocket Marketing List](https://github.com/rubymorillo/pocket-marketing-tech-list)
 - [readme.so](https://readme.so/)
