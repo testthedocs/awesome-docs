@@ -222,6 +222,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [11ty](https://www.11ty.dev/)
 - [Antora](https://antora.org/)
+- [Bengal](https://github.com/lbliii/bengal) - A Python static site generator for documentation, blogs, and product sites.
 - [Astro](https://astro.build/)
   - [Starlight](https://starlight.astro.build/)
 - [Document Node](https://documentnode.io/)
