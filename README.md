@@ -81,6 +81,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Tips for better documentation with OpenAPI](https://lornajane.net/posts/2023/tips-for-better-documentation-with-openapi)
 - [What we can learn from UX professionals when designing APIs](https://www.linkedin.com/pulse/what-we-can-learn-from-ux-professionals-when-designing-joyce-stack-/)
 - [widdershins](https://github.com/Mermade/widdershins)
+- [Xquik API Documentation](https://docs.xquik.com) - REST API documentation for the Xquik X/Twitter automation platform. Covers 40+ API endpoints, MCP server setup, webhook integration, OpenAPI spec, and interactive examples.
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
 
 ## Browser Extensions
