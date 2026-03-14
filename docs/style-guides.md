@@ -6,16 +6,18 @@ Comprehensive collection of documentation style guides and writing standards fro
 
 ### Government & Standards
 
-- [18F](https://content-guide.18f.gov/) - U.S. Digital Service content guide
-- [Federal (US) plain language guidelines](https://plainlanguage.gov/guidelines/) - Government plain language standards
-- [United Nations](https://www.un.org/dgacm/content/editorial-manual) - UN editorial manual
+<ResourceGrid>
+<EnhancedLink url="https://github.com/18F/guides" title="18F Guides" />
+<EnhancedLink url="https://plainlanguage.gov/guidelines" title="Plain Language Guide Series" />
+<EnhancedLink url="https://www.un.org/dgacm/content/editorial-manual" title="United Nations Editorial Manual" />
+</ResourceGrid>
 
 ### Web Standards & Accessibility
 
 <ResourceGrid>
-<EnhancedLink url="https://developer.mozilla.org/en-US/docs/Web/Accessibility" />
-<EnhancedLink url="https://www.w3.org/TR/WCAG21/" />
-<EnhancedLink url="https://www.accessible-social.com/quick-guide" />
+<EnhancedLink url="https://developer.mozilla.org/en-US/docs/Web/Accessibility" title="Accessibility | MDN" />
+<EnhancedLink url="https://www.w3.org/TR/WCAG21/" title="Web Content Accessibility Guidelines (WCAG) 2.1" />
+<EnhancedLink url="https://www.accessible-social.com/quick-guide" title="Accessible Social Quick Guide" />
 </ResourceGrid>
 
 ## Technology Companies
@@ -25,19 +27,19 @@ Comprehensive collection of documentation style guides and writing standards fro
 <ResourceGrid>
 <EnhancedLink url="https://docs.github.com/en/contributing/style-guide-and-content-model/style-guide" title="GitHub Docs Style Guide" />
 <EnhancedLink url="https://docs.gitlab.com/ee/development/documentation/styleguide/" title="GitLab Style Guide" />
-<EnhancedLink url="https://developers.google.com/style/" />
-<EnhancedLink url="https://docs.microsoft.com/en-us/style-guide/welcome/" />
-<EnhancedLink url="https://redhat-documentation.github.io/" />
-<EnhancedLink url="https://stylepedia.net/" />
+<EnhancedLink url="https://developers.google.com/style/" title="Google Developer Documentation Style Guide" />
+<EnhancedLink url="https://docs.microsoft.com/en-us/style-guide/welcome/" title="Microsoft Writing Style Guide" />
+<EnhancedLink url="https://redhat-documentation.github.io/" title="Guidelines for Red Hat Documentation" />
+<EnhancedLink url="https://stylepedia.net/" title="Red Hat Style Guide" />
 </ResourceGrid>
 
 ### Cloud & Infrastructure
 
 <ResourceGrid>
-<EnhancedLink url="https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines" />
-<EnhancedLink url="https://www.linode.com/docs/linode-writers-formatting-guide/" />
-<EnhancedLink url="https://github.com/rackerlabs/docs-style-guide/tree/master/style-guide" />
-<EnhancedLink url="https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm" />
+<EnhancedLink url="https://www.digitalocean.com/community/tutorials/digitalocean-s-technical-writing-guidelines" title="DigitalOcean's Technical Writing Guidelines" />
+<EnhancedLink url="https://www.linode.com/docs/linode-writers-formatting-guide/" title="Linode Writer's Formatting Guide" />
+<EnhancedLink url="https://github.com/rackerlabs/docs-style-guide/tree/master/style-guide" title="Rackspace Style Guide for Technical Content" />
+<EnhancedLink url="https://developer.salesforce.com/docs/atlas.en-us.salesforce_pubs_style_guide.meta/salesforce_pubs_style_guide/overview.htm" title="Salesforce Style Guide" />
 </ResourceGrid>
 
 ### Database & Analytics
@@ -55,9 +57,9 @@ Comprehensive collection of documentation style guides and writing standards fro
 ### Technical Writing
 
 <ResourceGrid>
-<EnhancedLink url="https://clig.dev/" />
-<EnhancedLink url="https://github.com/lornajane/developer-style-guide" />
-<EnhancedLink url="https://www.markdownguide.org/" />
+<EnhancedLink url="https://clig.dev/" title="Command Line Interface Guidelines" />
+<EnhancedLink url="https://github.com/lornajane/developer-style-guide" title="Developer Style Guide" />
+<EnhancedLink url="https://www.markdownguide.org/" title="Markdown Guide" />
 </ResourceGrid>
 
 ### Content & Marketing

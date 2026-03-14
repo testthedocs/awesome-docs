@@ -78,3 +78,7 @@ Most quality assurance tools can be integrated into:
 - Track metrics over time
 - User feedback analysis
 - Tool effectiveness evaluation
+
+## AI-Powered Review
+
+For AI-powered review tools, agent skills, and prompt templates for documentation review, see our [AI Review](/ai/review) section.

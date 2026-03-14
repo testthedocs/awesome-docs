@@ -66,3 +66,6 @@ For accessibility-focused writing tools, see our [Quality Assurance](/quality) s
 
 ### Content Validation
 For spell checking and content validation tools, see our [Quality Assurance](/quality) section.
+
+### AI Writing Tools
+For AI-powered writing assistants, agent skills, and prompt templates for technical writing, see our [AI Writing](/ai/writing) section.

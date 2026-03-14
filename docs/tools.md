@@ -14,10 +14,10 @@ Specialized tools and resources that support documentation workflows across vari
 ### Browser Testing Tools
 
 <ResourceGrid>
-<EnhancedLink url="https://nightwatchjs.org/" />
-<EnhancedLink url="https://playwright.dev/" />
-<EnhancedLink url="https://github.com/GoogleChrome/puppeteer" />
-<EnhancedLink url="https://www.selenium.dev/" />
+<EnhancedLink url="https://nightwatchjs.org/" title="Nightwatch" />
+<EnhancedLink url="https://playwright.dev/" title="Playwright" />
+<EnhancedLink url="https://github.com/GoogleChrome/puppeteer" title="Puppeteer" />
+<EnhancedLink url="https://www.selenium.dev/" title="Selenium" />
 </ResourceGrid>
 
 ### Spelling & Language Tools
@@ -27,22 +27,22 @@ Specialized tools and resources that support documentation workflows across vari
 ## Accessibility Tools
 
 <ResourceGrid>
-<EnhancedLink url="https://github.com/dequelabs/axe-cli" />
-<EnhancedLink url="https://webaim.org/resources/contrastchecker/" />
-<EnhancedLink url="https://support.siteimprove.com/hc/en-gb/articles/115000013031-Accessibility-Image-Alt-text-best-practices" />
-<EnhancedLink url="https://github.com/JakePartusch/lumberjack" />
-<EnhancedLink url="https://pa11y.org/" />
+<EnhancedLink url="https://github.com/dequelabs/axe-cli" title="axe-cli" />
+<EnhancedLink url="https://webaim.org/resources/contrastchecker/" title="WebAIM Contrast Checker" />
+<EnhancedLink url="https://support.siteimprove.com/hc/en-gb/articles/115000013031-Accessibility-Image-Alt-text-best-practices" title="Accessibility: Image Alt Text Best Practices" />
+<EnhancedLink url="https://github.com/JakePartusch/lumberjack" title="Lumberjack" />
+<EnhancedLink url="https://pa11y.org/" title="Pa11y" />
 </ResourceGrid>
 
 ## Hosting & Deployment
 
 <ResourceGrid>
-<EnhancedLink url="https://www.doctave.com/" />
+<EnhancedLink url="https://www.doctave.com/" title="Doctave" />
 <EnhancedLink url="https://hashnode.com/" title="Docs by Hashnode" description="Documentation hosting platform by Hashnode" />
-<EnhancedLink url="https://www.gitbook.com/" />
-<EnhancedLink url="https://www.mintlify.com/" />
-<EnhancedLink url="https://www.netlify.com/" />
-<EnhancedLink url="https://readthedocs.org/" />
+<EnhancedLink url="https://www.gitbook.com/" title="GitBook" />
+<EnhancedLink url="https://www.mintlify.com/" title="Mintlify" />
+<EnhancedLink url="https://www.netlify.com/" title="Netlify" />
+<EnhancedLink url="https://readthedocs.org/" title="Read the Docs" />
 </ResourceGrid>
 
 ## Utility Tools

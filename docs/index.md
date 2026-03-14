@@ -26,6 +26,11 @@ A **curated list** of awesome documentation tools, guides and best practices for
 ### 🌐 Publishing & Hosting
 - [GitHub Actions](./github-actions) - Automation for documentation workflows
 
+### 🤖 AI
+- [AI Writing](./ai/writing) - AI writing assistants and agent skills for technical writing
+- [AI Review](./ai/review) - AI review tools and agent skills for documentation review
+- [MCP Servers](./ai/mcp-servers) - Model Context Protocol servers for documentation workflows
+
 ### 📚 Learning Resources
 - [Style Guides](./style-guides) - Documentation and writing style guides
 - [Reading List](./reading) - Articles and resources about documentation
