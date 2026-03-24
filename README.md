@@ -352,6 +352,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Squoosh](https://squoosh.app/)
 - [Tables Generator](https://www.tablesgenerator.com/)
 - [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools)
+- [Trupeer](https://www.trupeer.ai/) - AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 - [vendir](https://carvel.dev/vendir/)
 - [Writerside](https://www.jetbrains.com/writerside/)
 
