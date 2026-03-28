@@ -355,7 +355,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Trupeer](https://www.trupeer.ai/) - AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 - [vendir](https://carvel.dev/vendir/)
 - [Writerside](https://www.jetbrains.com/writerside/)
-
+- [NPM Scan](https://npmscan.com/)
+  
 ## User Behavior Analytics
 
 - [Clarity](https://clarity.microsoft.com/)
