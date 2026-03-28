@@ -128,6 +128,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Doctave](https://www.doctave.com/)
 - [Ferndesk](https://ferndesk.com/)
 - [GitBook](https://www.gitbook.com/)
+- [Jamdesk](https://www.jamdesk.com/)
 - [Mintlify](https://www.mintlify.com/)
 - [Netlify](https://www.netlify.com/)
 - [Read The Docs](https://readthedocs.org/)
