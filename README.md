@@ -330,6 +330,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
 - [Calculate max length for UI elements](https://max-char-length-calculator.netlify.app/)
 - [Code Hike](https://codehike.org/)
+- [Code Tour](https://github.com/vaddisrinivas/code-tour) - AI-generated CodeTour walkthroughs for any codebase, creating persona-targeted .tour files with step-by-step explanations linked to real files and line numbers.
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
 - [docToolchain](https://github.com/doctoolchain/doctoolchain)
 - [D2 Declarative Diagramming](https://d2lang.com/)
