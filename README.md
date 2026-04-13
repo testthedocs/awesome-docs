@@ -365,6 +365,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Viewer
 
 - [Glow - Render Markdown on the CLI](https://github.com/charmbracelet/glow)
+- [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting for 190+ languages.
 - [mdv](https://github.com/xrfang/mdv/)
 
 ## Watching
