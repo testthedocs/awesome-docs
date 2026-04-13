@@ -116,6 +116,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Alex Action](https://github.com/theashraf/alex-action)
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
+- [DocuPilot](https://docupilot-alpha.vercel.app) - GitHub App that auto-generates README, CHANGELOG, and API docs on every push via AI-powered PRs. Free for 1 repo.
 - [EkLine](https://ekline.io)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
 - [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
