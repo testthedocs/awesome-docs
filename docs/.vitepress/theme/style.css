@@ -1,29 +1,93 @@
-/**
- * Customize default theme styling by overriding CSS variables
- * https://vitepress.dev/guide/extending-default-theme#customizing-css
- */
-
 :root {
-  /* Override the brand color which is used for links */
-  --vp-c-brand-1: #5469d4;
-  --vp-c-brand-2: #5469d4;
-  --vp-c-brand-3: #5469d4;
-  --vp-c-brand-soft: rgba(84, 105, 212, 0.14);
+  --docs-neutral-0: #ffffff;
+  --docs-neutral-50: #f6f8fa;
+  --docs-neutral-100: #ebeef1;
+  --docs-neutral-200: #d5dbe1;
+  --docs-neutral-400: #87909f;
+  --docs-neutral-500: #687385;
+  --docs-neutral-700: #414552;
+  --docs-neutral-800: #30313d;
+  --docs-neutral-900: #1a1b25;
+
+  --docs-brand-400: #8d7ffa;
+  --docs-brand-500: #625afa;
+  --docs-brand-600: #513dd9;
+  --docs-info-500: #0570de;
+
+  --vp-c-bg: var(--docs-neutral-0);
+  --vp-c-bg-soft: #fbfcfd;
+  --vp-c-bg-alt: var(--docs-neutral-50);
+  --vp-c-bg-elv: #ffffff;
+
+  --vp-c-border: var(--docs-neutral-200);
+  --vp-c-divider: var(--docs-neutral-200);
+
+  --vp-c-text-1: var(--docs-neutral-800);
+  --vp-c-text-2: var(--docs-neutral-500);
+  --vp-c-text-3: var(--docs-neutral-400);
+
+  --vp-c-brand-1: var(--docs-brand-500);
+  --vp-c-brand-2: var(--docs-brand-600);
+  --vp-c-brand-3: #3f32a1;
+  --vp-c-brand-soft: rgba(98, 90, 250, 0.16);
+
+  --vp-c-indigo-1: var(--docs-info-500);
+  --vp-c-indigo-2: #0055bc;
+
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: linear-gradient(120deg, #625afa 10%, #0570de 55%, #06b9ef 100%);
+  --vp-home-hero-image-background-image: radial-gradient(circle at 40% 30%, rgba(98, 90, 250, 0.24), rgba(5, 112, 222, 0.12));
+  --vp-home-hero-image-filter: blur(68px);
 }
 
-/* Dark theme */
 .dark {
-  --vp-c-brand-1: #5469d4;
-  --vp-c-brand-2: #5469d4;
-  --vp-c-brand-3: #5469d4;
-  --vp-c-brand-soft: rgba(84, 105, 212, 0.16);
+  --vp-c-bg: #10111a;
+  --vp-c-bg-soft: #1a1b25;
+  --vp-c-bg-alt: #171822;
+  --vp-c-bg-elv: #202230;
+
+  --vp-c-border: #30313d;
+  --vp-c-divider: #30313d;
+
+  --vp-c-text-1: #ebeef1;
+  --vp-c-text-2: #c0c8d2;
+  --vp-c-text-3: #87909f;
+
+  --vp-c-brand-1: #b49cfc;
+  --vp-c-brand-2: #8d7ffa;
+  --vp-c-brand-3: #625afa;
+  --vp-c-brand-soft: rgba(180, 156, 252, 0.2);
+
+  --vp-c-indigo-1: #75d5e8;
+  --vp-c-indigo-2: #06b9ef;
 }
 
-/* Additional link styling to ensure consistency */
+.VPNavBar {
+  backdrop-filter: saturate(160%) blur(14px);
+  background: color-mix(in srgb, var(--vp-c-bg) 88%, transparent);
+  border-bottom: 1px solid var(--vp-c-divider);
+}
+
+
+
 .vp-doc a {
-  color: #5469d4;
+  color: var(--vp-c-indigo-1);
+  text-underline-offset: 2px;
 }
 
 .vp-doc a:hover {
-  color: #4c63d2;
+  color: var(--vp-c-indigo-2);
+}
+
+.vp-doc h2,
+.vp-doc h3 {
+  letter-spacing: -0.01em;
+}
+
+.vp-doc .custom-block {
+  border-radius: 10px;
+}
+
+.vp-doc :is(ul, ol) li + li {
+  margin-top: 0.3rem;
 }

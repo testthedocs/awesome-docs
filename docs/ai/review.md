@@ -61,4 +61,4 @@ Vale's rule-based linting and AI review are complementary:
 
 ---
 
-*For non-AI quality assurance tools, see [Quality Assurance](../quality). For AI writing assistance, see [AI Writing](./writing).*
+*For non-AI quality assurance tools, see [Quality Assurance](../quality/). For AI writing assistance, see [AI Writing](./writing).*

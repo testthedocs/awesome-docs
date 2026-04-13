@@ -15,13 +15,13 @@ A **curated list** of awesome documentation tools, guides and best practices for
 ## 📋 Categories Overview
 
 ### 🛠️ Core Tools
-- [Site Generators](./generators) - Static site generators for documentation
-- [API Documentation](./api) - Tools for API documentation and testing
-- [Writing Tools](./writing) - Grammar, style, and writing assistance
+- [Site Generators](./generators/) - Static site generators for documentation
+- [API Documentation](./api/) - Tools for API documentation and testing
+- [Writing Tools](./writing/) - Grammar, style, and writing assistance
 
 ### 🎨 Content & Quality
-- [Quality Assurance](./quality) - Linting, testing, and validation
-- [Additional Tools](./tools) - Specialized tools and resources
+- [Quality Assurance](./quality/) - Linting, testing, and validation
+- [Additional Tools](./tools/) - Specialized tools and resources
 
 ### 🌐 Publishing & Hosting
 - [GitHub Actions](./github-actions) - Automation for documentation workflows
@@ -32,8 +32,8 @@ A **curated list** of awesome documentation tools, guides and best practices for
 - [MCP Servers](./ai/mcp-servers) - Model Context Protocol servers for documentation workflows
 
 ### 📚 Learning Resources
-- [Style Guides](./style-guides) - Documentation and writing style guides
-- [Reading List](./reading) - Articles and resources about documentation
+- [Style Guides](./style-guides/) - Documentation and writing style guides
+- [Reading List](./reading/) - Articles and resources about documentation
 
 ## 🎯 Popular Tools
 

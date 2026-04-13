@@ -104,6 +104,6 @@ For more comprehensive documentation workflows:
 
 ## Related Tools
 
-For more comprehensive documentation quality assurance, see our [Quality Assurance](/quality) section which includes additional tools that can be integrated into GitHub Actions workflows.
+For more comprehensive documentation quality assurance, see our [Quality Assurance](/quality/) section which includes additional tools that can be integrated into GitHub Actions workflows.
 
 These actions help maintain high-quality documentation by automating validation, ensuring consistency, and catching issues early in the development process.

@@ -104,24 +104,24 @@ function handleImageError() {
   display: flex;
   align-items: flex-start;
   gap: 1rem;
-  padding: 1rem;
+  padding: 1rem 1.05rem;
   border: 1px solid var(--vp-c-divider);
-  border-radius: 8px;
+  border-radius: 12px;
   text-decoration: none;
   color: inherit;
-  transition: all 0.2s ease;
-  background-color: var(--vp-c-bg-soft);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+  background-color: var(--vp-c-bg-elv);
+  box-shadow: 0 1px 1px rgba(26, 27, 37, 0.05), 0 3px 10px rgba(26, 27, 37, 0.06);
 }
 
 .enhanced-link:hover {
-  border-color: var(--vp-c-brand-1);
-  background-color: var(--vp-c-bg-alt);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  border-color: color-mix(in srgb, var(--vp-c-brand-1) 46%, var(--vp-c-divider));
+  transform: translateY(-1px);
+  box-shadow: 0 1px 1px rgba(26, 27, 37, 0.07), 0 8px 22px rgba(26, 27, 37, 0.11);
 }
 
 .enhanced-link:focus {
-  outline: 2px solid var(--vp-c-brand-1);
+  outline: 2px solid var(--vp-c-indigo-1);
   outline-offset: 2px;
 }
 
@@ -176,7 +176,7 @@ function handleImageError() {
   width: 100%;
   height: 100%;
   object-fit: contain;
-  border-radius: 4px;
+  border-radius: 6px;
 }
 
 .enhanced-link__placeholder {
@@ -191,18 +191,18 @@ function handleImageError() {
 }
 
 .enhanced-link__title {
-  font-weight: 600;
+  font-weight: 650;
   color: var(--vp-c-text-1);
-  margin-bottom: 0.25rem;
+  margin-bottom: 0.3rem;
   line-height: 1.4;
 }
 
 .enhanced-link__description {
-  font-size: 0.9em;
+  font-size: 0.92em;
   color: var(--vp-c-text-2);
-  line-height: 1.5;
+  line-height: 1.45;
   display: -webkit-box;
-  -webkit-line-clamp: 2;
+  -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }

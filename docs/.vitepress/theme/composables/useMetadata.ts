@@ -1,29 +1,5 @@
 import { ref, Ref } from 'vue';
-
-/**
- * Link metadata interface — must stay in sync with the build-side
- * LinkMetadata in plugins/metadata/fetchMetadata.ts
- */
-export interface LinkMetadata {
-  title: string | null;
-  description: string | null;
-  image: string | null;
-  favicon: string | null;
-  /** The original URL as provided by the author */
-  url: string;
-  /** The final URL after following redirects (may differ from url) */
-  finalUrl: string;
-}
-
-/**
- * Cache data structure
- */
-interface CacheData {
-  [url: string]: {
-    metadata: LinkMetadata;
-    fetchedAt: string;
-  };
-}
+import type { CacheData, LinkMetadata } from '../../shared/metadata';
 
 // Global cache — loaded once and shared across all component instances
 let metadataCache: CacheData | null = null;

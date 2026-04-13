@@ -1,36 +1,108 @@
 import { defineConfig } from 'vitepress'
 import { linkMetadataPlugin } from './plugins/linkMetadataPlugin'
+import { readFileSync } from 'node:fs'
+import { resolve } from 'node:path'
 
 /**
- * Inject EnhancedLink title props as plain text into the markdown source
- * before rendering, so VitePress local search can index link card titles.
+ * Inject EnhancedLink metadata as plain text into markdown before rendering
+ * so VitePress local search indexes card titles and descriptions.
  *
  * VitePress's local search _render hook receives the raw markdown source.
  * <EnhancedLink> is a Vue component — markdown-it passes it through as a
  * raw HTML block, so the title prop value never appears as a text node in
  * the indexed content.
  *
- * This function rewrites each <EnhancedLink title="..."> tag to also emit
- * the title as a plain markdown text token immediately after the tag, so
- * the search indexer associates the title with the correct page section.
+ * This function rewrites each <EnhancedLink ...> tag to emit resolved text:
+ * title priority is manual prop > fetched metadata > URL hostname.
+ * Description is indexed when available.
  *
  * @param {string} src - Raw markdown source of the page
  * @param {object} env - VitePress page environment
  * @param {object} md - markdown-it instance
  * @returns {string} Rendered HTML with EnhancedLink titles as indexed text
  */
+let metadataCacheForIndex = null
+
+function getMetadataCacheForIndex() {
+  if (metadataCacheForIndex !== null) {
+    return metadataCacheForIndex
+  }
+
+  try {
+    const cachePath = resolve(process.cwd(), 'docs/.vitepress/cache/link-metadata.json')
+    const raw = readFileSync(cachePath, 'utf-8')
+    metadataCacheForIndex = JSON.parse(raw)
+  } catch {
+    metadataCacheForIndex = {}
+  }
+
+  return metadataCacheForIndex
+}
+
+function getAttr(tag, attrName) {
+  const regex = new RegExp(`${attrName}\\s*=\\s*(?:"([^"]*)"|'([^']*)')`, 'i')
+  const match = tag.match(regex)
+  if (!match) {
+    return null
+  }
+
+  return match[1] ?? match[2] ?? null
+}
+
+function resolveTitle(tag, cache) {
+  const manualTitle = getAttr(tag, 'title')
+  if (manualTitle) {
+    return manualTitle
+  }
+
+  const url = getAttr(tag, 'url')
+  if (!url) {
+    return null
+  }
+
+  const fromCache = cache?.[url]?.metadata?.title
+  if (fromCache) {
+    return fromCache
+  }
+
+  try {
+    return new URL(url).hostname
+  } catch {
+    return url
+  }
+}
+
+function resolveDescription(tag, cache) {
+  const manualDescription = getAttr(tag, 'description')
+  if (manualDescription) {
+    return manualDescription
+  }
+
+  const url = getAttr(tag, 'url')
+  if (!url) {
+    return null
+  }
+
+  return cache?.[url]?.metadata?.description ?? null
+}
+
 function renderWithEnhancedLinkTitles(src, env, md) {
-  // Replace each <EnhancedLink ... title="Foo" ... /> with a level-4 heading
-  // containing the title text, followed by the original tag.
-  //
-  // Using a heading (####) rather than a paragraph means:
-  // 1. The title appears as the matched section in search results (better UX)
-  // 2. The term is indexed in the `titles` field (higher relevance weight)
-  // 3. Clicking the result navigates to the correct section anchor
-  const patched = src.replace(
-    /(<EnhancedLink\b[^>]*\btitle="([^"]+)"[^>]*\/>)/g,
-    (match, tag, title) => `\n\n#### ${title}\n\n${tag}\n\n`
-  )
+  const cache = getMetadataCacheForIndex()
+  const enhancedLinkRegex = /<EnhancedLink\b[\s\S]*?(?:\/>|>[\s\S]*?<\/EnhancedLink>)/g
+
+  const patched = src.replace(enhancedLinkRegex, (tag) => {
+    const title = resolveTitle(tag, cache)
+    const description = resolveDescription(tag, cache)
+
+    if (!title && !description) {
+      return tag
+    }
+
+    const titleText = title ? `\n\n#### ${title}\n` : '\n'
+    const descriptionText = description ? `\n${description}\n` : '\n'
+
+    return `${titleText}${descriptionText}\n${tag}\n\n`
+  })
 
   return md.render(patched, env)
 }
@@ -71,17 +143,17 @@ export default defineConfig({
       { text: 'Home', link: '/' },
       { text: 'Tools',
         items: [
-          { text: 'Site Generators', link: '/generators' },
-          { text: 'API Documentation', link: '/api' },
-          { text: 'Quality Assurance', link: '/quality' },
-          { text: 'Writing Tools', link: '/writing' },
-          { text: 'Additional Tools', link: '/tools' }
+          { text: 'Site Generators', link: '/generators/' },
+          { text: 'API Documentation', link: '/api/' },
+          { text: 'Quality Assurance', link: '/quality/' },
+          { text: 'Writing Tools', link: '/writing/' },
+          { text: 'Additional Tools', link: '/tools/' }
         ]
       },
       { text: 'Resources',
         items: [
-          { text: 'Style Guides', link: '/style-guides' },
-          { text: 'Reading List', link: '/reading' },
+          { text: 'Style Guides', link: '/style-guides/' },
+          { text: 'Reading List', link: '/reading/' },
           { text: 'GitHub Actions', link: '/github-actions' }
         ]
       },
@@ -105,24 +177,24 @@ export default defineConfig({
       {
         text: 'Core Tools',
         items: [
-          { text: 'Site Generators', link: '/generators' },
-          { text: 'API Documentation', link: '/api' }
+          { text: 'Site Generators', link: '/generators/' },
+          { text: 'API Documentation', link: '/api/' }
         ]
       },
       {
         text: 'Content & Quality',
         items: [
-          { text: 'Writing Tools', link: '/writing' },
-          { text: 'Quality Assurance', link: '/quality' }
+          { text: 'Writing Tools', link: '/writing/' },
+          { text: 'Quality Assurance', link: '/quality/' }
         ]
       },
       {
         text: 'Resources',
         items: [
-          { text: 'Style Guides', link: '/style-guides' },
-          { text: 'Reading List', link: '/reading' },
+          { text: 'Style Guides', link: '/style-guides/' },
+          { text: 'Reading List', link: '/reading/' },
           { text: 'GitHub Actions', link: '/github-actions' },
-          { text: 'Additional Tools', link: '/tools' }
+          { text: 'Additional Tools', link: '/tools/' }
         ]
       },
       {

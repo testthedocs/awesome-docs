@@ -1,18 +1,5 @@
 import * as cheerio from 'cheerio';
-
-/**
- * Metadata structure returned by the fetcher
- */
-export interface LinkMetadata {
-  title: string | null;
-  description: string | null;
-  image: string | null;
-  favicon: string | null;
-  /** The original URL as provided */
-  url: string;
-  /** The final URL after following redirects (may differ from url) */
-  finalUrl: string;
-}
+import type { LinkMetadata } from '../../shared/metadata';
 
 /**
  * Fetch metadata from a URL with timeout, redirect handling, and error handling.

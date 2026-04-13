@@ -7,11 +7,19 @@ This branch contains a complete VitePress documentation setup for the Awesome Do
 ```
 docs/
 ├── .vitepress/
-│   └── config.mjs          # VitePress configuration
-├── guide/
-│   └── installation.md     # Installation guide
-├── guide.md                # Main guide
-└── index.md                # Home page
+│   ├── config.mjs                      # VitePress config and local search setup
+│   ├── plugins/                        # Build-time link metadata fetch/cache
+│   └── theme/                          # EnhancedLink components and theme overrides
+├── index.md                            # Landing page
+├── guide.md                            # Getting started guide
+├── generators/index.md                 # Static site generators
+├── api/index.md                        # API documentation tools
+├── quality/index.md                    # QA and linting tools
+├── writing/index.md                    # Writing and editing tools
+├── style-guides/index.md               # Style guide collections
+├── reading/index.md                    # Reading and learning resources
+├── tools/index.md                      # Additional utilities
+└── ai/                                 # AI-focused docs pages
 ```
 
 ## Quick Start
@@ -46,7 +54,9 @@ docs/
 - ✅ GitHub social link integration
 - ✅ Responsive design
 - ✅ Built-in search functionality
+- ✅ Search indexing for `EnhancedLink` cards
 - ✅ Hot reload during development
+- ✅ Build-time metadata cache for rich link cards
 
 ## Configuration
 

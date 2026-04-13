@@ -75,7 +75,7 @@ Essential articles, guides, and resources for documentation professionals, techn
 ### Getting Started
 
 - [Become a technical writer](https://www.instructionalsolutions.com/blog/become-a-technical-writer) - Career transition guide
-- [Free Resources to Learn Technical Writing](https://medium.com/@ann.green/free-resources-to-learn-technical-writing-7d642020cda9) - Learning resources
+- [Write the Docs Guide](https://www.writethedocs.org/guide/) - Learning resources and practical guidance
 
 ### Professional Development
 

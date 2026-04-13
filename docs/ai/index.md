@@ -18,4 +18,4 @@ Model Context Protocol (MCP) servers relevant to documentation workflows — con
 
 ---
 
-*Looking for non-AI writing tools? See [Writing Tools](../writing). For quality assurance and linting, see [Quality Assurance](../quality).*
+*Looking for non-AI writing tools? See [Writing Tools](../writing/). For quality assurance and linting, see [Quality Assurance](../quality/).*

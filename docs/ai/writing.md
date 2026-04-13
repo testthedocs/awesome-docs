@@ -51,4 +51,4 @@ If you use AI coding assistants with skill/tool support, technical writing skill
 
 ---
 
-*For non-AI writing tools, see [Writing Tools](../writing). For AI-powered review and linting, see [AI Review](./review).*
+*For non-AI writing tools, see [Writing Tools](../writing/). For AI-powered review and linting, see [AI Review](./review).*

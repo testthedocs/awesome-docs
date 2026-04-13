@@ -158,9 +158,12 @@ docs/
 │   ├── config.mjs        # Site configuration
 │   └── theme/            # Custom theming
 ├── index.md              # Homepage
-├── generators.md         # Site generators page
-├── api.md               # API documentation tools
-├── quality.md           # Quality assurance tools
+├── generators/          # Site generators section
+│   └── index.md
+├── api/                 # API documentation section
+│   └── index.md
+├── quality/             # Quality assurance section
+│   └── index.md
 └── contributing/        # Contributing documentation
     └── index.md         # This file
 ```

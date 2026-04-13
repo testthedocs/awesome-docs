@@ -23,16 +23,16 @@ Awesome Docs is a curated collection of tools, resources, and guidelines for cre
 ### 📚 Main Categories
 
 #### Core Tools
-- **[Site Generators](/generators)** - Static site generators for documentation (VitePress, Docusaurus, MkDocs, etc.)
-- **[API Documentation](/api)** - Tools for creating and maintaining API documentation (Swagger, ReDoc, etc.)
+- **[Site Generators](/generators/)** - Static site generators for documentation (VitePress, Docusaurus, MkDocs, etc.)
+- **[API Documentation](/api/)** - Tools for creating and maintaining API documentation (Swagger, ReDoc, etc.)
 
 #### Content & Quality  
-- **[Writing Tools](/writing)** - Grammar checkers, style guides, and writing assistance
-- **[Quality Assurance](/quality)** - Linting, testing, and validation tools for documentation
+- **[Writing Tools](/writing/)** - Grammar checkers, style guides, and writing assistance
+- **[Quality Assurance](/quality/)** - Linting, testing, and validation tools for documentation
 
 #### Resources & Learning
-- **[Style Guides](/style-guides)** - Documentation and writing style guides from major organizations
-- **[Reading List](/reading)** - Articles, tutorials, and best practices for documentation
+- **[Style Guides](/style-guides/)** - Documentation and writing style guides from major organizations
+- **[Reading List](/reading/)** - Articles, tutorials, and best practices for documentation
 - **[GitHub Actions](/github-actions)** - Automation workflows for documentation projects
 
 ## Quick Recommendations

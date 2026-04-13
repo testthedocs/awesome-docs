@@ -11,9 +11,9 @@
 <style scoped>
 .resource-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 1rem;
-  margin: 1.5rem 0;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.15rem;
+  margin: 1.6rem 0;
 }
 
 @media (max-width: 768px) {
@@ -24,7 +24,7 @@
 
 @media (min-width: 1024px) {
   .resource-grid {
-    grid-template-columns: repeat(auto-fill, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
   }
 }
 </style>

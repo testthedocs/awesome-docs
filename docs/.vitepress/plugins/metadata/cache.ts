@@ -1,22 +1,6 @@
 import { promises as fs } from 'fs';
 import { dirname } from 'path';
-import { createHash } from 'crypto';
-import type { LinkMetadata } from './fetchMetadata';
-
-/**
- * Cache entry structure with timestamp
- */
-interface CacheEntry {
-  metadata: LinkMetadata;
-  fetchedAt: string;
-}
-
-/**
- * Cache file structure
- */
-interface CacheData {
-  [url: string]: CacheEntry;
-}
+import type { CacheData, CacheEntry, LinkMetadata } from '../../shared/metadata';
 
 /**
  * Cache statistics
@@ -219,24 +203,6 @@ export class MetadataCache {
   }
 
   /**
-   * Clear cache entry for specific URL
-   * 
-   * @param url - The URL to remove from cache
-   */
-  async clearUrl(url: string): Promise<void> {
-    delete this.cache[url];
-    this.stats.totalEntries = Object.keys(this.cache).length;
-    await this.saveCache();
-  }
-
-  /**
-   * Force refresh cache by clearing all entries
-   */
-  async refresh(): Promise<void> {
-    await this.clear();
-  }
-
-  /**
    * Get cache statistics
    */
   getStats(): CacheStats {
@@ -252,49 +218,4 @@ export class MetadataCache {
     return (this.stats.cacheHits / total) * 100;
   }
 
-  /**
-   * Generate hash for URL (for potential future use)
-   */
-  private hashUrl(url: string): string {
-    return createHash('sha256').update(url).digest('hex').substring(0, 16);
-  }
-
-  /**
-   * Remove expired entries from cache
-   */
-  async cleanExpired(): Promise<number> {
-    let removedCount = 0;
-    const now = new Date();
-
-    for (const [url, entry] of Object.entries(this.cache)) {
-      const fetchedAt = new Date(entry.fetchedAt);
-      const ageInDays = (now.getTime() - fetchedAt.getTime()) / (1000 * 60 * 60 * 24);
-
-      if (ageInDays > this.ttlDays) {
-        delete this.cache[url];
-        removedCount++;
-      }
-    }
-
-    if (removedCount > 0) {
-      this.stats.totalEntries = Object.keys(this.cache).length;
-      await this.saveCache();
-    }
-
-    return removedCount;
-  }
-
-  /**
-   * Get all cached URLs
-   */
-  getCachedUrls(): string[] {
-    return Object.keys(this.cache);
-  }
-
-  /**
-   * Check if URL is cached and valid
-   */
-  has(url: string): boolean {
-    return this.get(url) !== null;
-  }
 }
