@@ -309,6 +309,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Linode](https://www.linode.com/docs/linode-writers-formatting-guide/)
 - [Mailchimp](https://styleguide.mailchimp.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
+- [Meta Analysis of 33 Style Guides](https://www.adoc-studio.app/blog/style-guide-meta-analysis)
 - [Michigan State University](https://msu.edu/course/be/485/bewritingguideV2.0.pdf)
 - [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [MongoDB](https://www.mongodb.com/docs/meta/style-guide/)
