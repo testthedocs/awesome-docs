@@ -140,6 +140,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Document360](https://document360.com/)
 - [Logseq](https://logseq.com/)
 - [Obsidian](https://obsidian.md)
+- [Specsight](https://specsight.app)
 
 ## Mockup
 
