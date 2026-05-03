@@ -223,6 +223,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [11ty](https://www.11ty.dev/)
 - [Antora](https://antora.org/)
+- [adoc Studio](https://www.adoc-studio.app)
 - [Bengal](https://github.com/lbliii/bengal)
 - [Astro](https://astro.build/)
   - [Starlight](https://starlight.astro.build/)
