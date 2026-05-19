@@ -359,6 +359,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [rundoc](https://gitlab.com/nul.one/rundoc)
 - [Shepherd](https://github.com/shipshapecode/shepherd)
 - [Squoosh](https://squoosh.app/)
+- [Sync-o](https://sync-o.io) - AI documentation automation for Atlassian. Auto-updates Confluence pages with surgical section-level diffs when Jira tickets transition to Done. EU-resident, GDPR-compliant.
 - [Tables Generator](https://www.tablesgenerator.com/)
 - [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools)
 - [Trupeer](https://www.trupeer.ai/) - AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
