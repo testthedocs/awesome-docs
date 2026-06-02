@@ -228,6 +228,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Bengal](https://github.com/lbliii/bengal)
 - [Astro](https://astro.build/)
   - [Starlight](https://starlight.astro.build/)
+- [docmd](https://docmd.io/)
 - [Document Node](https://documentnode.io/)
 - [Docus](https://docus.dev/)
 - [Docusaurus](https://docusaurus.io/)
@@ -268,6 +269,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ### Search
 
+- [docmd-search](https://docmd.io/search/)
 - [Meilisearch](https://www.meilisearch.com/)
 - [pagefind](https://pagefind.app/)
 - [Typesense](https://typesense.org/)
