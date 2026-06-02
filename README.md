@@ -240,7 +240,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Gridsome](https://gridsome.org)
 - [Log4brains](https://github.com/thomvaill/log4brains)
 - [mdBook](https://github.com/rust-lang/mdBook)
-- [MDX-GO](https://github.com/jxnblk/mdx-go)
 - [MkDocs](https://www.mkdocs.org/)
 - [Nextra](https://github.com/shuding/nextra)
 - [Portray](https://github.com/timothycrosley/portray)
