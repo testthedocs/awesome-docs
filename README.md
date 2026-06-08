@@ -361,6 +361,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Shepherd](https://github.com/shipshapecode/shepherd)
 - [Squoosh](https://squoosh.app/)
 - [Sync-o](https://sync-o.io) - AI documentation automation for Atlassian. Auto-updates Confluence pages with surgical section-level diffs when Jira tickets transition to Done. EU-resident, GDPR-compliant.
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - AI agent trust scoring MCP server. Verifies agent wallet identity and computes trust scores before granting AI agents access to documentation APIs or paid content services. Free tools: `resolve_agent`, `score_agent`, `preflight_check`, `verify_trust_receipt`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 - [Tables Generator](https://www.tablesgenerator.com/)
 - [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools)
 - [Trupeer](https://www.trupeer.ai/) - AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
