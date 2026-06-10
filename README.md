@@ -362,7 +362,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Squoosh](https://squoosh.app/)
 - [Sync-o](https://sync-o.io) - AI documentation automation for Atlassian. Auto-updates Confluence pages with surgical section-level diffs when Jira tickets transition to Done. EU-resident, GDPR-compliant.
 - [Tables Generator](https://www.tablesgenerator.com/)
-- [Tablesmit](https://tablesmit.com) - Free and open-source table builder for documentation. Create structured tables with drag-to-resize, merge cells, custom headers, and export to PDF, Excel, CSV, LaTeX, or Markdown.
+- [Tablesmit](https://tablesmit.com) - A minimalist, open-source table builder for analytical writing. It helps create, format, and export structured tables for technical documentation.
 - [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools)
 - [Trupeer](https://www.trupeer.ai/) - AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 - [vendir](https://carvel.dev/vendir/)
