@@ -353,6 +353,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Merge Docs Pro](https://www.mergedocs.pro)
 - [Penpot](https://penpot.app/)
 - [PitchDocs](https://github.com/littlebearapps/pitchdocs) - AI-powered documentation generator that scans codebases and produces marketing-ready READMEs, changelogs, and AI context files with quality scoring.
+- [Moxie Docs](https://moxiedocs.com) - SaaS GitHub App for living repository documentation: indexes codebases, generates docs, exposes AI agent context through MCP, and opens documentation PRs when docs drift from code.
 - [Playwright](https://github.com/microsoft/playwright)
 - [Pocket Marketing List](https://github.com/rubymorillo/pocket-marketing-tech-list)
 - [readme.so](https://readme.so/)
