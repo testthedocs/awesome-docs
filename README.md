@@ -116,6 +116,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## GitHub Actions
 
 - [Alex Action](https://github.com/theashraf/alex-action)
+- [DocPulse](https://github.com/YoniRaviv/DocPulse)
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
 - [EkLine](https://ekline.io)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
