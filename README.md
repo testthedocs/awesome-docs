@@ -348,7 +348,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [fixred](https://github.com/rhysd/fixred)
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
 - [Loom](https://www.loom.com/)
-- [Mermaid Online](https://mermaidonline.org/?utm_source=github&utm_medium=github_awesome_list&utm_campaign=mermaid-online_backlink_outreach&utm_content=awesome_docs_pr) - Browser-based Mermaid diagram converter for previewing diagrams and exporting PNG, SVG, JPG, WebP, and PDF assets for docs, READMEs, blogs, and slides.
+- [Mermaid Online](https://mermaidonline.org/) - Browser-based Mermaid diagram converter for previewing diagrams and exporting PNG, SVG, JPG, WebP, and PDF assets for docs, READMEs, blogs, and slides.
 - [Markdoc](https://markdoc.io/)
 - [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
 - [Merge Docs Pro](https://www.mergedocs.pro)
