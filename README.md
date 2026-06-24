@@ -138,6 +138,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Knowledge Base
 
 - [Document360](https://document360.com/)
+- [Falconer](https://falconer.com/mcp)
 - [Logseq](https://logseq.com/)
 - [Obsidian](https://obsidian.md)
 - [Specsight](https://specsight.app)
