@@ -120,6 +120,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
 - [EkLine](https://ekline.io)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
+- [readme-ci](https://github.com/ondraulehla/readme-ci)
 - [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
 - [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
 - [TOC Generator](https://github.com/technote-space/toc-generator)
