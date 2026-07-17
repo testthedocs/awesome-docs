@@ -85,6 +85,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [widdershins](https://github.com/Mermade/widdershins)
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
 - [DevDocsAI](https://devdocsai-sigma.vercel.app/) - AI-powered API documentation generator. Paste code, get docs in 30 seconds.
+- [Dev Launch Pack](https://aicompanyendlessinnovations.github.io/dev-launch-pack/api-documentation-generator.html) - Free browser-based API documentation generator. Parses endpoint definitions and outputs Markdown reference, OpenAPI 3.0 YAML, or a standalone HTML docs page. No signup.
 
 ## Browser Extensions
 
