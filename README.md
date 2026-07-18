@@ -346,6 +346,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [D2 Declarative Diagramming](https://d2lang.com/)
 - [DIV Table Generator](https://divtable.com/generator/)
 - [Driver.js](https://github.com/kamranahmedse/driver.js)
+- [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Browser-local converter for turning XLSX, XLS, and CSV data into Markdown tables for READMEs and documentation.
 - [fixred](https://github.com/rhysd/fixred)
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
 - [Loom](https://www.loom.com/)
