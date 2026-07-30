@@ -83,6 +83,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Tips for better documentation with OpenAPI](https://lornajane.net/posts/2023/tips-for-better-documentation-with-openapi)
 - [What we can learn from UX professionals when designing APIs](https://www.linkedin.com/pulse/what-we-can-learn-from-ux-professionals-when-designing-joyce-stack-/)
 - [widdershins](https://github.com/Mermade/widdershins)
+- [Xquik API Documentation](https://docs.xquik.com/) - Documentation for Xquik's X data and automation API, MCP server, webhooks, and workflows.
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
 - [DevDocsAI](https://devdocsai-sigma.vercel.app/) - AI-powered API documentation generator. Paste code, get docs in 30 seconds.
 
