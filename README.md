@@ -64,6 +64,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [API Guidelines](https://dret.github.io/guidelines/)
 - [Bruno](https://www.usebruno.com/)
 - [Bump.sh](https://bump.sh/)
+- [DevDocsAI](https://devdocsai-sigma.vercel.app/) - AI-powered API documentation generator. Paste code, get docs in 30 seconds.
 - [Document360 API Documentation](https://document360.com/solutions/api-documentation/)
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [json-schema-sensitivity-checker](https://github.com/cbetta/json-schema-sensitivity-checker)
@@ -71,8 +72,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [OpenAPI 3 CLI](https://github.com/Redocly/openapi-cli)
 - [Postman](https://www.getpostman.com/)
 - [RapiDoc](https://mrin9.github.io/RapiDoc/index.html)
-- [Redoc-Editor](https://github.com/pointnet/redoc-editor)
 - [ReDoc](https://redocly.github.io/redoc/)
+- [Redoc-Editor](https://github.com/pointnet/redoc-editor)
 - [Restish](https://rest.sh/#/)
 - [Sourcey](https://sourcey.com) - Static documentation generator that combines OpenAPI references with markdown guides into a single site.
 - [Speccy](https://github.com/wework/speccy)
@@ -85,7 +86,6 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [widdershins](https://github.com/Mermade/widdershins)
 - [Xquik API Documentation](https://docs.xquik.com/) - Documentation for Xquik's X data and automation API, MCP server, webhooks, and workflows.
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
-- [DevDocsAI](https://devdocsai-sigma.vercel.app/) - AI-powered API documentation generator. Paste code, get docs in 30 seconds.
 
 ## Browser Extensions
 
