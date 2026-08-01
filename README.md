@@ -53,6 +53,8 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## AsciiDoc
 
+- [adoc Studio](https://adoc-studio.app)
+- [AdocEditor](https://adoceditor.com/)
 - [Asciidoctor](https://asciidoctor.org/)
 - [AsciiDoc Alive](https://asciidocalive.docswriter.com/)
 - [IntelliJ AsciiDoc Plugin](https://intellij-asciidoc-plugin.ahus1.de/)
@@ -73,6 +75,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Redoc-Editor](https://github.com/pointnet/redoc-editor)
 - [ReDoc](https://redocly.github.io/redoc/)
 - [Restish](https://rest.sh/#/)
+- [Sourcey](https://sourcey.com) - Static documentation generator that combines OpenAPI references with markdown guides into a single site.
 - [Speccy](https://github.com/wework/speccy)
 - [Spectral](https://stoplight.io/open-source/spectral/)
 - [Stoplight Studio](https://stoplight.io/studio/)
@@ -99,6 +102,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Editor
 
+- [DraftView Edit](https://www.draftview.app/edit) - Paste a GitHub or GitLab file URL to edit it in DraftView and submit it back as a pull request or merge request.
 - [HackMD](https://hackmd.io/)
 - [Lapce](https://github.com/lapce/lapce)
 - [Mark Text](https://github.com/marktext/marktext)
@@ -109,15 +113,21 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Feedback
 
+- [notabene](https://github.com/z29k/notabene) - Renders a repo's Markdown/MDX as a navigable site with anchored, Google-Docs-style comments; an agent applies them as source edits and journals the changes.
 - [Papercups](https://github.com/papercups-io/papercups)
 
 ## GitHub Actions
 
 - [Alex Action](https://github.com/theashraf/alex-action)
+- [constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) Lints a CLAUDE.md-style AI agent constitution file for structural completeness (mission statement, hard rules, escalation procedures, spending limits).
+- [DocPulse](https://github.com/YoniRaviv/DocPulse)
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
 - [DocuPilot](https://docupilot-alpha.vercel.app) - GitHub App that auto-generates README, CHANGELOG, and API docs on every push via AI-powered PRs. Free for 1 repo.
+- [DocFlow](https://aicodedocumentationgenerator.com)
 - [EkLine](https://ekline.io)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
+- [readme-ci](https://github.com/ondraulehla/readme-ci)
+- [Pushpen](https://github.com/David19876543210/pushpen-action) - Generates and updates README, changelog, API docs, and onboarding guides from a repository's actual code and commit history on every push, opened as a pull request.
 - [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
 - [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
 - [TOC Generator](https://github.com/technote-space/toc-generator)
@@ -129,6 +139,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Doctave](https://www.doctave.com/)
 - [Ferndesk](https://ferndesk.com/)
 - [GitBook](https://www.gitbook.com/)
+- [Jamdesk](https://www.jamdesk.com/)
 - [Mintlify](https://www.mintlify.com/)
 - [Netlify](https://www.netlify.com/)
 - [Read The Docs](https://readthedocs.org/)
@@ -136,8 +147,11 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Knowledge Base
 
 - [Document360](https://document360.com/)
+- [Falconer](https://falconer.com/mcp)
 - [Logseq](https://logseq.com/)
 - [Obsidian](https://obsidian.md)
+- [Specsight](https://specsight.app)
+- [wiki](https://github.com/plasma-ai/wiki) - Indexed Markdown knowledge bases for agents, with deterministic indexes, scoped retrieval, linting, and merge handling for parallel edits.
 
 ## Mockup
 
@@ -188,6 +202,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Semantic Line Breaks](https://sembr.org/)
 - [Setting up the alex.js language linter in your project](https://dev.to/unmock/setting-up-the-alex-js-language-linter-in-your-project-3bpl)
 - [Systematic approach to technical documentation authoring](https://diataxis.fr/)
+- [Technical Writing: A Comprehensive Guide](https://www.adoc-studio.app/blog/technical-writing-guide)
 - [Technical Documentation in Software Development](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
 - [Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm)
 - [User Guide Template](https://clickhelp.com/clickhelp-technical-writing-blog/user-guide-template/)
@@ -220,9 +235,11 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [11ty](https://www.11ty.dev/)
 - [Antora](https://antora.org/)
+- [adoc Studio](https://www.adoc-studio.app)
 - [Bengal](https://github.com/lbliii/bengal)
 - [Astro](https://astro.build/)
   - [Starlight](https://starlight.astro.build/)
+- [docmd](https://docmd.io/)
 - [Document Node](https://documentnode.io/)
 - [Docus](https://docus.dev/)
 - [Docusaurus](https://docusaurus.io/)
@@ -234,10 +251,10 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Gridsome](https://gridsome.org)
 - [Log4brains](https://github.com/thomvaill/log4brains)
 - [mdBook](https://github.com/rust-lang/mdBook)
-- [MDX-GO](https://github.com/jxnblk/mdx-go)
 - [MkDocs](https://www.mkdocs.org/)
 - [Nextra](https://github.com/shuding/nextra)
 - [Portray](https://github.com/timothycrosley/portray)
+- [Quarto](https://quarto.org/)
 - [Quartz](https://github.com/jackyzha0/quartz)
 - [RcPress](https://github.com/YvesCoding/rcpress)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
@@ -262,6 +279,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ### Search
 
+- [docmd-search](https://docmd.io/search/)
 - [Meilisearch](https://www.meilisearch.com/)
 - [pagefind](https://pagefind.app/)
 - [Typesense](https://typesense.org/)
@@ -306,6 +324,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Linode](https://www.linode.com/docs/linode-writers-formatting-guide/)
 - [Mailchimp](https://styleguide.mailchimp.com/)
 - [Markdown Guide](https://www.markdownguide.org/)
+- [Meta Analysis of 33 Style Guides](https://www.adoc-studio.app/blog/style-guide-meta-analysis)
 - [Michigan State University](https://msu.edu/course/be/485/bewritingguideV2.0.pdf)
 - [Microsoft](https://docs.microsoft.com/en-us/style-guide/welcome/)
 - [MongoDB](https://www.mongodb.com/docs/meta/style-guide/)
@@ -327,23 +346,30 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Tool Collection
 
 - [adr-tools](https://github.com/npryce/adr-tools)
+- [AutomaDocs](https://automadocs.com) - AI documentation platform for GitHub repos. Tree-sitter AST chunking, Claude generation, hybrid retrieval (BM25 + Pinecone vector). Webhook-driven selective regeneration on every push so docs stay in sync with code.
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 - [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
+- [Browser SOP Builder](https://github.com/max-agent-hub/browser-sop-builder) - Local-first browser tool for drafting controlled procedures and exporting Markdown without accounts or server storage.
 - [Calculate max length for UI elements](https://max-char-length-calculator.netlify.app/)
 - [Code Hike](https://codehike.org/)
+- [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
 - [docToolchain](https://github.com/doctoolchain/doctoolchain)
+- [DraftView](https://www.draftview.app/try) - A visual review layer for docs-as-code projects. Let contributors edit rendered documentation through a GitHub-native workflow and sync changes back as pull requests.
 - [D2 Declarative Diagramming](https://d2lang.com/)
 - [DIV Table Generator](https://divtable.com/generator/)
 - [Driver.js](https://github.com/kamranahmedse/driver.js)
+- [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Browser-local converter for turning XLSX, XLS, and CSV data into Markdown tables for READMEs and documentation.
 - [fixred](https://github.com/rhysd/fixred)
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
 - [Loom](https://www.loom.com/)
+- [Mermaid Online](https://mermaidonline.org/) - Browser-based Mermaid diagram converter for previewing diagrams and exporting PNG, SVG, JPG, WebP, and PDF assets for docs, READMEs, blogs, and slides.
 - [Markdoc](https://markdoc.io/)
 - [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
 - [Merge Docs Pro](https://www.mergedocs.pro)
 - [Penpot](https://penpot.app/)
 - [PitchDocs](https://github.com/littlebearapps/pitchdocs) - AI-powered documentation generator that scans codebases and produces marketing-ready READMEs, changelogs, and AI context files with quality scoring.
+- [Moxie Docs](https://moxiedocs.com) - SaaS GitHub App for living repository documentation: indexes codebases, generates docs, exposes AI agent context through MCP, and opens documentation PRs when docs drift from code.
 - [Playwright](https://github.com/microsoft/playwright)
 - [Pocket Marketing List](https://github.com/rubymorillo/pocket-marketing-tech-list)
 - [readme.so](https://readme.so/)
@@ -351,7 +377,9 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [rundoc](https://gitlab.com/nul.one/rundoc)
 - [Shepherd](https://github.com/shipshapecode/shepherd)
 - [Squoosh](https://squoosh.app/)
+- [Sync-o](https://sync-o.io) - AI documentation automation for Atlassian. Auto-updates Confluence pages with surgical section-level diffs when Jira tickets transition to Done. EU-resident, GDPR-compliant.
 - [Tables Generator](https://www.tablesgenerator.com/)
+- [Tablesmit](https://tablesmit.com) - A minimalist, open-source table builder for analytical writing. It helps create, format, and export structured tables for technical documentation.
 - [Tools for Technical Writers](https://github.com/heyawhite/tech-writing-tools)
 - [Trupeer](https://www.trupeer.ai/) - AI-powered tool that transforms screen recordings into polished product videos and step-by-step documentation.
 - [vendir](https://carvel.dev/vendir/)
