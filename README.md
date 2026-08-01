@@ -111,6 +111,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Feedback
 
+- [notabene](https://github.com/z29k/notabene) - Renders a repo's Markdown/MDX as a navigable site with anchored, Google-Docs-style comments; an agent applies them as source edits and journals the changes.
 - [Papercups](https://github.com/papercups-io/papercups)
 
 ## GitHub Actions
