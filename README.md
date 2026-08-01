@@ -123,6 +123,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [DocFlow](https://aicodedocumentationgenerator.com)
 - [EkLine](https://ekline.io)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
+- [readme-ci](https://github.com/ondraulehla/readme-ci)
 - [Pushpen](https://github.com/David19876543210/pushpen-action) - Generates and updates README, changelog, API docs, and onboarding guides from a repository's actual code and commit history on every push, opened as a pull request.
 - [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
 - [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
