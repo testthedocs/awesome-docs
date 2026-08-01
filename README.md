@@ -347,6 +347,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Browser SOP Builder](https://github.com/max-agent-hub/browser-sop-builder) - Local-first browser tool for drafting controlled procedures and exporting Markdown without accounts or server storage.
 - [Calculate max length for UI elements](https://max-char-length-calculator.netlify.app/)
 - [Code Hike](https://codehike.org/)
+- [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
 - [docToolchain](https://github.com/doctoolchain/doctoolchain)
 - [D2 Declarative Diagramming](https://d2lang.com/)
