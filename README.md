@@ -142,6 +142,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Logseq](https://logseq.com/)
 - [Obsidian](https://obsidian.md)
 - [Specsight](https://specsight.app)
+- [wiki](https://github.com/plasma-ai/wiki) - Indexed Markdown knowledge bases for agents, with deterministic indexes, scoped retrieval, linting, and merge handling for parallel edits.
 
 ## Mockup
 
