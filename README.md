@@ -344,6 +344,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [AutomaDocs](https://automadocs.com) - AI documentation platform for GitHub repos. Tree-sitter AST chunking, Claude generation, hybrid retrieval (BM25 + Pinecone vector). Webhook-driven selective regeneration on every push so docs stay in sync with code.
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 - [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
+- [Browser SOP Builder](https://github.com/max-agent-hub/browser-sop-builder) - Local-first browser tool for drafting controlled procedures and exporting Markdown without accounts or server storage.
 - [Calculate max length for UI elements](https://max-char-length-calculator.netlify.app/)
 - [Code Hike](https://codehike.org/)
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
