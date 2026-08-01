@@ -111,16 +111,20 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Feedback
 
+- [notabene](https://github.com/z29k/notabene) - Renders a repo's Markdown/MDX as a navigable site with anchored, Google-Docs-style comments; an agent applies them as source edits and journals the changes.
 - [Papercups](https://github.com/papercups-io/papercups)
 
 ## GitHub Actions
 
 - [Alex Action](https://github.com/theashraf/alex-action)
+- [constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) Lints a CLAUDE.md-style AI agent constitution file for structural completeness (mission statement, hard rules, escalation procedures, spending limits).
 - [DocPulse](https://github.com/YoniRaviv/DocPulse)
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
+- [DocFlow](https://aicodedocumentationgenerator.com)
 - [EkLine](https://ekline.io)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
 - [readme-ci](https://github.com/ondraulehla/readme-ci)
+- [Pushpen](https://github.com/David19876543210/pushpen-action) - Generates and updates README, changelog, API docs, and onboarding guides from a repository's actual code and commit history on every push, opened as a pull request.
 - [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
 - [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
 - [TOC Generator](https://github.com/technote-space/toc-generator)
@@ -140,9 +144,11 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Knowledge Base
 
 - [Document360](https://document360.com/)
+- [Falconer](https://falconer.com/mcp)
 - [Logseq](https://logseq.com/)
 - [Obsidian](https://obsidian.md)
 - [Specsight](https://specsight.app)
+- [wiki](https://github.com/plasma-ai/wiki) - Indexed Markdown knowledge bases for agents, with deterministic indexes, scoped retrieval, linting, and merge handling for parallel edits.
 
 ## Mockup
 
@@ -340,13 +346,16 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [AutomaDocs](https://automadocs.com) - AI documentation platform for GitHub repos. Tree-sitter AST chunking, Claude generation, hybrid retrieval (BM25 + Pinecone vector). Webhook-driven selective regeneration on every push so docs stay in sync with code.
 - [Awesome Design Tools](https://github.com/goabstract/Awesome-Design-Tools)
 - [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
+- [Browser SOP Builder](https://github.com/max-agent-hub/browser-sop-builder) - Local-first browser tool for drafting controlled procedures and exporting Markdown without accounts or server storage.
 - [Calculate max length for UI elements](https://max-char-length-calculator.netlify.app/)
 - [Code Hike](https://codehike.org/)
+- [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
 - [docToolchain](https://github.com/doctoolchain/doctoolchain)
 - [D2 Declarative Diagramming](https://d2lang.com/)
 - [DIV Table Generator](https://divtable.com/generator/)
 - [Driver.js](https://github.com/kamranahmedse/driver.js)
+- [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Browser-local converter for turning XLSX, XLS, and CSV data into Markdown tables for READMEs and documentation.
 - [fixred](https://github.com/rhysd/fixred)
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
 - [Loom](https://www.loom.com/)
