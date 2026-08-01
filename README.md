@@ -122,6 +122,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) Lints a CLAUDE.md-style AI agent constitution file for structural completeness (mission statement, hard rules, escalation procedures, spending limits).
 - [DocPulse](https://github.com/YoniRaviv/DocPulse)
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
+- [DocuPilot](https://docupilot-alpha.vercel.app) - GitHub App that auto-generates README, CHANGELOG, and API docs on every push via AI-powered PRs. Free for 1 repo.
 - [DocFlow](https://aicodedocumentationgenerator.com)
 - [EkLine](https://ekline.io)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
