@@ -54,6 +54,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## AsciiDoc
 
 - [adoc Studio](https://adoc-studio.app)
+- [AdocEditor](https://adoceditor.com/)
 - [Asciidoctor](https://asciidoctor.org/)
 - [AsciiDoc Alive](https://asciidocalive.docswriter.com/)
 - [IntelliJ AsciiDoc Plugin](https://intellij-asciidoc-plugin.ahus1.de/)
@@ -101,6 +102,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Editor
 
+- [DraftView Edit](https://www.draftview.app/edit) - Paste a GitHub or GitLab file URL to edit it in DraftView and submit it back as a pull request or merge request.
 - [HackMD](https://hackmd.io/)
 - [Lapce](https://github.com/lapce/lapce)
 - [Mark Text](https://github.com/marktext/marktext)
@@ -352,6 +354,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
 - [docToolchain](https://github.com/doctoolchain/doctoolchain)
+- [DraftView](https://www.draftview.app/try) - A visual review layer for docs-as-code projects. Let contributors edit rendered documentation through a GitHub-native workflow and sync changes back as pull requests.
 - [D2 Declarative Diagramming](https://d2lang.com/)
 - [DIV Table Generator](https://divtable.com/generator/)
 - [Driver.js](https://github.com/kamranahmedse/driver.js)
