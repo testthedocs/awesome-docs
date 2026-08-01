@@ -116,6 +116,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## GitHub Actions
 
 - [Alex Action](https://github.com/theashraf/alex-action)
+- [constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) Lints a CLAUDE.md-style AI agent constitution file for structural completeness (mission statement, hard rules, escalation procedures, spending limits).
 - [DocPulse](https://github.com/YoniRaviv/DocPulse)
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
 - [EkLine](https://ekline.io)
