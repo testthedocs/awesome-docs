@@ -362,6 +362,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Browser-local converter for turning XLSX, XLS, and CSV data into Markdown tables for READMEs and documentation.
 - [fixred](https://github.com/rhysd/fixred)
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
+- [HTML to Markdown Converter](https://alltoolsverse.com/tools/html-to-markdown/) - Browser-local converter for turning HTML headings, lists, links, blockquotes, and inline formatting into Markdown.
 - [Loom](https://www.loom.com/)
 - [Mermaid Online](https://mermaidonline.org/) - Browser-based Mermaid diagram converter for previewing diagrams and exporting PNG, SVG, JPG, WebP, and PDF assets for docs, READMEs, blogs, and slides.
 - [Markdoc](https://markdoc.io/)
