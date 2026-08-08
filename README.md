@@ -107,6 +107,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Lapce](https://github.com/lapce/lapce)
 - [Mark Text](https://github.com/marktext/marktext)
 - [Swimm](https://swimm.io/)
+- [Text to Confluence](https://www.texttoconfluence.com/) - Browser-based editor for preparing Markdown and plain text for Confluence.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Zed](https://zed.dev/)
 - [Zettlr](https://www.zettlr.com/)
