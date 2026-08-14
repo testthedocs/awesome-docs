@@ -106,6 +106,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [HackMD](https://hackmd.io/)
 - [Lapce](https://github.com/lapce/lapce)
 - [Mark Text](https://github.com/marktext/marktext)
+- [Notula](https://notula.org) - Desktop WYSIWYG editor for the Markdown in a git repository, with comment threads committed beside the documents.
 - [Swimm](https://swimm.io/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Zed](https://zed.dev/)
