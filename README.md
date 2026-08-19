@@ -120,6 +120,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Alex Action](https://github.com/theashraf/alex-action)
 - [constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) Lints a CLAUDE.md-style AI agent constitution file for structural completeness (mission statement, hard rules, escalation procedures, spending limits).
+- [docproof](https://github.com/marketplace/actions/docproof-documentation-check) - Fails a build when documentation contradicts the repository, and reports what share of the documentation it read.
 - [DocPulse](https://github.com/YoniRaviv/DocPulse)
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
 - [DocuPilot](https://docupilot-alpha.vercel.app) - GitHub App that auto-generates README, CHANGELOG, and API docs on every push via AI-powered PRs. Free for 1 repo.
@@ -166,6 +167,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Capitalize My Title](https://capitalizemytitle.com/)
 - [case-police](https://github.com/antfu/case-police)
 - [Doc Detective](https://github.com/doc-detective/doc-detective)
+- [docproof](https://github.com/melbinjp/docproof) - Checks whether what documentation claims is still true of the repository: file paths, CLI flags, versions, and documented imports, each resolved against the code and its git history.
 - [EkLine](https://ekline.io)
 - [Harper](https://writewithharper.com/)
 - [HtmlTest](https://github.com/wjdp/htmltest)
