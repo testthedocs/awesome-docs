@@ -142,6 +142,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Jamdesk](https://www.jamdesk.com/)
 - [Mintlify](https://www.mintlify.com/)
 - [Netlify](https://www.netlify.com/)
+- [Papervine](https://www.papervine.io/)
 - [Read The Docs](https://readthedocs.org/)
 
 ## Knowledge Base
