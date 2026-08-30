@@ -233,6 +233,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Carbon](https://carbon.now.sh)
 - [Flameshot](https://github.com/lupoDharkael/flameshot)
 - [Heroshot](https://github.com/omachala/heroshot)
+- [ItsPaint](https://github.com/joshlin2201/itspaint) (macOS)
 - [shot-scraper](https://github.com/simonw/shot-scraper)
 - [Shottr](https://shottr.cc/)
 
