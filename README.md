@@ -253,6 +253,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Docsify](https://docsify.js.org/)
 - [Docsite](https://github.com/sourcegraph/docsite)
 - [Dokz](https://dokz.vercel.app/)
+- [eziwiki](https://eziwiki.vercel.app/) - Markdown wiki and documentation site generator built on Next.js, with wikilinks, backlinks, and a graph view.
 - [Fumadocs](https://fumadocs.vercel.app/)
 - [Gridsome](https://gridsome.org)
 - [Log4brains](https://github.com/thomvaill/log4brains)
