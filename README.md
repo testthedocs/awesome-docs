@@ -257,6 +257,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [mdBook](https://github.com/rust-lang/mdBook)
 - [MkDocs](https://www.mkdocs.org/)
 - [Nextra](https://github.com/shuding/nextra)
+- [Nibleaf](https://github.com/lord007tn/nibleaf) - Open-source platform for editing, publishing, searching, and self-hosting multilingual Markdown and MDX documentation.
 - [Portray](https://github.com/timothycrosley/portray)
 - [Quarto](https://quarto.org/)
 - [Quartz](https://github.com/jackyzha0/quartz)
