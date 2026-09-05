@@ -95,6 +95,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
  
 ## Browser Testing
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available natural-language browser testing with reusable execution memory, UI recovery, and run artifacts.
 - [Nightwatch.js](https://nightwatchjs.org/)
 - [Playwright](https://playwright.dev/)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
