@@ -75,6 +75,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Redoc-Editor](https://github.com/pointnet/redoc-editor)
 - [ReDoc](https://redocly.github.io/redoc/)
 - [Restish](https://rest.sh/#/)
+- [Sourced](https://sourced.sh) - Generates hosted API docs, TypeScript and Python SDKs, llms.txt, and MCP servers from an OpenAPI spec.
 - [Sourcey](https://sourcey.com) - Static documentation generator that combines OpenAPI references with markdown guides into a single site.
 - [Speccy](https://github.com/wework/speccy)
 - [Spectral](https://stoplight.io/open-source/spectral/)
