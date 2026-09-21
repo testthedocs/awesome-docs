@@ -149,6 +149,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Knowledge Base
 
+- [Archcore](https://github.com/archcore-ai/cli) - Git-native context layer for AI coding agents that keeps specs, architecture, decisions, rules, and plans in Git.
 - [Document360](https://document360.com/)
 - [Falconer](https://falconer.com/mcp)
 - [Logseq](https://logseq.com/)
