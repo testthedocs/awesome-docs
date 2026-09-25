@@ -180,6 +180,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [InnovationEngine](https://github.com/Azure/InnovationEngine)
 - [Linkspector](https://github.com/UmbrellaDocs/linkspector)
 - [lychee](https://github.com/lycheeverse/lychee)
+- [mdoctest](https://github.com/ingrid-owusu/mdoctest) - Runs the code blocks and console sessions in Markdown docs and checks their output still matches, with `--fix` to update them; language-agnostic and dependency-free.
 - [Readable](https://www.webfx.com/tools/read-able/)
 - [Rules example](https://github.com/cisco-open/inclusive-language/blob/main/cisco-rules.yaml)
 - [Swimm](https://swimm.io/)
