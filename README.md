@@ -65,6 +65,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [API Guidelines](https://dret.github.io/guidelines/)
 - [Bruno](https://www.usebruno.com/)
 - [Bump.sh](https://bump.sh/)
+- [Cortex](https://github.com/cortex-docs/cortex) - Generates interactive or static API documentation, typed SDKs, and MCP servers from several API specification formats.
 - [Document360 API Documentation](https://document360.com/solutions/api-documentation/)
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [json-schema-sensitivity-checker](https://github.com/cbetta/json-schema-sensitivity-checker)
