@@ -165,6 +165,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Mockup
 
 - [Animockup](https://github.com/alyssaxuu/animockup)
+- [Drawbly](https://drawbly.com/) - Browser canvas for rough technical diagrams with editable text and credited PNG export.
 - [Excalidraw](https://excalidraw.com/)
 - [Markmap](https://markmap.js.org/)
 
