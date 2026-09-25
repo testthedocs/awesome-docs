@@ -111,6 +111,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Mark Text](https://github.com/marktext/marktext)
 - [Notula](https://notula.org) - Desktop WYSIWYG editor for the Markdown in a git repository, with comment threads committed beside the documents.
 - [Swimm](https://swimm.io/)
+- [Text to Confluence](https://www.texttoconfluence.com/) - Browser-based editor for preparing Markdown and plain text for Confluence.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Zed](https://zed.dev/)
 - [Zettlr](https://www.zettlr.com/)
