@@ -124,6 +124,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## GitHub Actions
 
 - [Alex Action](https://github.com/theashraf/alex-action)
+- - [confluence-markdown-sync](https://github.com/Yamuno-Software/confluence-markdown-sync) - Publishes Markdown files from a repository to Confluence Cloud pages on push. Requires the paid Markdown Importer for Confluence app.
 - [constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) Lints a CLAUDE.md-style AI agent constitution file for structural completeness (mission statement, hard rules, escalation procedures, spending limits).
 - [docproof](https://github.com/marketplace/actions/docproof-documentation-check) - Fails a build when documentation contradicts the repository, and reports what share of the documentation it read.
 - [DocPulse](https://github.com/YoniRaviv/DocPulse)
