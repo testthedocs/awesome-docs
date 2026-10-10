@@ -232,6 +232,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Kap](https://github.com/wulkano/kap) (macOS)
 - [Peek](https://github.com/phw/peek)
 - [Screenity](https://github.com/alyssaxuu/screenity)
+- [Shotnix](https://shotnix.com/) (macOS)
 - [Terminalizer](https://github.com/faressoft/terminalizer)
 
 ## Screenshot
