@@ -157,6 +157,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Document360](https://document360.com/)
 - [Falconer](https://falconer.com/mcp)
+- [Folio Wiki](https://github.com/evergreen-it-dev/folio) - Open-source, self-hosted team wiki that stores every page as a Markdown file in a Git repository, with a built-in MCP server.
 - [Logseq](https://logseq.com/)
 - [Obsidian](https://obsidian.md)
 - [reqlan](https://github.com/littletuna4/reqlan) - Semantic requirements as code: a graph of named ideas your agents can search, link, reuse, test and maintain.
