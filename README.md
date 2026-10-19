@@ -240,6 +240,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Screenshot
 
 - [Carbon](https://carbon.now.sh)
+- [CurlShot](https://curlshot.com/) - Hosted screenshot API that captures web pages and docs as PNG, JPEG, WebP or PDF from a URL, with a free plan.
 - [Flameshot](https://github.com/lupoDharkael/flameshot)
 - [Heroshot](https://github.com/omachala/heroshot)
 - [ItsPaint](https://github.com/joshlin2201/itspaint) (macOS)
