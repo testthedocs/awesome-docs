@@ -189,6 +189,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [mdoctest](https://github.com/ingrid-owusu/mdoctest) - Runs the code blocks and console sessions in Markdown docs and checks their output still matches, with `--fix` to update them; language-agnostic and dependency-free.
 - [Readable](https://www.webfx.com/tools/read-able/)
 - [Rules example](https://github.com/cisco-open/inclusive-language/blob/main/cisco-rules.yaml)
+- [seiso](https://github.com/scarletkc/seiso) - Markdown convention and linter for project docs written by AI and read by humans and agents. Checks document kinds, local links, facts restated across pages, values that go stale such as versions, and conversation remnants left in the page.
 - [Swimm](https://swimm.io/)
 - [Vale](https://vale.sh/)
 - [Woke](https://getwoke.tech/)
