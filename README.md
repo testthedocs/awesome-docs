@@ -406,6 +406,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Viewer
 
+- [Glim](https://github.com/NeoPanic/Glim) - Mac Markdown viewer with Mermaid diagrams, LaTeX formulas and basic source editing.
 - [Glow - Render Markdown on the CLI](https://github.com/charmbracelet/glow)
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting for 190+ languages.
 - [mdv](https://github.com/xrfang/mdv/)
