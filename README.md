@@ -223,6 +223,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Technical Writing: A Comprehensive Guide](https://www.adoc-studio.app/blog/technical-writing-guide)
 - [Technical Documentation in Software Development](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
 - [Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm)
+- [Trigpoint: Diátaxis](https://trigpoint.pub/collections/pkm/diataxis-procida) - Four types of documentation: tutorial, how-to, reference and explanation, separated by reader needs.
 - [User Guide Template](https://clickhelp.com/clickhelp-technical-writing-blog/user-guide-template/)
 - [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
 - [Where to start with analytics for documentation](https://thisisimportant.net/posts/documentation-site-analytics-start/)
