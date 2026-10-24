@@ -145,6 +145,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Hosting
 
+- [deed.page](https://deed.page/) - Static hosting that publishes a built docs folder or HTML page to an HTTPS URL with one HTTP PUT or a remote MCP server, with a free plan.
 - [Doctave](https://www.doctave.com/)
 - [Ferndesk](https://ferndesk.com/)
 - [GitBook](https://www.gitbook.com/)
