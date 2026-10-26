@@ -244,6 +244,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Screenshot
 
+- [Allscreenshots](https://allscreenshots.com/) - Hosted screenshot API for capturing web pages and docs as PNG, JPEG, WebP or PDF, with a free plan and a MkDocs plugin for generating OpenGraph images.
 - [Carbon](https://carbon.now.sh)
 - [CurlShot](https://curlshot.com/) - Hosted screenshot API that captures web pages and docs as PNG, JPEG, WebP or PDF from a URL, with a free plan.
 - [Flameshot](https://github.com/lupoDharkael/flameshot)
