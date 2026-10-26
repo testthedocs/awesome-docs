@@ -111,6 +111,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [HackMD](https://hackmd.io/)
 - [Lapce](https://github.com/lapce/lapce)
 - [Mark Text](https://github.com/marktext/marktext)
+- [Markdown Pro](https://plugins.jetbrains.com/plugin/33400-markdown-pro) - Paid plugin for JetBrains IDEs that extends the bundled Markdown editor with MDX previews, table editing and documentation checks.
 - [Notula](https://notula.org) - Desktop WYSIWYG editor for the Markdown in a git repository, with comment threads committed beside the documents.
 - [Swimm](https://swimm.io/)
 - [Text to Confluence](https://www.texttoconfluence.com/) - Browser-based editor for preparing Markdown and plain text for Confluence.
