@@ -57,6 +57,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [AdocEditor](https://adoceditor.com/)
 - [Asciidoctor](https://asciidoctor.org/)
 - [AsciiDoc Alive](https://asciidocalive.docswriter.com/)
+- [AsciiDoc Pro](https://plugins.jetbrains.com/plugin/30142-asciidoc-pro) - Paid AsciiDoc plugin for IntelliJ-based IDEs with live preview, inspections and export.
 - [IntelliJ AsciiDoc Plugin](https://intellij-asciidoc-plugin.ahus1.de/)
 - [Asciidoc FX](https://www.asciidocfx.com/)
 
