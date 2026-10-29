@@ -178,6 +178,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Quality Assurance
 
+- [ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) - Flags AI-sounding phrases and em dashes in Markdown docs, commit messages and pull request descriptions, with a reason for each; runs in CI and calls no model.
 - [Alex](https://github.com/get-alex/alex)
 - [brok](https://github.com/smallhadroncollider/brok)
 - [Capitalize My Title](https://capitalizemytitle.com/)
