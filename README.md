@@ -396,6 +396,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
 - [GitDiagram](https://gitdiagram.com) - Generates an interactive architecture diagram and written explanation of a GitHub repository, with Mermaid and PNG export for docs and READMEs.
 - [Loom](https://www.loom.com/)
+- [Mermaid Diagram Editor for Confluence](https://marketplace.atlassian.com/apps/1154212410/mermaid-diagram-editor-for-confluence) - Confluence Cloud app for editing Mermaid diagrams by clicking on the diagram or in code, with both kept in sync. Free for sites with up to 10 users.
 - [Mermaid Online](https://mermaidonline.org/) - Browser-based Mermaid diagram converter for previewing diagrams and exporting PNG, SVG, JPG, WebP, and PDF assets for docs, READMEs, blogs, and slides.
 - [Markdoc](https://markdoc.io/)
 - [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
