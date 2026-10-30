@@ -195,6 +195,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Linkspector](https://github.com/UmbrellaDocs/linkspector)
 - [lychee](https://github.com/lycheeverse/lychee)
 - [mdoctest](https://github.com/ingrid-owusu/mdoctest) - Runs the code blocks and console sessions in Markdown docs and checks their output still matches, with `--fix` to update them; language-agnostic and dependency-free.
+- [plumbline](https://github.com/RootX22/plumbline) - Checks that a README is true: every command, path, make target, package script, module and environment variable it asserts is extracted and verified, with exit codes for CI. A local model may read the prose to find claims but never decides whether one holds.
 - [Readable](https://www.webfx.com/tools/read-able/)
 - [Rules example](https://github.com/cisco-open/inclusive-language/blob/main/cisco-rules.yaml)
 - [seiso](https://github.com/scarletkc/seiso) - Markdown convention and linter for project docs written by AI and read by humans and agents. Checks document kinds, local links, facts restated across pages, values that go stale such as versions, and conversation remnants left in the page.
