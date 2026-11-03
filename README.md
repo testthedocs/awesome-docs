@@ -430,6 +430,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Glow - Render Markdown on the CLI](https://github.com/charmbracelet/glow)
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting for 190+ languages.
 - [mdv](https://github.com/xrfang/mdv/)
+- [Skim](https://github.com/skim-md/skim) - Browser extension that renders local and online Markdown files with live reload, KaTeX math and Mermaid diagrams.
 
 ## Watching
 
