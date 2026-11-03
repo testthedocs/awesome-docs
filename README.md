@@ -257,6 +257,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Flameshot](https://github.com/lupoDharkael/flameshot)
 - [Heroshot](https://github.com/omachala/heroshot)
 - [ItsPaint](https://github.com/joshlin2201/itspaint) (macOS)
+- [Screen Slinger](https://screenslinger.com) - Windows screenshot and annotation tool with a permanent free version: capture, arrows, callouts, pixel-replacing blur and OCR text grab. Optional one-time Pro licence.
 - [shot-scraper](https://github.com/simonw/shot-scraper)
 - [Shottr](https://shottr.cc/)
 
