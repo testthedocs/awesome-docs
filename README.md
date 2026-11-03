@@ -188,6 +188,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Doc Detective](https://github.com/doc-detective/doc-detective)
 - [docproof](https://github.com/melbinjp/docproof) - Checks whether what documentation claims is still true of the repository: file paths, CLI flags, versions, and documented imports, each resolved against the code and its git history.
 - [Docs Link Integrity Checker](https://edilec.com/open-source/docs-link-integrity-checker/) - Checks local Markdown and HTML links, anchors, and paths offline; external URLs require an imported status report.
+- [dossier-scribe](https://github.com/kd-011/dossier-scribe) - Command line tool that checks which claims in project docs went stale: each claim cites its source file, and drift is reported per claim from git.
 - [EkLine](https://ekline.io)
 - [Harper](https://writewithharper.com/)
 - [HtmlTest](https://github.com/wjdp/htmltest)
