@@ -20,7 +20,16 @@ This will help ensure high-quality entries.
   - Regular, recent commits
   - Or, for finished projects, issues and pull requests are responded to
 - Stable or progressing toward stable
+  - Public for a few months, with several releases
 - Thoroughly documented (README, comments, docs, etc.) in english language, so everyone is able to understand the project's intention and how it works
+
+### Is your project still young?
+
+That's great, and we'd love to hear about it! Many good tools start as one person's side project with a first release or two.
+We wait until a project has had some time to settle before adding it, so readers can rely on everything on the list still being around and maintained.
+
+If your project is brand new, please [open an issue](https://github.com/testthedocs/awesome-docs/issues/new) instead and tell us about it.
+Once it has a few releases and some time behind it, you're very welcome to open a pull request.
 
 ## Maintainers
 
