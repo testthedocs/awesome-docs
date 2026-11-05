@@ -57,6 +57,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [AdocEditor](https://adoceditor.com/)
 - [Asciidoctor](https://asciidoctor.org/)
 - [AsciiDoc Alive](https://asciidocalive.docswriter.com/)
+- [AsciiDoc Pro](https://plugins.jetbrains.com/plugin/30142-asciidoc-pro) - Paid AsciiDoc plugin for IntelliJ-based IDEs with live preview, inspections and export.
 - [IntelliJ AsciiDoc Plugin](https://intellij-asciidoc-plugin.ahus1.de/)
 - [Asciidoc FX](https://www.asciidocfx.com/)
 
@@ -65,6 +66,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [API Guidelines](https://dret.github.io/guidelines/)
 - [Bruno](https://www.usebruno.com/)
 - [Bump.sh](https://bump.sh/)
+- [Cortex](https://github.com/cortex-docs/cortex) - Generates interactive or static API documentation, typed SDKs, and MCP servers from several API specification formats.
 - [Document360 API Documentation](https://document360.com/solutions/api-documentation/)
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [json-schema-sensitivity-checker](https://github.com/cbetta/json-schema-sensitivity-checker)
@@ -75,6 +77,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Redoc-Editor](https://github.com/pointnet/redoc-editor)
 - [ReDoc](https://redocly.github.io/redoc/)
 - [Restish](https://rest.sh/#/)
+- [Sourced](https://sourced.sh) - Generates hosted API docs, TypeScript and Python SDKs, llms.txt, and MCP servers from an OpenAPI spec.
 - [Sourcey](https://sourcey.com) - Static documentation generator that combines OpenAPI references with markdown guides into a single site.
 - [Speccy](https://github.com/wework/speccy)
 - [Spectral](https://stoplight.io/open-source/spectral/)
@@ -86,6 +89,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [widdershins](https://github.com/Mermade/widdershins)
 - [Zalando RESTful API and Event Guidelines](https://opensource.zalando.com/restful-api-guidelines/#)
 - [DevDocsAI](https://devdocsai-sigma.vercel.app/) - AI-powered API documentation generator. Paste code, get docs in 30 seconds.
+- [Dev Launch Pack](https://aicompanyendlessinnovations.github.io/dev-launch-pack/api-documentation-generator.html) - Free browser-based API documentation generator. Parses endpoint definitions and outputs Markdown reference, OpenAPI 3.0 YAML, or a standalone HTML docs page. No signup.
 
 ## Browser Extensions
 
@@ -95,6 +99,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
  
 ## Browser Testing
 
+- [Agent QA](https://github.com/vostride/agent-qa) - Source-available natural-language browser testing with reusable execution memory, UI recovery, and run artifacts.
 - [Nightwatch.js](https://nightwatchjs.org/)
 - [Playwright](https://playwright.dev/)
 - [Puppeteer](https://github.com/GoogleChrome/puppeteer)
@@ -106,7 +111,11 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [HackMD](https://hackmd.io/)
 - [Lapce](https://github.com/lapce/lapce)
 - [Mark Text](https://github.com/marktext/marktext)
+- [Markdown Pro](https://plugins.jetbrains.com/plugin/33400-markdown-pro) - Paid plugin for JetBrains IDEs that extends the bundled Markdown editor with MDX previews, table editing and documentation checks.
+- [Notula](https://notula.org) - Desktop WYSIWYG editor for the Markdown in a git repository, with comment threads committed beside the documents.
 - [Swimm](https://swimm.io/)
+- [Text to Confluence](https://www.texttoconfluence.com/) - Browser-based editor for preparing Markdown and plain text for Confluence.
+- [TypeFire Markdown Editor](https://typefire.ai/markdown-editor-online) - Browser-based Markdown editor and viewer that formats as you type and exports to Markdown, HTML and PDF.
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Zed](https://zed.dev/)
 - [Zettlr](https://www.zettlr.com/)
@@ -120,6 +129,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 - [Alex Action](https://github.com/theashraf/alex-action)
 - [constitution-lint-action](https://github.com/joeyycli/constitution-lint-action) Lints a CLAUDE.md-style AI agent constitution file for structural completeness (mission statement, hard rules, escalation procedures, spending limits).
+- [docproof](https://github.com/marketplace/actions/docproof-documentation-check) - Fails a build when documentation contradicts the repository, and reports what share of the documentation it read.
 - [DocPulse](https://github.com/YoniRaviv/DocPulse)
 - [DOCtor-RST](https://github.com/marketplace/actions/doctor-rst)
 - [DocuPilot](https://docupilot-alpha.vercel.app) - GitHub App that auto-generates README, CHANGELOG, and API docs on every push via AI-powered PRs. Free for 1 repo.
@@ -127,6 +137,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [EkLine](https://ekline.io)
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
 - [readme-ci](https://github.com/ondraulehla/readme-ci)
+- [relnote](https://github.com/loki-inu/relnote) - Generate GitHub-flavored release notes from a git range (stdlib Python CLI + Action; conventional-commit grouping).
 - [Pushpen](https://github.com/David19876543210/pushpen-action) - Generates and updates README, changelog, API docs, and onboarding guides from a repository's actual code and commit history on every push, opened as a pull request.
 - [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
 - [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
@@ -136,44 +147,57 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Hosting
 
+- [deed.page](https://deed.page/) - Static hosting that publishes a built docs folder or HTML page to an HTTPS URL with one HTTP PUT or a remote MCP server, with a free plan.
 - [Doctave](https://www.doctave.com/)
 - [Ferndesk](https://ferndesk.com/)
 - [GitBook](https://www.gitbook.com/)
 - [Jamdesk](https://www.jamdesk.com/)
 - [Mintlify](https://www.mintlify.com/)
 - [Netlify](https://www.netlify.com/)
+- [Papervine](https://www.papervine.io/)
 - [Read The Docs](https://readthedocs.org/)
 
 ## Knowledge Base
 
+- [Carbon Forge](https://carbonforge.dev/) - Hosted record where pages, files and code live together and land in one changeset, so a code change and the page that documents it are written together or not at all; people and agents edit it through the same tools, including over MCP.
 - [Document360](https://document360.com/)
 - [Falconer](https://falconer.com/mcp)
+- [Folio Wiki](https://github.com/evergreen-it-dev/folio) - Open-source, self-hosted team wiki that stores every page as a Markdown file in a Git repository, with a built-in MCP server.
 - [Logseq](https://logseq.com/)
 - [Obsidian](https://obsidian.md)
+- [Oxynote](https://github.com/oxynote/oxynote) - Self-hosted team wiki with live Prometheus and SQL charts inside pages and pull-request-style reviews.
+- [reqlan](https://github.com/littletuna4/reqlan) - Semantic requirements as code: a graph of named ideas your agents can search, link, reuse, test and maintain.
 - [Specsight](https://specsight.app)
 - [wiki](https://github.com/plasma-ai/wiki) - Indexed Markdown knowledge bases for agents, with deterministic indexes, scoped retrieval, linting, and merge handling for parallel edits.
 
 ## Mockup
 
 - [Animockup](https://github.com/alyssaxuu/animockup)
+- [Drawbly](https://drawbly.com/) - Browser canvas for rough technical diagrams with editable text and credited PNG export.
 - [Excalidraw](https://excalidraw.com/)
 - [Markmap](https://markmap.js.org/)
 
 ## Quality Assurance
 
+- [ai-slop-linter](https://github.com/Bubblegunn/ai-slop-linter) - Flags AI-sounding phrases and em dashes in Markdown docs, commit messages and pull request descriptions, with a reason for each; runs in CI and calls no model.
 - [Alex](https://github.com/get-alex/alex)
 - [brok](https://github.com/smallhadroncollider/brok)
 - [Capitalize My Title](https://capitalizemytitle.com/)
 - [case-police](https://github.com/antfu/case-police)
+- [Corpus Keeper](https://github.com/forgedculture/corpus-keeper) - Free Python CLI that checks Markdown folders for broken relative links, index drift, and stale markers while scaffolding document governance files.
 - [Doc Detective](https://github.com/doc-detective/doc-detective)
+- [docproof](https://github.com/melbinjp/docproof) - Checks whether what documentation claims is still true of the repository: file paths, CLI flags, versions, and documented imports, each resolved against the code and its git history.
+- [Docs Link Integrity Checker](https://edilec.com/open-source/docs-link-integrity-checker/) - Checks local Markdown and HTML links, anchors, and paths offline; external URLs require an imported status report.
 - [EkLine](https://ekline.io)
 - [Harper](https://writewithharper.com/)
 - [HtmlTest](https://github.com/wjdp/htmltest)
 - [InnovationEngine](https://github.com/Azure/InnovationEngine)
 - [Linkspector](https://github.com/UmbrellaDocs/linkspector)
 - [lychee](https://github.com/lycheeverse/lychee)
+- [mdoctest](https://github.com/ingrid-owusu/mdoctest) - Runs the code blocks and console sessions in Markdown docs and checks their output still matches, with `--fix` to update them; language-agnostic and dependency-free.
 - [Readable](https://www.webfx.com/tools/read-able/)
 - [Rules example](https://github.com/cisco-open/inclusive-language/blob/main/cisco-rules.yaml)
+- [seiso](https://github.com/scarletkc/seiso) - Markdown convention and linter for project docs written by AI and read by humans and agents. Checks document kinds, local links, facts restated across pages, values that go stale such as versions, and conversation remnants left in the page.
 - [Swimm](https://swimm.io/)
 - [Vale](https://vale.sh/)
 - [Woke](https://getwoke.tech/)
@@ -205,6 +229,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Technical Writing: A Comprehensive Guide](https://www.adoc-studio.app/blog/technical-writing-guide)
 - [Technical Documentation in Software Development](https://www.altexsoft.com/blog/business/technical-documentation-in-software-development-types-best-practices-and-tools/)
 - [Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm)
+- [Trigpoint: Diátaxis](https://trigpoint.pub/collections/pkm/diataxis-procida) - Four types of documentation: tutorial, how-to, reference and explanation, separated by reader needs.
 - [User Guide Template](https://clickhelp.com/clickhelp-technical-writing-blog/user-guide-template/)
 - [What nobody tells you about documentation](https://www.divio.com/blog/documentation/)
 - [Where to start with analytics for documentation](https://thisisimportant.net/posts/documentation-site-analytics-start/)
@@ -221,13 +246,17 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Kap](https://github.com/wulkano/kap) (macOS)
 - [Peek](https://github.com/phw/peek)
 - [Screenity](https://github.com/alyssaxuu/screenity)
+- [Shotnix](https://shotnix.com/) (macOS)
 - [Terminalizer](https://github.com/faressoft/terminalizer)
 
 ## Screenshot
 
+- [Allscreenshots](https://allscreenshots.com/) - Hosted screenshot API for capturing web pages and docs as PNG, JPEG, WebP or PDF, with a free plan and a MkDocs plugin for generating OpenGraph images.
 - [Carbon](https://carbon.now.sh)
+- [CurlShot](https://curlshot.com/) - Hosted screenshot API that captures web pages and docs as PNG, JPEG, WebP or PDF from a URL, with a free plan.
 - [Flameshot](https://github.com/lupoDharkael/flameshot)
 - [Heroshot](https://github.com/omachala/heroshot)
+- [ItsPaint](https://github.com/joshlin2201/itspaint) (macOS)
 - [shot-scraper](https://github.com/simonw/shot-scraper)
 - [Shottr](https://shottr.cc/)
 
@@ -247,17 +276,20 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Docsify](https://docsify.js.org/)
 - [Docsite](https://github.com/sourcegraph/docsite)
 - [Dokz](https://dokz.vercel.app/)
+- [eziwiki](https://eziwiki.vercel.app/) - Markdown wiki and documentation site generator built on Next.js, with wikilinks, backlinks, and a graph view.
 - [Fumadocs](https://fumadocs.vercel.app/)
 - [Gridsome](https://gridsome.org)
 - [Log4brains](https://github.com/thomvaill/log4brains)
 - [mdBook](https://github.com/rust-lang/mdBook)
 - [MkDocs](https://www.mkdocs.org/)
 - [Nextra](https://github.com/shuding/nextra)
+- [Nibleaf](https://github.com/lord007tn/nibleaf) - Open-source platform for editing, publishing, searching, and self-hosting multilingual Markdown and MDX documentation.
 - [Portray](https://github.com/timothycrosley/portray)
 - [Quarto](https://quarto.org/)
 - [Quartz](https://github.com/jackyzha0/quartz)
 - [RcPress](https://github.com/YvesCoding/rcpress)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
+- [Sourcey](https://sourcey.com/oss) - Open-source static documentation generator that builds native LLM-ready context directly from specs and markdown.
 - [VitePress](https://vitepress.dev/)
 - [Vocs](https://vocs.dev/)
 - [VuePress](https://github.com/wevm/vocs/)
@@ -351,6 +383,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Bluehawk](https://mongodb-university.github.io/Bluehawk/)
 - [Browser SOP Builder](https://github.com/max-agent-hub/browser-sop-builder) - Local-first browser tool for drafting controlled procedures and exporting Markdown without accounts or server storage.
 - [Calculate max length for UI elements](https://max-char-length-calculator.netlify.app/)
+- [Canopy](https://canopy.8starlabs.com) - Architecture mapping and context exports for developer documentation.
 - [Code Hike](https://codehike.org/)
 - [CodeAlmanac](https://github.com/AlmanacCode/codealmanac) - Self-updating repository wiki for AI coding agents that tracks project conversations and context locally in the repo.
 - [CSS+JS Code snippets for enhancing online documentation](https://www.indoition.com/en/products/code-snippets-for-online-documentation.htm)
@@ -362,8 +395,11 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Excel to Markdown](https://exceltomd.com/excel-to-markdown) - Browser-local converter for turning XLSX, XLS, and CSV data into Markdown tables for READMEs and documentation.
 - [fixred](https://github.com/rhysd/fixred)
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
+- [GitDiagram](https://gitdiagram.com) - Generates an interactive architecture diagram and written explanation of a GitHub repository, with Mermaid and PNG export for docs and READMEs.
 - [HTML to Markdown Converter](https://alltoolsverse.com/tools/html-to-markdown/) - Browser-local converter for turning HTML headings, lists, links, blockquotes, and inline formatting into Markdown.
 - [Loom](https://www.loom.com/)
+- [Mermaid Diagram Editor for Confluence](https://marketplace.atlassian.com/apps/1154212410/mermaid-diagram-editor-for-confluence) - Confluence Cloud app for editing Mermaid diagrams by clicking on the diagram or in code, with both kept in sync. Free for sites with up to 10 users.
+- [Mermaid Editor for Confluence](https://marketplace.atlassian.com/apps/4235692896/mermaid-editor-for-confluence) - Free Confluence Cloud app for writing Mermaid diagrams with a live preview as you type. Runs on Atlassian Forge, so diagram data stays in Atlassian.
 - [Mermaid Online](https://mermaidonline.org/) - Browser-based Mermaid diagram converter for previewing diagrams and exporting PNG, SVG, JPG, WebP, and PDF assets for docs, READMEs, blogs, and slides.
 - [Markdoc](https://markdoc.io/)
 - [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
@@ -392,6 +428,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 
 ## Viewer
 
+- [Glim](https://github.com/NeoPanic/Glim) - Mac Markdown viewer with Mermaid diagrams, LaTeX formulas and basic source editing.
 - [Glow - Render Markdown on the CLI](https://github.com/charmbracelet/glow)
 - [MacMD Viewer](https://macmdviewer.com) - Native macOS Markdown viewer with Mermaid diagram support, QuickLook extension, and syntax highlighting for 190+ languages.
 - [mdv](https://github.com/xrfang/mdv/)
