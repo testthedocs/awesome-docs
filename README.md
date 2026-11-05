@@ -265,6 +265,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [11ty](https://www.11ty.dev/)
 - [Antora](https://antora.org/)
 - [adoc Studio](https://www.adoc-studio.app)
+- [Ascribe](https://ascribed-dev.com/) - Docs-as-code toolchain that checks structured Markdown as you write and builds it into a website, plain Markdown, and JSON.
 - [Bengal](https://github.com/lbliii/bengal)
 - [Astro](https://astro.build/)
   - [Starlight](https://starlight.astro.build/)
