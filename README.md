@@ -396,6 +396,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [fixred](https://github.com/rhysd/fixred)
 - [gatsby-theme-adr](https://github.com/Lullabot/gatsby-theme-adr)
 - [GitDiagram](https://gitdiagram.com) - Generates an interactive architecture diagram and written explanation of a GitHub repository, with Mermaid and PNG export for docs and READMEs.
+- [HTML to Markdown Converter](https://alltoolsverse.com/tools/html-to-markdown/) - Browser-local converter for turning HTML headings, lists, links, blockquotes, and inline formatting into Markdown.
 - [Loom](https://www.loom.com/)
 - [Mermaid Diagram Editor for Confluence](https://marketplace.atlassian.com/apps/1154212410/mermaid-diagram-editor-for-confluence) - Confluence Cloud app for editing Mermaid diagrams by clicking on the diagram or in code, with both kept in sync. Free for sites with up to 10 users.
 - [Mermaid Editor for Confluence](https://marketplace.atlassian.com/apps/4235692896/mermaid-editor-for-confluence) - Free Confluence Cloud app for writing Mermaid diagrams with a live preview as you type. Runs on Atlassian Forge, so diagram data stays in Atlassian.
