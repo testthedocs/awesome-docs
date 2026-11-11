@@ -290,6 +290,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [RcPress](https://github.com/YvesCoding/rcpress)
 - [Sphinx](https://www.sphinx-doc.org/en/master/)
 - [Sourcey](https://sourcey.com/oss) - Open-source static documentation generator that builds native LLM-ready context directly from specs and markdown.
+- [Thally](https://github.com/thallylabs/thally) - MIT-licensed docs engine (Next.js, MDX) that publishes each page as HTML, Markdown and JSON, with llms.txt and an MCP endpoint.
 - [VitePress](https://vitepress.dev/)
 - [Vocs](https://vocs.dev/)
 - [VuePress](https://github.com/wevm/vocs/)
