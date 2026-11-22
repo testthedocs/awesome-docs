@@ -283,6 +283,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Log4brains](https://github.com/thomvaill/log4brains)
 - [mdBook](https://github.com/rust-lang/mdBook)
 - [MkDocs](https://www.mkdocs.org/)
+- [MkDocs NG](https://mkdocs-ng.org/) - Maintained fork of MkDocs 1.x that keeps existing plugins and themes working.
 - [Nextra](https://github.com/shuding/nextra)
 - [Nibleaf](https://github.com/lord007tn/nibleaf) - Open-source platform for editing, publishing, searching, and self-hosting multilingual Markdown and MDX documentation.
 - [Portray](https://github.com/timothycrosley/portray)
