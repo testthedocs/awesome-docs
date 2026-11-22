@@ -407,6 +407,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Mermaid Online](https://mermaidonline.org/) - Browser-based Mermaid diagram converter for previewing diagrams and exporting PNG, SVG, JPG, WebP, and PDF assets for docs, READMEs, blogs, and slides.
 - [Markdoc](https://markdoc.io/)
 - [markdown-doctest](https://github.com/Widdershin/markdown-doctest)
+- [MD Convert: Paste to Markdown](https://mdconvert.net/paste-to-markdown) - Converts rich text copied from web pages into Markdown, retaining lists, links, and simple tables.
 - [Merge Docs Pro](https://www.mergedocs.pro)
 - [Penpot](https://penpot.app/)
 - [PitchDocs](https://github.com/littlebearapps/pitchdocs) - AI-powered documentation generator that scans codebases and produces marketing-ready READMEs, changelogs, and AI context files with quality scoring.
