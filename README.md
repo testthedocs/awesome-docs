@@ -67,6 +67,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Bruno](https://www.usebruno.com/)
 - [Bump.sh](https://bump.sh/)
 - [Cortex](https://github.com/cortex-docs/cortex) - Generates interactive or static API documentation, typed SDKs, and MCP servers from several API specification formats.
+- [DocsAlot](https://docsalot.dev) - API documentation platform with OpenAPI support, interactive API playgrounds, and SDK examples.
 - [Document360 API Documentation](https://document360.com/solutions/api-documentation/)
 - [Hoppscotch](https://github.com/hoppscotch/hoppscotch)
 - [json-schema-sensitivity-checker](https://github.com/cbetta/json-schema-sensitivity-checker)
@@ -148,6 +149,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Hosting
 
 - [deed.page](https://deed.page/) - Static hosting that publishes a built docs folder or HTML page to an HTTPS URL with one HTTP PUT or a remote MCP server, with a free plan.
+- [DocsAlot](https://docsalot.dev) - Hosted docs-as-code platform with custom domains, GitHub integration, and hosted MCP servers.
 - [Doctave](https://www.doctave.com/)
 - [Ferndesk](https://ferndesk.com/)
 - [GitBook](https://www.gitbook.com/)
@@ -160,6 +162,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 ## Knowledge Base
 
 - [Carbon Forge](https://carbonforge.dev/) - Hosted record where pages, files and code live together and land in one changeset, so a code change and the page that documents it are written together or not at all; people and agents edit it through the same tools, including over MCP.
+- [DocsAlot](https://docsalot.dev) - AI-native knowledge base platform with semantic search, AI assistants, and hosted MCP integration.
 - [Document360](https://document360.com/)
 - [Falconer](https://falconer.com/mcp)
 - [Folio Wiki](https://github.com/evergreen-it-dev/folio) - Open-source, self-hosted team wiki that stores every page as a Markdown file in a Git repository, with a built-in MCP server.
