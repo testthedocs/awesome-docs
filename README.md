@@ -138,6 +138,7 @@ Thanks to all [contributors](https://github.com/testthedocs/awesome-docs/graphs/
 - [Lighthouse CI Action](https://github.com/treosh/lighthouse-ci-action)
 - [readme-ci](https://github.com/ondraulehla/readme-ci)
 - [relnote](https://github.com/loki-inu/relnote) - Generate GitHub-flavored release notes from a git range (stdlib Python CLI + Action; conventional-commit grouping).
+- [RepoLens](https://github.com/CHAPIBUNNY/repolens) - Scans a repository and regenerates architecture docs on every push, publishing to Markdown, GitHub Wiki, Notion, Confluence, or Obsidian; also ships as a CLI and MCP server.
 - [Pushpen](https://github.com/David19876543210/pushpen-action) - Generates and updates README, changelog, API docs, and onboarding guides from a repository's actual code and commit history on every push, opened as a pull request.
 - [Run misspell with reviewdog](https://github.com/marketplace/actions/run-misspell-with-reviewdog)
 - [Spellcheck Action](https://github.com/marketplace/actions/github-spellcheck-action)
